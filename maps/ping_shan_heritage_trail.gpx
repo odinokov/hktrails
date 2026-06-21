@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Ping Shan Heritage Trail</name>
+    <time>2026-06-14T12:13:45Z</time>
+  </metadata>
+  <trk>
+    <name>Ping Shan Heritage Trail</name>
+    <cmt>屏山文物徑</cmt>
+    <trkseg>
+      <trkpt lat="22.445258" lon="114.010321">
+        <ele>40.0</ele>
+      </trkpt>
+      <trkpt lat="22.445019" lon="114.010178">
+        <ele>38.2</ele>
+      </trkpt>
+      <trkpt lat="22.444839" lon="114.00985">
+        <ele>34.0</ele>
+      </trkpt>
+      <trkpt lat="22.444386" lon="114.009755">
+        <ele>25.0</ele>
+      </trkpt>
+      <trkpt lat="22.444114" lon="114.00994">
+        <ele>19.5</ele>
+      </trkpt>
+      <trkpt lat="22.443802" lon="114.010416">
+        <ele>15.0</ele>
+      </trkpt>
+      <trkpt lat="22.443622" lon="114.010565">
+        <ele>14.3</ele>
+      </trkpt>
+      <trkpt lat="22.443669" lon="114.009672">
+        <ele>13.3</ele>
+      </trkpt>
+      <trkpt lat="22.443814" lon="114.009259">
+        <ele>12.1</ele>
+      </trkpt>
+      <trkpt lat="22.443685" lon="114.008543">
+        <ele>8.3</ele>
+      </trkpt>
+      <trkpt lat="22.443812" lon="114.007809">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.444048" lon="114.007848">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.444114" lon="114.00802">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.444048" lon="114.007848">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.443812" lon="114.007809">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.443935" lon="114.007197">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.443408" lon="114.007133">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.444449" lon="114.00729">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.445162" lon="114.007683">
+        <ele>6.4</ele>
+      </trkpt>
+      <trkpt lat="22.445606" lon="114.007689">
+        <ele>6.1</ele>
+      </trkpt>
+      <trkpt lat="22.445984" lon="114.007865">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.446307" lon="114.007769">
+        <ele>9.4</ele>
+      </trkpt>
+      <trkpt lat="22.445984" lon="114.007865">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.445855" lon="114.007799">
+        <ele>5.4</ele>
+      </trkpt>
+      <trkpt lat="22.446039" lon="114.007075">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.4464" lon="114.006739">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.446501" lon="114.006265">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.446398" lon="114.006147">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.4464" lon="114.005939">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.447114" lon="114.005645">
+        <ele>4.6</ele>
+      </trkpt>
+      <trkpt lat="22.447388" lon="114.00567">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.448069" lon="114.005541">
+        <ele>5.3</ele>
+      </trkpt>
+      <trkpt lat="22.448548" lon="114.00567">
+        <ele>8.9</ele>
+      </trkpt>
+      <trkpt lat="22.448775" lon="114.005945">
+        <ele>5.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

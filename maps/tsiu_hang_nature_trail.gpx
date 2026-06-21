@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Tsiu Hang Nature Trail</name>
+    <time>2026-06-14T12:13:51Z</time>
+  </metadata>
+  <trk>
+    <name>Tsiu Hang Nature Trail</name>
+    <cmt>蕉坑自然教育徑</cmt>
+    <trkseg>
+      <trkpt lat="22.374507" lon="114.265897">
+        <ele>56.0</ele>
+      </trkpt>
+      <trkpt lat="22.374354" lon="114.266277">
+        <ele>65.5</ele>
+      </trkpt>
+      <trkpt lat="22.373601" lon="114.266537">
+        <ele>72.4</ele>
+      </trkpt>
+      <trkpt lat="22.373516" lon="114.266668">
+        <ele>75.7</ele>
+      </trkpt>
+      <trkpt lat="22.372812" lon="114.266845">
+        <ele>65.9</ele>
+      </trkpt>
+      <trkpt lat="22.372496" lon="114.266566">
+        <ele>67.3</ele>
+      </trkpt>
+      <trkpt lat="22.372486" lon="114.266461">
+        <ele>64.9</ele>
+      </trkpt>
+      <trkpt lat="22.372934" lon="114.265867">
+        <ele>51.6</ele>
+      </trkpt>
+      <trkpt lat="22.372994" lon="114.265644">
+        <ele>51.2</ele>
+      </trkpt>
+      <trkpt lat="22.373257" lon="114.265419">
+        <ele>48.9</ele>
+      </trkpt>
+      <trkpt lat="22.373318" lon="114.26527">
+        <ele>47.4</ele>
+      </trkpt>
+      <trkpt lat="22.373652" lon="114.265725">
+        <ele>58.1</ele>
+      </trkpt>
+      <trkpt lat="22.374044" lon="114.265917">
+        <ele>53.3</ele>
+      </trkpt>
+      <trkpt lat="22.374346" lon="114.265847">
+        <ele>55.8</ele>
+      </trkpt>
+      <trkpt lat="22.374529" lon="114.265634">
+        <ele>52.2</ele>
+      </trkpt>
+      <trkpt lat="22.374781" lon="114.265523">
+        <ele>48.3</ele>
+      </trkpt>
+      <trkpt lat="22.375135" lon="114.265541">
+        <ele>55.9</ele>
+      </trkpt>
+      <trkpt lat="22.375283" lon="114.265048">
+        <ele>50.8</ele>
+      </trkpt>
+      <trkpt lat="22.375027" lon="114.264811">
+        <ele>31.8</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

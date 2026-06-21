@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Lai Chi Wo Nature Trail</name>
+    <time>2026-06-14T12:13:38Z</time>
+  </metadata>
+  <trk>
+    <name>Lai Chi Wo Nature Trail</name>
+    <cmt>荔枝窩自然步道</cmt>
+    <trkseg>
+      <trkpt lat="22.525675" lon="114.263933">
+        <ele>4.8</ele>
+      </trkpt>
+      <trkpt lat="22.525298" lon="114.263435">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.524705" lon="114.263244">
+        <ele>4.0</ele>
+      </trkpt>
+      <trkpt lat="22.524643" lon="114.263065">
+        <ele>6.2</ele>
+      </trkpt>
+      <trkpt lat="22.524829" lon="114.263034">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.524938" lon="114.262688">
+        <ele>4.9</ele>
+      </trkpt>
+      <trkpt lat="22.525271" lon="114.262216">
+        <ele>4.6</ele>
+      </trkpt>
+      <trkpt lat="22.525306" lon="114.261961">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.525457" lon="114.26181">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.525454" lon="114.261661">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.525662" lon="114.261409">
+        <ele>4.0</ele>
+      </trkpt>
+      <trkpt lat="22.525766" lon="114.261339">
+        <ele>4.0</ele>
+      </trkpt>
+      <trkpt lat="22.525996" lon="114.261465">
+        <ele>3.2</ele>
+      </trkpt>
+      <trkpt lat="22.52588" lon="114.261635">
+        <ele>4.0</ele>
+      </trkpt>
+      <trkpt lat="22.52591" lon="114.261762">
+        <ele>4.0</ele>
+      </trkpt>
+      <trkpt lat="22.526397" lon="114.261592">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.526733" lon="114.260819">
+        <ele>4.7</ele>
+      </trkpt>
+      <trkpt lat="22.526887" lon="114.260871">
+        <ele>3.5</ele>
+      </trkpt>
+      <trkpt lat="22.527137" lon="114.260601">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.526834" lon="114.260364">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.526993" lon="114.260132">
+        <ele>6.3</ele>
+      </trkpt>
+      <trkpt lat="22.527224" lon="114.259501">
+        <ele>12.3</ele>
+      </trkpt>
+      <trkpt lat="22.527316" lon="114.259121">
+        <ele>12.0</ele>
+      </trkpt>
+      <trkpt lat="22.527297" lon="114.258771">
+        <ele>26.5</ele>
+      </trkpt>
+      <trkpt lat="22.526684" lon="114.258528">
+        <ele>23.4</ele>
+      </trkpt>
+      <trkpt lat="22.526453" lon="114.258258">
+        <ele>22.9</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

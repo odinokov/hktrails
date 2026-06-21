@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>High Island</name>
+    <time>2026-06-14T12:13:37Z</time>
+  </metadata>
+  <trk>
+    <name>High Island</name>
+    <cmt>糧船灣</cmt>
+    <trkseg>
+      <trkpt lat="22.352834" lon="114.349336">
+        <ele>4.6</ele>
+      </trkpt>
+      <trkpt lat="22.353037" lon="114.349201">
+        <ele>4.4</ele>
+      </trkpt>
+      <trkpt lat="22.353717" lon="114.349348">
+        <ele>5.6</ele>
+      </trkpt>
+      <trkpt lat="22.35416" lon="114.349663">
+        <ele>4.9</ele>
+      </trkpt>
+      <trkpt lat="22.354445" lon="114.350757">
+        <ele>3.3</ele>
+      </trkpt>
+      <trkpt lat="22.354673" lon="114.350786">
+        <ele>6.1</ele>
+      </trkpt>
+      <trkpt lat="22.354955" lon="114.351189">
+        <ele>5.8</ele>
+      </trkpt>
+      <trkpt lat="22.355003" lon="114.351774">
+        <ele>8.8</ele>
+      </trkpt>
+      <trkpt lat="22.3545" lon="114.351888">
+        <ele>12.0</ele>
+      </trkpt>
+      <trkpt lat="22.353498" lon="114.352313">
+        <ele>16.1</ele>
+      </trkpt>
+      <trkpt lat="22.351519" lon="114.353233">
+        <ele>21.1</ele>
+      </trkpt>
+      <trkpt lat="22.351217" lon="114.353452">
+        <ele>24.2</ele>
+      </trkpt>
+      <trkpt lat="22.350933" lon="114.353378">
+        <ele>29.7</ele>
+      </trkpt>
+      <trkpt lat="22.350639" lon="114.353506">
+        <ele>26.3</ele>
+      </trkpt>
+      <trkpt lat="22.350326" lon="114.354033">
+        <ele>7.3</ele>
+      </trkpt>
+      <trkpt lat="22.350129" lon="114.353869">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.349566" lon="114.353812">
+        <ele>6.5</ele>
+      </trkpt>
+      <trkpt lat="22.348992" lon="114.353952">
+        <ele>5.6</ele>
+      </trkpt>
+      <trkpt lat="22.348423" lon="114.354529">
+        <ele>5.2</ele>
+      </trkpt>
+      <trkpt lat="22.348289" lon="114.354879">
+        <ele>4.2</ele>
+      </trkpt>
+      <trkpt lat="22.347787" lon="114.35537">
+        <ele>5.9</ele>
+      </trkpt>
+      <trkpt lat="22.34768" lon="114.355082">
+        <ele>13.9</ele>
+      </trkpt>
+      <trkpt lat="22.34793" lon="114.353774">
+        <ele>17.4</ele>
+      </trkpt>
+      <trkpt lat="22.348082" lon="114.353352">
+        <ele>17.5</ele>
+      </trkpt>
+      <trkpt lat="22.348094" lon="114.35305">
+        <ele>13.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

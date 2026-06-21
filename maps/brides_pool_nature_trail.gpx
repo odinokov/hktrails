@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Brides Pool Nature Trail</name>
+    <time>2026-06-14T12:13:35Z</time>
+  </metadata>
+  <trk>
+    <name>Brides Pool Nature Trail</name>
+    <cmt>新娘潭自然教育徑</cmt>
+    <trkseg>
+      <trkpt lat="22.503249" lon="114.236443">
+        <ele>79.0</ele>
+      </trkpt>
+      <trkpt lat="22.503448" lon="114.236511">
+        <ele>75.2</ele>
+      </trkpt>
+      <trkpt lat="22.503493" lon="114.236716">
+        <ele>72.2</ele>
+      </trkpt>
+      <trkpt lat="22.50348" lon="114.237079">
+        <ele>76.3</ele>
+      </trkpt>
+      <trkpt lat="22.503244" lon="114.237452">
+        <ele>74.2</ele>
+      </trkpt>
+      <trkpt lat="22.503201" lon="114.238126">
+        <ele>63.0</ele>
+      </trkpt>
+      <trkpt lat="22.503608" lon="114.238645">
+        <ele>49.2</ele>
+      </trkpt>
+      <trkpt lat="22.503695" lon="114.238871">
+        <ele>44.9</ele>
+      </trkpt>
+      <trkpt lat="22.50354" lon="114.239587">
+        <ele>36.4</ele>
+      </trkpt>
+      <trkpt lat="22.503345" lon="114.239649">
+        <ele>35.5</ele>
+      </trkpt>
+      <trkpt lat="22.50311" lon="114.239073">
+        <ele>33.0</ele>
+      </trkpt>
+      <trkpt lat="22.50317" lon="114.238913">
+        <ele>35.8</ele>
+      </trkpt>
+      <trkpt lat="22.502818" lon="114.238765">
+        <ele>47.3</ele>
+      </trkpt>
+      <trkpt lat="22.502144" lon="114.238762">
+        <ele>63.8</ele>
+      </trkpt>
+      <trkpt lat="22.502255" lon="114.238356">
+        <ele>66.0</ele>
+      </trkpt>
+      <trkpt lat="22.502182" lon="114.238239">
+        <ele>66.0</ele>
+      </trkpt>
+      <trkpt lat="22.502227" lon="114.238014">
+        <ele>67.2</ele>
+      </trkpt>
+      <trkpt lat="22.502457" lon="114.237352">
+        <ele>72.8</ele>
+      </trkpt>
+      <trkpt lat="22.502743" lon="114.2369">
+        <ele>76.1</ele>
+      </trkpt>
+      <trkpt lat="22.503165" lon="114.2365">
+        <ele>79.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

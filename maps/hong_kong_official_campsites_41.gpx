@@ -1,0 +1,462 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="AFCD public campsite data" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Hong Kong Official AFCD Campsites (41)</name>
+    <desc>Waypoint collection of 41 designated campsites in Hong Kong country parks. Names verified against the AFCD campsite list; coordinates derived from the AFCD public CSV dataset.</desc>
+    <time>2026-06-20T02:22:52Z</time>
+    <link href="https://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_cam.html">
+      <text>AFCD official campsite list</text>
+    </link>
+  </metadata>
+  <wpt lat="22.49139" lon="114.16708">
+    <ele>122</ele>
+    <name>Lau Shui Heung Campsite</name>
+    <cmt>流水響營地 · Pat Sin Leng Country Park</cmt>
+    <desc>Country park: Pat Sin Leng Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_01_LauShuiHeung.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.25548" lon="114.29593">
+    <ele>10</ele>
+    <name>Tung Lung Chau Campsite</name>
+    <cmt>東龍洲營地 · Tung Lung Fort Special Area</cmt>
+    <desc>Country park: Tung Lung Fort Special Area; Water: Tap; Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_21_TungLungChau.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.38553" lon="114.30775">
+    <ele>10</ele>
+    <name>Tai Mong Tsai Campsite</name>
+    <cmt>大網仔營地 · Sai Kung East Country Park</cmt>
+    <desc>Country park: Sai Kung East Country Park; Water: Tap; Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_41_TaiMongTsai1.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.48748" lon="114.24293">
+    <ele>24</ele>
+    <name>Chung Pui Campsite</name>
+    <cmt>涌背營地 · Pat Sin Leng Country Park</cmt>
+    <desc>Country park: Pat Sin Leng Country Park; Water: Tap; Tent capacity: 20-50</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_03_ChungPui.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.49841" lon="114.17778">
+    <ele>61</ele>
+    <name>Hok Tau Campsite</name>
+    <cmt>鶴藪營地 · Pat Sin Leng Country Park</cmt>
+    <desc>Country park: Pat Sin Leng Country Park; Water: Tap; Tent capacity: 20-50</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_02_HokTau.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.50664" lon="114.27020">
+    <ele>10</ele>
+    <name>Sam A Chung Campsite</name>
+    <cmt>三椏涌營地 · Plover Cove Country Park</cmt>
+    <desc>Country park: Plover Cove Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_04_SamAChung.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.46162" lon="114.34213">
+    <ele>6</ele>
+    <name>Wan Tsai South Campsite</name>
+    <cmt>灣仔南營地 · Sai Kung West Country Park (Wan Tsai Extension)</cmt>
+    <desc>Country park: Sai Kung West Country Park (Wan Tsai Extension); Water: Tap; Tent capacity: More than 50</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_06_WanTsaiS.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.43446" lon="114.33623">
+    <ele>23</ele>
+    <name>Wong Shek Campsite</name>
+    <cmt>黃石營地 · Sai Kung East Country Park</cmt>
+    <desc>Country park: Sai Kung East Country Park; Water: Tap; Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_11_WongShek.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.42293" lon="114.33584">
+    <ele>161</ele>
+    <name>Pak Tam Au Campsite</name>
+    <cmt>北潭凹營地 · Sai Kung East Country Park</cmt>
+    <desc>Country park: Sai Kung East Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_12_PakTamAu.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.40200" lon="114.37152">
+    <ele>28</ele>
+    <name>Sai Wan Campsite</name>
+    <cmt>西灣營地 · Sai Kung East Country Park</cmt>
+    <desc>Country park: Sai Kung East Country Park; Water: Tap; Tent capacity: More than 50</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_13_SaiWan.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.37330" lon="114.37520">
+    <ele>4</ele>
+    <name>Long Ke Wan Campsite</name>
+    <cmt>浪茄灣營地 · Sai Kung East Country Park</cmt>
+    <desc>Country park: Sai Kung East Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_14_LongKeWan.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.44103" lon="114.32673">
+    <ele>108</ele>
+    <name>Hau Tong Kai Campsite</name>
+    <cmt>猴塘溪營地 · Sai Kung West Country Park</cmt>
+    <desc>Country park: Sai Kung West Country Park; Water: Tap; Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_09_HauTongKai.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.37811" lon="114.33194">
+    <ele>26</ele>
+    <name>Yuen Ng Fan (Nam Fung Wan) Campsite</name>
+    <cmt>元五墳營地 · Sai Kung East Country Park</cmt>
+    <desc>Country park: Sai Kung East Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_16_YuenNgFan.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.35924" lon="114.36504">
+    <ele>58</ele>
+    <name>Pak Lap Campsite</name>
+    <cmt>白腊營地 · Sai Kung East Country Park</cmt>
+    <desc>Country park: Sai Kung East Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_15_PakLap.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.38220" lon="114.32692">
+    <ele>76</ele>
+    <name>Po Kwu Wan Campsite</name>
+    <cmt>曝罟灣營地 · Sai Kung East Country Park</cmt>
+    <desc>Country park: Sai Kung East Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_17_PoKwuWan.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.46508" lon="114.33810">
+    <ele>29</ele>
+    <name>Wan Tsai West Campsite</name>
+    <cmt>灣仔西營地 · Sai Kung West Country Park (Wan Tsai Extension)</cmt>
+    <desc>Country park: Sai Kung West Country Park (Wan Tsai Extension); Water: Tap; Tent capacity: More than 50</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_07_WaiTsaiW.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.43669" lon="114.33373">
+    <ele>26</ele>
+    <name>Tai Tan Campsite</name>
+    <cmt>大灘營地 · Sai Kung West Country Park</cmt>
+    <desc>Country park: Sai Kung West Country Park; Water: Tap; Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_10_TaiTan.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.40626" lon="114.32522">
+    <ele>20</ele>
+    <name>Yee Ting Campsite</name>
+    <cmt>怡庭營地 · Sai Kung West Country Park</cmt>
+    <desc>Country park: Sai Kung West Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_18_YeeTing.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.40274" lon="114.27519">
+    <ele>148</ele>
+    <name>Shui Long Wo Campsite</name>
+    <cmt>水浪窩營地 · Ma On Shan Country Park</cmt>
+    <desc>Country park: Ma On Shan Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_19_ShuiLongWo.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.54069" lon="114.44109">
+    <ele>4</ele>
+    <name>Tung Ping Chau Campsite</name>
+    <cmt>東平洲營地 · Plover Cove (Extension) Country Park</cmt>
+    <desc>Country park: Plover Cove (Extension) Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_05_TungPingChau.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.41132" lon="114.15779">
+    <ele>396</ele>
+    <name>Lead Mine Pass Campsite</name>
+    <cmt>鉛礦坳營地 · Shing Mun Country Park</cmt>
+    <desc>Country park: Shing Mun Country Park; Water: Tap; Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_22_LeadMinePass.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.40507" lon="114.10509">
+    <ele>468</ele>
+    <name>Rotary Park Campsite</name>
+    <cmt>扶輪公園營地 · Tai Mo Shan Country Park</cmt>
+    <desc>Country park: Tai Mo Shan Country Park; Water: Tap; Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_23_Rotary.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.40681" lon="114.10323">
+    <ele>482</ele>
+    <name>Twisk Campsite</name>
+    <cmt>荃錦營地 · Tai Lam Country Park</cmt>
+    <desc>Country park: Tai Lam Country Park; Water: Tap; Tent capacity: 20-50; Advance booking required via camping.gov.hk</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_24_Twisk.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.40996" lon="114.07170">
+    <ele>108</ele>
+    <name>Ho Pui Campsite</name>
+    <cmt>河背營地 · Tai Lam Country Park</cmt>
+    <desc>Country park: Tai Lam Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_25_HoPui.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.39009" lon="114.06604">
+    <ele>227</ele>
+    <name>Tin Fu Tsai Campsite</name>
+    <cmt>田夫仔營地 · Tai Lam Country Park</cmt>
+    <desc>Country park: Tai Lam Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: 20-50</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_26_TinFuTsai.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.25328" lon="113.98620">
+    <ele>80</ele>
+    <name>Nam Shan Campsite</name>
+    <cmt>南山營地 · Lantau South Country Park</cmt>
+    <desc>Country park: Lantau South Country Park; Water: Tap; Tent capacity: More than 50</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_27_NamShan.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.25183" lon="113.99408">
+    <ele>144</ele>
+    <name>Pak Fu Tin Campsite</name>
+    <cmt>白富田營地 · Lantau South Country Park</cmt>
+    <desc>Country park: Lantau South Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_28_PakFuTin.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.23753" lon="113.98818">
+    <ele>58</ele>
+    <name>Shap Long Campsite</name>
+    <cmt>十塱營地 · Lantau South Country Park</cmt>
+    <desc>Country park: Lantau South Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_29_ShapLong.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.21206" lon="113.91518">
+    <ele>8</ele>
+    <name>Lo Kei Wan Campsite</name>
+    <cmt>籮箕灣營地 · Lantau South Country Park</cmt>
+    <desc>Country park: Lantau South Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_30_LoKeiWan.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.21313" lon="113.90331">
+    <ele>16</ele>
+    <name>Shek Lam Chau Campsite</name>
+    <cmt>石欖洲營地 · Lantau South Country Park</cmt>
+    <desc>Country park: Lantau South Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_31_ShekLamChau.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.21327" lon="113.87802">
+    <ele>6</ele>
+    <name>Tai Long Wan Campsite</name>
+    <cmt>大浪灣營地 · Lantau South Country Park</cmt>
+    <desc>Country park: Lantau South Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_32_TaiLongWan.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.20449" lon="113.86373">
+    <ele>8</ele>
+    <name>Kau Ling Chung Campsite</name>
+    <cmt>狗嶺涌營地 · Lantau South Country Park</cmt>
+    <desc>Country park: Lantau South Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_33_KauLingChung.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.23065" lon="113.86651">
+    <ele>284</ele>
+    <name>Man Cheung Po Campsite</name>
+    <cmt>萬丈布營地 · Lantau South Country Park</cmt>
+    <desc>Country park: Lantau South Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_34_ManCheungPo.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.39294" lon="114.25116">
+    <ele>381</ele>
+    <name>Ngong Ping Campsite (Ma On Shan)</name>
+    <cmt>昂平營地 · Ma On Shan Country Park</cmt>
+    <desc>Country park: Ma On Shan Country Park; Water: Flushing Toilet; Tent capacity: 20-50</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_20_NgongPing.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.20866" lon="113.84368">
+    <ele>65</ele>
+    <name>Tsin Yue Wan Campsite</name>
+    <cmt>煎魚灣營地 · Lantau South Country Park</cmt>
+    <desc>Country park: Lantau South Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_36_TsinYueWan.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.25490" lon="113.91422">
+    <ele>460</ele>
+    <name>Ngong Ping Campsite (Lantau)</name>
+    <cmt>昂坪營地 · Lantau South Country Park</cmt>
+    <desc>Country park: Lantau South Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_37_NgongPing.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.23884" lon="113.85283">
+    <ele>25</ele>
+    <name>Nga Ying Kok Campsite</name>
+    <cmt>牙鷹角營地 · Lantau North Country Park</cmt>
+    <desc>Country park: Lantau North Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_35_NgaYingKok.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.42639" lon="114.31181">
+    <ele>306</ele>
+    <name>Cheung Sheung Campsite</name>
+    <cmt>嶂上營地 · Sai Kung West Country Park</cmt>
+    <desc>Country park: Sai Kung West Country Park; Water: Stream Water (Seasonal Supply); Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_08_CheungSheung.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.40962" lon="114.37430">
+    <ele>3</ele>
+    <name>Ham Tin Wan Campsite</name>
+    <cmt>鹹田灣營地 · Sai Kung East Country Park</cmt>
+    <desc>Country park: Sai Kung East Country Park; Water: Tap; Tent capacity: More than 50</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_40_HamTinWan.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.22887" lon="113.88991">
+    <ele>84</ele>
+    <name>Shek Pik Campsite</name>
+    <cmt>石壁營地 · Lantau South Country Park</cmt>
+    <desc>Country park: Lantau South Country Park; Water: Flushing Toilet; Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_39_ShekPik.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+  <wpt lat="22.51459" lon="114.23185">
+    <ele>106</ele>
+    <name>Kong Ha Au Campsite</name>
+    <cmt>降下坳營地 · Pat Sin Leng Country Park</cmt>
+    <desc>Country park: Pat Sin Leng Country Park; Water: Flushing Toilet; Tent capacity: Less than 20</desc>
+    <link href="http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cam/cou_vis_cam_cam/cou_vis_cam_38_KongHaAu.html">
+      <text>AFCD campsite page</text>
+    </link>
+    <sym>Campground</sym>
+    <type>Campsite</type>
+  </wpt>
+</gpx>

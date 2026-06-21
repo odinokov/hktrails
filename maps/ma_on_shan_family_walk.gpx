@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Ma On Shan Family Walk</name>
+    <time>2026-06-14T12:13:39Z</time>
+  </metadata>
+  <trk>
+    <name>Ma On Shan Family Walk</name>
+    <cmt>馬鞍山家樂徑</cmt>
+    <trkseg>
+      <trkpt lat="22.408222" lon="114.237745">
+        <ele>238.3</ele>
+      </trkpt>
+      <trkpt lat="22.408176" lon="114.238043">
+        <ele>247.4</ele>
+      </trkpt>
+      <trkpt lat="22.408359" lon="114.238181">
+        <ele>253.3</ele>
+      </trkpt>
+      <trkpt lat="22.408649" lon="114.238247">
+        <ele>257.9</ele>
+      </trkpt>
+      <trkpt lat="22.408854" lon="114.23813">
+        <ele>255.0</ele>
+      </trkpt>
+      <trkpt lat="22.409281" lon="114.238317">
+        <ele>266.7</ele>
+      </trkpt>
+      <trkpt lat="22.409403" lon="114.238241">
+        <ele>268.9</ele>
+      </trkpt>
+      <trkpt lat="22.409873" lon="114.238214">
+        <ele>279.3</ele>
+      </trkpt>
+      <trkpt lat="22.41015" lon="114.237842">
+        <ele>283.0</ele>
+      </trkpt>
+      <trkpt lat="22.41019" lon="114.237707">
+        <ele>283.8</ele>
+      </trkpt>
+      <trkpt lat="22.410107" lon="114.237563">
+        <ele>279.3</ele>
+      </trkpt>
+      <trkpt lat="22.410096" lon="114.23717">
+        <ele>272.3</ele>
+      </trkpt>
+      <trkpt lat="22.409992" lon="114.237003">
+        <ele>268.6</ele>
+      </trkpt>
+      <trkpt lat="22.409642" lon="114.236779">
+        <ele>257.1</ele>
+      </trkpt>
+      <trkpt lat="22.409347" lon="114.236804">
+        <ele>251.1</ele>
+      </trkpt>
+      <trkpt lat="22.409177" lon="114.236726">
+        <ele>236.3</ele>
+      </trkpt>
+      <trkpt lat="22.408972" lon="114.236602">
+        <ele>235.9</ele>
+      </trkpt>
+      <trkpt lat="22.408899" lon="114.236434">
+        <ele>235.1</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

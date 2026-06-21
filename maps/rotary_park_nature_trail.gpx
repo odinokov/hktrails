@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Rotary Park Nature Trail</name>
+    <time>2026-06-14T12:13:46Z</time>
+  </metadata>
+  <trk>
+    <name>Rotary Park Nature Trail</name>
+    <cmt>扶輪公園自然教育徑</cmt>
+    <trkseg>
+      <trkpt lat="22.40406" lon="114.106904">
+        <ele>462.2</ele>
+      </trkpt>
+      <trkpt lat="22.403947" lon="114.107142">
+        <ele>462.7</ele>
+      </trkpt>
+      <trkpt lat="22.403414" lon="114.107523">
+        <ele>466.1</ele>
+      </trkpt>
+      <trkpt lat="22.403286" lon="114.107843">
+        <ele>468.0</ele>
+      </trkpt>
+      <trkpt lat="22.403215" lon="114.107912">
+        <ele>468.2</ele>
+      </trkpt>
+      <trkpt lat="22.402858" lon="114.107895">
+        <ele>466.1</ele>
+      </trkpt>
+      <trkpt lat="22.402714" lon="114.108229">
+        <ele>469.3</ele>
+      </trkpt>
+      <trkpt lat="22.40191" lon="114.108995">
+        <ele>439.1</ele>
+      </trkpt>
+      <trkpt lat="22.401146" lon="114.1092">
+        <ele>413.6</ele>
+      </trkpt>
+      <trkpt lat="22.400912" lon="114.109352">
+        <ele>405.9</ele>
+      </trkpt>
+      <trkpt lat="22.400227" lon="114.109192">
+        <ele>395.9</ele>
+      </trkpt>
+      <trkpt lat="22.39973" lon="114.109374">
+        <ele>389.5</ele>
+      </trkpt>
+      <trkpt lat="22.399281" lon="114.109412">
+        <ele>384.8</ele>
+      </trkpt>
+      <trkpt lat="22.398656" lon="114.109815">
+        <ele>365.0</ele>
+      </trkpt>
+      <trkpt lat="22.398328" lon="114.109777">
+        <ele>350.6</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

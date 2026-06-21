@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Wan Chai Heritage Trail Architecture</name>
+    <time>2026-06-14T12:13:51Z</time>
+  </metadata>
+  <trk>
+    <name>Wan Chai Heritage Trail Architecture</name>
+    <cmt>灣仔歷史文物徑 - 建築主題文物徑</cmt>
+    <trkseg>
+      <trkpt lat="22.277511" lon="114.176733">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.27706" lon="114.176953">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.27687" lon="114.176376">
+        <ele>5.3</ele>
+      </trkpt>
+      <trkpt lat="22.276784" lon="114.176484">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.276563" lon="114.176507">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.276248" lon="114.176673">
+        <ele>8.9</ele>
+      </trkpt>
+      <trkpt lat="22.275099" lon="114.176843">
+        <ele>19.0</ele>
+      </trkpt>
+      <trkpt lat="22.274863" lon="114.175825">
+        <ele>18.0</ele>
+      </trkpt>
+      <trkpt lat="22.274428" lon="114.175147">
+        <ele>15.0</ele>
+      </trkpt>
+      <trkpt lat="22.274415" lon="114.174589">
+        <ele>12.0</ele>
+      </trkpt>
+      <trkpt lat="22.273834" lon="114.174588">
+        <ele>13.0</ele>
+      </trkpt>
+      <trkpt lat="22.27363" lon="114.174521">
+        <ele>13.0</ele>
+      </trkpt>
+      <trkpt lat="22.273855" lon="114.173969">
+        <ele>11.9</ele>
+      </trkpt>
+      <trkpt lat="22.274016" lon="114.174043">
+        <ele>10.5</ele>
+      </trkpt>
+      <trkpt lat="22.27441" lon="114.173912">
+        <ele>9.0</ele>
+      </trkpt>
+      <trkpt lat="22.274455" lon="114.173312">
+        <ele>8.0</ele>
+      </trkpt>
+      <trkpt lat="22.274632" lon="114.172611">
+        <ele>9.0</ele>
+      </trkpt>
+      <trkpt lat="22.27545" lon="114.171057">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.276373" lon="114.171611">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.276524" lon="114.17114">
+        <ele>6.2</ele>
+      </trkpt>
+      <trkpt lat="22.275713" lon="114.170632">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.276432" lon="114.169613">
+        <ele>17.1</ele>
+      </trkpt>
+      <trkpt lat="22.275796" lon="114.169115">
+        <ele>20.1</ele>
+      </trkpt>
+      <trkpt lat="22.275917" lon="114.168676">
+        <ele>17.4</ele>
+      </trkpt>
+      <trkpt lat="22.27634" lon="114.167989">
+        <ele>26.5</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

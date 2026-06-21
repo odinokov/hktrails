@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Ap Chau</name>
+    <time>2026-06-14T12:13:35Z</time>
+  </metadata>
+  <trk>
+    <name>Ap Chau</name>
+    <cmt>鴨洲</cmt>
+    <trkseg>
+      <trkpt lat="22.552799" lon="114.268267">
+        <ele>2.0</ele>
+      </trkpt>
+      <trkpt lat="22.553101" lon="114.26823">
+        <ele>2.9</ele>
+      </trkpt>
+      <trkpt lat="22.553322" lon="114.267932">
+        <ele>1.8</ele>
+      </trkpt>
+      <trkpt lat="22.553101" lon="114.26823">
+        <ele>2.9</ele>
+      </trkpt>
+      <trkpt lat="22.552799" lon="114.268267">
+        <ele>2.0</ele>
+      </trkpt>
+      <trkpt lat="22.551894" lon="114.268602">
+        <ele>2.0</ele>
+      </trkpt>
+      <trkpt lat="22.551434" lon="114.268906">
+        <ele>3.8</ele>
+      </trkpt>
+      <trkpt lat="22.551338" lon="114.269144">
+        <ele>3.4</ele>
+      </trkpt>
+      <trkpt lat="22.551333" lon="114.269222">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.551426" lon="114.26926">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.551288" lon="114.26979">
+        <ele>4.0</ele>
+      </trkpt>
+      <trkpt lat="22.551667" lon="114.269933">
+        <ele>9.0</ele>
+      </trkpt>
+      <trkpt lat="22.551113" lon="114.270516">
+        <ele>22.1</ele>
+      </trkpt>
+      <trkpt lat="22.550828" lon="114.270696">
+        <ele>26.3</ele>
+      </trkpt>
+      <trkpt lat="22.5507" lon="114.2707">
+        <ele>26.5</ele>
+      </trkpt>
+      <trkpt lat="22.550828" lon="114.270696">
+        <ele>26.3</ele>
+      </trkpt>
+      <trkpt lat="22.551113" lon="114.270516">
+        <ele>22.1</ele>
+      </trkpt>
+      <trkpt lat="22.551667" lon="114.269933">
+        <ele>9.0</ele>
+      </trkpt>
+      <trkpt lat="22.551288" lon="114.26979">
+        <ele>4.0</ele>
+      </trkpt>
+      <trkpt lat="22.551157" lon="114.270174">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.550785" lon="114.270313">
+        <ele>2.0</ele>
+      </trkpt>
+      <trkpt lat="22.550406" lon="114.270181">
+        <ele>2.3</ele>
+      </trkpt>
+      <trkpt lat="22.550411" lon="114.270066">
+        <ele>1.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

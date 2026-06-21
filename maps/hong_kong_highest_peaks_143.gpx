@@ -1,0 +1,1064 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="OpenAI — compiled from Wikipedia ranking and cross-matched summit coordinates" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Highest peaks of Hong Kong — 143</name>
+    <desc>143 ranked mountain/peak waypoints. Elevation values follow the cited Wikipedia table.</desc>
+    <link href="https://en.wikipedia.org/wiki/List_of_mountains,_peaks_and_hills_in_Hong_Kong">
+      <text>Wikipedia: List of mountains, peaks and hills in Hong Kong</text>
+    </link>
+  </metadata>
+  <wpt lat="22.410117" lon="114.124595">
+    <ele>957</ele>
+    <name>#001 · Tai Mo Shan · 957 m</name>
+    <cmt>大帽山 · Wikipedia rank 1</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.249297" lon="113.919939">
+    <ele>934</ele>
+    <name>#002 · Lantau Peak · 934 m</name>
+    <cmt>鳳凰山 · Wikipedia rank 2</cmt>
+    <desc>alternate name: Fung Wong Shan</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.257326" lon="113.952727">
+    <ele>869</ele>
+    <name>#003 · Sunset Peak · 869 m</name>
+    <cmt>大東山 · Wikipedia rank 3</cmt>
+    <desc>alternate name: Tai Tung Shan</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.417495" lon="114.136755">
+    <ele>785</ele>
+    <name>#004 · Sze Fong Shan · 785 m</name>
+    <cmt>四方山 · Wikipedia rank 4</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.403924" lon="114.120902">
+    <ele>779</ele>
+    <name>#005 · Miu Ko Toi · 779 m</name>
+    <cmt>妙高台 · Wikipedia rank 5</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.402508" lon="114.130031">
+    <ele>767</ele>
+    <name>#006 · Wo Yeung Shan · 767 m</name>
+    <cmt>禾秧山 · Wikipedia rank 6</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.266035" lon="113.970649">
+    <ele>766</ele>
+    <name>#007 · Lin Fa Shan · 766 m</name>
+    <cmt>蓮花山 · Wikipedia rank 7</cmt>
+    <desc>alternate name: Lantau</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.263257" lon="113.911129">
+    <ele>754</ele>
+    <name>#008 · Nei Lak Shan · 754 m</name>
+    <cmt>彌勒山 · Wikipedia rank 8</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.258699" lon="113.963965">
+    <ele>749</ele>
+    <name>#009 · Yi Tung Shan · 749 m</name>
+    <cmt>二東山 · Wikipedia rank 9</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.409060" lon="114.252388">
+    <ele>702</ele>
+    <name>#010 · Ma On Shan · 702 m</name>
+    <cmt>馬鞍山 · Wikipedia rank 10</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.416620" lon="114.130027">
+    <ele>679</ele>
+    <name>#011 · Yin Ngam Teng · 679 m</name>
+    <cmt>燕岩頂 · Wikipedia rank 11; coordinate match: alias-matched</cmt>
+    <desc>alternate name: Hau Ngam Teng / 燕岩頂; coordinate match: alias-matched</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.414546" lon="114.248527">
+    <ele>677</ele>
+    <name>#012 · The Hunch Backs · 677 m</name>
+    <cmt>牛押山 · Wikipedia rank 12</cmt>
+    <desc>alternate name: Ngau Ngak Shan</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.409639" lon="114.114219">
+    <ele>656</ele>
+    <name>#013 · Wo Kong Tong (lower) · 656 m</name>
+    <cmt>禾塘崗 · Wikipedia rank 13; coordinate match: reconstructed</cmt>
+    <desc>alternate name: Wo Tong Kong lower; coordinate match: reconstructed</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.411696" lon="114.165895">
+    <ele>647</ele>
+    <name>#014 · Grassy Hill · 647 m</name>
+    <cmt>草山 · Wikipedia rank 14</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.489236" lon="114.207749">
+    <ele>639</ele>
+    <name>#015 · Wong Leng · 639 m</name>
+    <cmt>黃嶺 · Wikipedia rank 15</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.374588" lon="114.234363">
+    <ele>606</ele>
+    <name>#016 · Buffalo Hill · 606 m</name>
+    <cmt>水牛山 · Wikipedia rank 16</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.372952" lon="114.232075">
+    <ele>604</ele>
+    <name>#017 · West Buffalo Hill · 604 m</name>
+    <cmt>黃牛山 · Wikipedia rank 17</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.340640" lon="114.223335">
+    <ele>603</ele>
+    <name>#018 · Kowloon Peak · 603 m</name>
+    <cmt>飛鵝山 · Wikipedia rank 18</cmt>
+    <desc>alternate name: Fei Ngo Shan</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.486619" lon="114.223783">
+    <ele>591</ele>
+    <name>#019 · Shun Yeung Fung · 591 m</name>
+    <cmt>純陽峰 · Wikipedia rank 19</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.413829" lon="114.244656">
+    <ele>589</ele>
+    <name>#020 · Tiu Shau Ngam · 589 m</name>
+    <cmt>吊手岩 · Wikipedia rank 20</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.430245" lon="114.139385">
+    <ele>588</ele>
+    <name>#021 · Chau Ma Kong · 588 m</name>
+    <cmt>走馬崗 · Wikipedia rank 21; coordinate match: alias-matched</cmt>
+    <desc>coordinate match: alias-matched</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.346808" lon="114.222164">
+    <ele>585</ele>
+    <name>#022 · Cheung Shan · 585 m</name>
+    <cmt>象山 (九龍) · Wikipedia rank 22=; coordinate match: alias-matched</cmt>
+    <desc>alternate name: Middle Hill; coordinate match: alias-matched</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.464898" lon="114.085568">
+    <ele>585</ele>
+    <name>#023 · Lo Tin Teng · 585 m</name>
+    <cmt>羅田頂 · Wikipedia rank 22=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.388282" lon="113.953311">
+    <ele>583</ele>
+    <name>#024 · Castle Peak · 583 m</name>
+    <cmt>青山 · Wikipedia rank 24</cmt>
+    <desc>alternate name: Ching Shan / Pui To Shan</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.398086" lon="114.089372">
+    <ele>579</ele>
+    <name>#025 · Lin Fa Shan · 579 m</name>
+    <cmt>蓮花山 · Wikipedia rank 25</cmt>
+    <desc>alternate name: Tai Lam</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.357722" lon="114.217859">
+    <ele>577</ele>
+    <name>#026 · Tate's Cairn · 577 m</name>
+    <cmt>大老山 · Wikipedia rank 26</cmt>
+    <desc>alternate name: Tai Lo Shan</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.547794" lon="114.302257">
+    <ele>572</ele>
+    <name>#027 · Kai Kung Leng · 572 m</name>
+    <cmt>雞公嶺 · Wikipedia rank 27</cmt>
+    <desc>alternate name: Tai Lo Tin</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.451096" lon="114.118218">
+    <ele>566</ele>
+    <name>#028 · Tai To Yan · 566 m</name>
+    <cmt>大刀屻 · Wikipedia rank 28</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.377670" lon="114.233793">
+    <ele>560</ele>
+    <name>#029 · Wong Chuk Shan · 560 m</name>
+    <cmt>黃竹山 · Wikipedia rank 29</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.402380" lon="114.089058">
+    <ele>559</ele>
+    <name>#030 · Ngoc Yiu Chiu Tin · 559 m</name>
+    <cmt>鱷魚朝天 · Wikipedia rank 30</cmt>
+    <desc>alternate name: 鱷魚朝天 / Crocodile towards the Sky</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.276039" lon="114.145457">
+    <ele>552</ele>
+    <name>#031 · Victoria Peak · 552 m</name>
+    <cmt>太平山 · Wikipedia rank 31=</cmt>
+    <desc>alternate name: Mount Austin / The Peak</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.426434" lon="114.119120">
+    <ele>552</ele>
+    <name>#032 · Kwun Yam Shan · 552 m</name>
+    <cmt>觀音山 (元朗區) · Wikipedia rank 31=</cmt>
+    <desc>alternate name: Tai Mo Shan area</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.489913" lon="114.215177">
+    <ele>550</ele>
+    <name>#033 · Lai Pek Shan · 550 m</name>
+    <cmt>犂壁山 · Wikipedia rank 33</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.352611" lon="114.221717">
+    <ele>544</ele>
+    <name>#034 · Tung Shan · 544 m</name>
+    <cmt>東山 (香港) · Wikipedia rank 34</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.486629" lon="114.225307">
+    <ele>543</ele>
+    <name>#035 · Chung Li Fung · 543 m</name>
+    <cmt>鍾離峰 · Wikipedia rank 35</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.381694" lon="114.235484">
+    <ele>540</ele>
+    <name>#036 · Shek Nga Shan · 540 m</name>
+    <cmt>石芽山 · Wikipedia rank 36</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.237901" lon="113.918150">
+    <ele>539</ele>
+    <name>#037 · Kau Nga Ling · 539 m</name>
+    <cmt>狗牙嶺 · Wikipedia rank 37</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.396764" lon="114.252831">
+    <ele>536</ele>
+    <name>#038 · Pyramid Hill · 536 m</name>
+    <cmt>大金鐘 · Wikipedia rank 38</cmt>
+    <desc>alternate name: Tai Kam Chung</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.358621" lon="114.224293">
+    <ele>533</ele>
+    <name>#039 · Tung Yeung Shan · 533 m</name>
+    <cmt>東洋山 · Wikipedia rank 39</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.386895" lon="114.160628">
+    <ele>532</ele>
+    <name>#040 · Needle Hill · 532 m</name>
+    <cmt>針山 · Wikipedia rank 40=</cmt>
+    <desc>alternate name: Cham Shan</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.265973" lon="114.219879">
+    <ele>532</ele>
+    <name>#041 · Mount Parker · 532 m</name>
+    <cmt>柏架山 · Wikipedia rank 40=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.486063" lon="114.226887">
+    <ele>530</ele>
+    <name>#042 · Kao Lao Fung · 530 m</name>
+    <cmt>果老峰 · Wikipedia rank 42=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.486001" lon="114.228527">
+    <ele>530</ele>
+    <name>#043 · Kuai Li Fung · 530 m</name>
+    <cmt>拐李峰 · Wikipedia rank 42=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.281937" lon="113.956861">
+    <ele>529</ele>
+    <name>#044 · Pok To Yan · 529 m</name>
+    <cmt>萡刀屻 · Wikipedia rank 44=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.493212" lon="114.194007">
+    <ele>529</ele>
+    <name>#045 · Ping Fung Shan · 529 m</name>
+    <cmt>屏風山 · Wikipedia rank 44=</cmt>
+    <desc>alternate name: 屏風山</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.373333" lon="114.239296">
+    <ele>515</ele>
+    <name>#046 · Fu Yung Pit · 515 m</name>
+    <cmt>芙蓉別 · Wikipedia rank 46</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.484875" lon="114.233899">
+    <ele>514</ele>
+    <name>#047 · Hsien Ku Fung · 514 m</name>
+    <cmt>仙姑峰 · Wikipedia rank 47; coordinate match: alias-matched</cmt>
+    <desc>alternate name: Sin Kwu Fung; coordinate match: alias-matched</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.485119" lon="114.232494">
+    <ele>510</ele>
+    <name>#048 · Sheung Tsz Fung · 510 m</name>
+    <cmt>湘子峰 · Wikipedia rank 48=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.485878" lon="114.229732">
+    <ele>510</ele>
+    <name>#049 · Tsao Kau Fung · 510 m</name>
+    <cmt>曹舅峰 · Wikipedia rank 48=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.388555" lon="113.994942">
+    <ele>507</ele>
+    <name>#050 · Kau Keng Shan · 507 m</name>
+    <cmt>九逕山 · Wikipedia rank 50</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.411216" lon="114.098315">
+    <ele>503</ele>
+    <name>#051 · Luk Ngo Leng · 503 m</name>
+    <cmt>轆牛嶺 · Wikipedia rank 51</cmt>
+    <desc>alternate name: 轆牛嶺</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.261687" lon="114.148603">
+    <ele>501</ele>
+    <name>#052 · Mount Kellett · 501 m</name>
+    <cmt>奇力山 · Wikipedia rank 52</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.353006" lon="114.187166">
+    <ele>495</ele>
+    <name>#053 · Lion Rock · 495 m</name>
+    <cmt>獅子山 · Wikipedia rank 53</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.272170" lon="114.136294">
+    <ele>494</ele>
+    <name>#054 · High West · 494 m</name>
+    <cmt>西高山 · Wikipedia rank 54</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.251307" lon="113.901829">
+    <ele>494</ele>
+    <name>#055 · Sze Tse Tau Shan · 494 m</name>
+    <cmt>獅子頭山 · Wikipedia rank 55</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.541359" lon="114.190099">
+    <ele>492</ele>
+    <name>#056 · Robin's Nest · 492 m</name>
+    <cmt>紅花嶺 · Wikipedia rank 56</cmt>
+    <desc>alternate name: Hung Fa Leng</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.221456" lon="113.867553">
+    <ele>490</ele>
+    <name>#057 · Ling Wui Shan · 490 m</name>
+    <cmt>靈匯山 · Wikipedia rank 57</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.485280" lon="114.231243">
+    <ele>489</ele>
+    <name>#058 · Choi Wo Fung · 489 m</name>
+    <cmt>采和峰 · Wikipedia rank 58=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.543009" lon="114.194405">
+    <ele>489</ele>
+    <name>#059 · Hung Fa Chai · 489 m</name>
+    <cmt>紅花寨 · Wikipedia rank 58=</cmt>
+    <desc>alternate name: Ben Nevis</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.355972" lon="114.206148">
+    <ele>488</ele>
+    <name>#060 · Temple Hill · 488 m</name>
+    <cmt>慈雲山 · Wikipedia rank 60</cmt>
+    <desc>alternate name: Tsz Wan Shan</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.506264" lon="114.193978">
+    <ele>486</ele>
+    <name>#061 · Kwai Tau Leng · 486 m</name>
+    <cmt>龜頭嶺 · Wikipedia rank 61</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.285782" lon="113.960569">
+    <ele>482</ele>
+    <name>#062 · Por Kai Shan · 482 m</name>
+    <cmt>婆髻山 · Wikipedia rank 62</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.436030" lon="114.306436">
+    <ele>481</ele>
+    <name>#063 · Shek Uk Shan · 481 m</name>
+    <cmt>石屋山 · Wikipedia rank 63</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.466706" lon="114.128009">
+    <ele>480</ele>
+    <name>#064 · Pak Tai To Yan · 480 m</name>
+    <cmt>北大刀屻 · Wikipedia rank 64</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.251054" lon="113.907584">
+    <ele>479</ele>
+    <name>#065 · Muk Yue Shan · 479 m</name>
+    <cmt>木魚山 · Wikipedia rank 65=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.268636" lon="114.159655">
+    <ele>479</ele>
+    <name>#066 · Mount Gough · 479 m</name>
+    <cmt>歌賦山 · Wikipedia rank 65=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.381460" lon="114.087406">
+    <ele>473</ele>
+    <name>#067 · Shek Lung Kung · 473 m</name>
+    <cmt>石龍拱 · Wikipedia rank 67</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.430628" lon="114.376233">
+    <ele>468</ele>
+    <name>#068 · Sharp Peak · 468 m</name>
+    <cmt>蚺蛇尖 · Wikipedia rank 68</cmt>
+    <desc>alternate name: Nam She Tsim</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.222414" lon="113.857236">
+    <ele>466</ele>
+    <name>#069 · Tai Hom Sham · 466 m</name>
+    <cmt>大坎岑 · Wikipedia rank 69</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.299577" lon="114.000148">
+    <ele>465</ele>
+    <name>#070 · Lo Fu Tau · 465 m</name>
+    <cmt>老虎頭 · Wikipedia rank 70</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.396825" lon="114.068130">
+    <ele>461</ele>
+    <name>#071 · Tin Fu Tsai Shan · 461 m</name>
+    <cmt>田夫仔山 · Wikipedia rank 71</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.231980" lon="113.881291">
+    <ele>459</ele>
+    <name>#072 · Keung Shan · 459 m</name>
+    <cmt>羗山 · Wikipedia rank 72</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.349754" lon="114.170390">
+    <ele>457</ele>
+    <name>#073 · Beacon Hill · 457 m</name>
+    <cmt>筆架山 · Wikipedia rank 73</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.397035" lon="114.245761">
+    <ele>454</ele>
+    <name>#074 · Shek Lung Tsai · 454 m</name>
+    <cmt>獨本舟右 · Wikipedia rank 74</cmt>
+    <desc>alternate name: 石壟仔</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.425274" lon="114.319150">
+    <ele>451</ele>
+    <name>#075 · Ngam Tau Shan · 451 m</name>
+    <cmt>岩頭山 · Wikipedia rank 75</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.297546" lon="114.007734">
+    <ele>449</ele>
+    <name>#076 · Cheung Shan · 449 m</name>
+    <cmt>象山 (九龍) · Wikipedia rank 76</cmt>
+    <desc>alternate name: Lantau</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.241767" lon="113.937332">
+    <ele>443</ele>
+    <name>#077 · Cheung Yan Shan · 443 m</name>
+    <cmt>長仁山 · Wikipedia rank 77</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.475892" lon="114.170518">
+    <ele>440</ele>
+    <name>#078 · Cloudy Hill · 440 m</name>
+    <cmt>九龍坑山 · Wikipedia rank 78</cmt>
+    <desc>alternate name: Kau Lung Hang Shan</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.262407" lon="114.175110">
+    <ele>439</ele>
+    <name>#079 · Mount Cameron · 439 m</name>
+    <cmt>金馬倫山 (香港) · Wikipedia rank 79=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.548741" lon="114.204236">
+    <ele>439</ele>
+    <name>#080 · Yi Tung · 439 m</name>
+    <cmt>二峒 · Wikipedia rank 79=</cmt>
+    <desc>alternate name: 二峒</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.356593" lon="114.194397">
+    <ele>437</ele>
+    <name>#081 · Unicorn Ridge · 437 m</name>
+    <cmt>雞胸山 · Wikipedia rank 81</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.267665" lon="114.211120">
+    <ele>436</ele>
+    <name>#082 · Mount Butler · 436 m</name>
+    <cmt>畢拿山 · Wikipedia rank 82=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.545987" lon="114.202367">
+    <ele>436</ele>
+    <name>#083 · Sam Tung · 436 m</name>
+    <cmt>三峒 · Wikipedia rank 82=</cmt>
+    <desc>alternate name: 三峒</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.241287" lon="113.889735">
+    <ele>434</ele>
+    <name>#084 · Kwun Yam Shan · 434 m</name>
+    <cmt>觀音山 (元朗區) · Wikipedia rank 84</cmt>
+    <desc>alternate name: Lantau</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.248967" lon="114.199997">
+    <ele>433</ele>
+    <name>#085 · Violet Hill · 433 m</name>
+    <cmt>紫羅蘭山 · Wikipedia rank 85</cmt>
+    <desc>alternate name: Tsz Lo Lan Shan</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.266356" lon="114.198333">
+    <ele>433</ele>
+    <name>#086 · Jardine's Lookout · 433 m</name>
+    <cmt>渣甸山 · Wikipedia rank 86</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.338978" lon="114.251986">
+    <ele>432</ele>
+    <name>#087 · Razor Hill · 432 m</name>
+    <cmt>鷓鴣山 (香港) · Wikipedia rank 87</cmt>
+    <desc>alternate name: Che Kwu Shan</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.259610" lon="114.185698">
+    <ele>430</ele>
+    <name>#088 · Mount Nicholson · 430 m</name>
+    <cmt>聶高信山 · Wikipedia rank 88</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.214700" lon="113.854700">
+    <ele>430</ele>
+    <name>#089 · Sham Hang Lek · 430 m</name>
+    <cmt>深坑嶺 · Wikipedia rank 89</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.233801" lon="113.913082">
+    <ele>428</ele>
+    <name>#090 · Middle Kau Nga Ling · 428 m</name>
+    <cmt>狗牙嶺 · Wikipedia rank 90</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.270515" lon="114.207584">
+    <ele>424</ele>
+    <name>#091 · Siu Ma Shan · 424 m</name>
+    <cmt>小馬山 · Wikipedia rank 91</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.421358" lon="114.322395">
+    <ele>422</ele>
+    <name>#092 · Ngau Yee Shek Shan · 422 m</name>
+    <cmt>牛耳石山 · Wikipedia rank 92</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.511321" lon="114.258974">
+    <ele>416</ele>
+    <name>#093 · Tiu Tang Lung · 416 m</name>
+    <cmt>吊燈籠 · Wikipedia rank 93</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.398343" lon="114.241050">
+    <ele>414</ele>
+    <name>#094 · Luk Chau Shan · 414 m</name>
+    <cmt>鹿巢山 · Wikipedia rank 94</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.361084" lon="114.204713">
+    <ele>413</ele>
+    <name>#095 · Man Tau Tun · 413 m</name>
+    <cmt>饅頭墩 · Wikipedia rank 95</cmt>
+    <desc>alternate name: 饅頭墩</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.350776" lon="114.226326">
+    <ele>411</ele>
+    <name>#096 · Cham Tin Shan · 411 m</name>
+    <cmt>枕田山 · Wikipedia rank 96</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.410347" lon="114.348951">
+    <ele>409</ele>
+    <name>#097 · Pai Ngak Shan · 409 m</name>
+    <cmt>白額山 · Wikipedia rank 97</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.403907" lon="114.341138">
+    <ele>408</ele>
+    <name>#098 · Tai Cham Koi · 408 m</name>
+    <cmt>大枕蓋 · Wikipedia rank 98</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.426972" lon="114.188224">
+    <ele>407</ele>
+    <name>#099 · Luk Shan · 407 m</name>
+    <cmt>鹿山 · Wikipedia rank 99</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.325103" lon="114.238994">
+    <ele>399</ele>
+    <name>#100 · Tai Sheung Tok · 399 m</name>
+    <cmt>大上托 · Wikipedia rank 100=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.415990" lon="114.290250">
+    <ele>399</ele>
+    <name>#101 · Kai Kung Shan · 399 m</name>
+    <cmt>雞公山 (西貢) · Wikipedia rank 100=</cmt>
+    <desc>alternate name: Sai Kung</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.409122" lon="114.191755">
+    <ele>399</ele>
+    <name>#102 · Kau To Shan · 399 m</name>
+    <cmt>狗肚山 · Wikipedia rank 102=</cmt>
+    <desc>alternate name: Cove Hill</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.391292" lon="114.224238">
+    <ele>399</ele>
+    <name>#103 · Nui Po Shan · 399 m</name>
+    <cmt>女婆山 · Wikipedia rank 102=</cmt>
+    <desc>alternate name: Turret Hill</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.368570" lon="114.225934">
+    <ele>395</ele>
+    <name>#104 · Tsim Mei Fung · 395 m</name>
+    <cmt>尖尾峰 · Wikipedia rank 104</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.415338" lon="113.957451">
+    <ele>394</ele>
+    <name>#105 · Kon Shan · 394 m</name>
+    <cmt>乾山 · Wikipedia rank 105</cmt>
+    <desc>alternate name: 乾山</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.424560" lon="114.306004">
+    <ele>391</ele>
+    <name>#106 · Wa Mei Shan · 391 m</name>
+    <cmt>畫眉山 · Wikipedia rank 106</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.230684" lon="114.205458">
+    <ele>386</ele>
+    <name>#107 · The Twins South · 386 m</name>
+    <cmt>孖崗山 · Wikipedia rank 107; coordinate match: alias-matched</cmt>
+    <desc>alternate name: Stanley Mound; coordinate match: alias-matched</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.413669" lon="114.304427">
+    <ele>379</ele>
+    <name>#108 · Lui Ta Shek · 379 m</name>
+    <cmt>雷打石 · Wikipedia rank 108</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.303730" lon="114.001291">
+    <ele>378</ele>
+    <name>#109 · Lau Fa Tung · 378 m</name>
+    <cmt>流花洞 · Wikipedia rank 109</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.432760" lon="113.973755">
+    <ele>375</ele>
+    <name>#110 · Yuen Tau Shan · 375 m</name>
+    <cmt>圓頭山 · Wikipedia rank 110</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.237092" lon="113.860842">
+    <ele>374</ele>
+    <name>#111 · Nga Ying Shan · 374 m</name>
+    <cmt>牙鷹山 · Wikipedia rank 111=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.464289" lon="114.066352">
+    <ele>374</ele>
+    <name>#112 · Kai Kung Shan · 374 m</name>
+    <cmt>雞公山 (西貢) · Wikipedia rank 111=</cmt>
+    <desc>alternate name: Lam Tsuen</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.457885" lon="114.314599">
+    <ele>372</ele>
+    <name>#113 · Mount Hallowers · 372 m</name>
+    <cmt>担柴山 · Wikipedia rank 113</cmt>
+    <desc>alternate name: Tam Chai Shan</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.415579" lon="114.364869">
+    <ele>370</ele>
+    <name>#114 · Tai Mun Shan · 370 m</name>
+    <cmt>大蚊山 · Wikipedia rank 114</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.364947" lon="114.147020">
+    <ele>369</ele>
+    <name>#115 · Golden Hill · 369 m</name>
+    <cmt>金山 · Wikipedia rank 115=</cmt>
+    <desc>alternate name: Kam Shan</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.513209" lon="114.253734">
+    <ele>369</ele>
+    <name>#116 · Fan Kei Tok · 369 m</name>
+    <cmt>蕃箕托 · Wikipedia rank 115=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.401010" lon="114.347793">
+    <ele>366</ele>
+    <name>#117 · Tin Mei Shan · 366 m</name>
+    <cmt>田尾山 · Wikipedia rank 117</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.235769" lon="114.206519">
+    <ele>363</ele>
+    <name>#118 · The Twins North · 363 m</name>
+    <cmt>孖崗山 · Wikipedia rank 118</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.490898" lon="114.160087">
+    <ele>360</ele>
+    <name>#119 · Bird's Hill · 360 m</name>
+    <cmt>龍山 · Wikipedia rank 119; coordinate match: alias-matched</cmt>
+    <desc>alternate name: Lung Shan; coordinate match: alias-matched</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.191754" lon="114.127689">
+    <ele>353</ele>
+    <name>#120 · Mount Stenhouse · 353 m</name>
+    <cmt>山地塘 · Wikipedia rank 120</cmt>
+    <desc>alternate name: Shan Tei Tong</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.251431" lon="114.234919">
+    <ele>348</ele>
+    <name>#121 · Mount Collinson · 348 m</name>
+    <cmt>歌連臣山 · Wikipedia rank 121</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.341880" lon="114.241634">
+    <ele>346</ele>
+    <name>#122 · Hebe Hill · 346 m</name>
+    <cmt>尖風山 · Wikipedia rank 122</cmt>
+    <desc>alternate name: Tsim Fung Shan</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.295638" lon="114.285927">
+    <ele>344</ele>
+    <name>#123 · High Junk Peak · 344 m</name>
+    <cmt>釣魚翁 · Wikipedia rank 123=</cmt>
+    <desc>alternate name: Tiu Yue Yung</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.236736" lon="114.209492">
+    <ele>344</ele>
+    <name>#124 · Cheung Lin Shan · 344 m</name>
+    <cmt>長連山 · Wikipedia rank 123=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.241582" lon="113.865010">
+    <ele>339</ele>
+    <name>#125 · Tsim Fung Shan · 339 m</name>
+    <cmt>尖峰山 · Wikipedia rank 125</cmt>
+    <desc>alternate name: Lantau</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.265293" lon="113.944306">
+    <ele>338</ele>
+    <name>#126 · Shek Sze Shan · 338 m</name>
+    <cmt>石獅山 · Wikipedia rank 126</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.373417" lon="114.146112">
+    <ele>337</ele>
+    <name>#127 · Smuggler's Ridge · 337 m</name>
+    <cmt>孖指徑 · Wikipedia rank 127</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.336861" lon="114.100917">
+    <ele>334</ele>
+    <name>#128 · Tsing Yi Peak · 334 m</name>
+    <cmt>三支香 · Wikipedia rank 128</cmt>
+    <desc>alternate name: Sam Chi Heung</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.299233" lon="114.282689">
+    <ele>333</ele>
+    <name>#129 · Miu Tsai Tun · 333 m</name>
+    <cmt>廟仔墩 · Wikipedia rank 129</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.216807" lon="114.248910">
+    <ele>325</ele>
+    <name>#130 · D'Aguilar Peak · 325 m</name>
+    <cmt>鶴咀山 · Wikipedia rank 130</cmt>
+    <desc>alternate name: Hok Tsui Shan</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.269737" lon="113.942459">
+    <ele>324</ele>
+    <name>#131 · Wo Liu Tun · 324 m</name>
+    <cmt>禾寮墩 · Wikipedia rank 131</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.252582" lon="113.874643">
+    <ele>322</ele>
+    <name>#132 · Sze Shan · 322 m</name>
+    <cmt>獅山 · Wikipedia rank 132</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.398919" lon="114.311603">
+    <ele>317</ele>
+    <name>#133 · Tai Tun · 317 m</name>
+    <cmt>大墩 · Wikipedia rank 133</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.387239" lon="114.377687">
+    <ele>314</ele>
+    <name>#134 · Sai Wan Shan · 314 m</name>
+    <cmt>西灣山 · Wikipedia rank 134</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.255471" lon="114.246593">
+    <ele>312</ele>
+    <name>#135 · Pottinger Peak · 312 m</name>
+    <cmt>砵甸乍山 · Wikipedia rank 135=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.344666" lon="114.240785">
+    <ele>312</ele>
+    <name>#136 · Kwai Au Shan · 312 m</name>
+    <cmt>葵坳山 · Wikipedia rank 135=; coordinate match: alias-matched</cmt>
+    <desc>alternate name: Lower Hebe Hill; coordinate match: alias-matched</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.347302" lon="114.156567">
+    <ele>305</ele>
+    <name>#137 · Eagle's Nest · 305 m</name>
+    <cmt>尖山 · Wikipedia rank 137</cmt>
+    <desc>alternate name: Tsim Shan</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.309712" lon="114.244641">
+    <ele>304</ele>
+    <name>#138 · Black Hill · 304 m</name>
+    <cmt>五桂山 (香港) · Wikipedia rank 138</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.227615" lon="113.990052">
+    <ele>303</ele>
+    <name>#139 · Lo Yan Shan · 303 m</name>
+    <cmt>老人山 · Wikipedia rank 139=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.497832" lon="114.280290">
+    <ele>303</ele>
+    <name>#140 · Mount Newland · 303 m</name>
+    <cmt>紐蘭山 · Wikipedia rank 139=</cmt>
+    <desc>alternate name: Kwun Yam Tung</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.314431" lon="114.008255">
+    <ele>302</ele>
+    <name>#141 · Tai Che Tung · 302 m</name>
+    <cmt>大斜峒 · Wikipedia rank 141=</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.293664" lon="113.986717">
+    <ele>302</ele>
+    <name>#142 · Tap Chai Shan · 302 m</name>
+    <cmt>塔仔山 · Wikipedia rank 141=; coordinate match: reconstructed</cmt>
+    <desc>alternate name: Temple Crag; coordinate match: reconstructed</desc>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+  <wpt lat="22.515451" lon="114.240705">
+    <ele>300</ele>
+    <name>#143 · Wai Mei Leng · 300 m</name>
+    <cmt>圍尾嶺 · Wikipedia rank 143</cmt>
+    <sym>Summit</sym>
+    <type>Mountain summit</type>
+  </wpt>
+</gpx>

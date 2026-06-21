@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Victoria Peak Garden</name>
+    <time>2026-06-14T12:13:51Z</time>
+  </metadata>
+  <trk>
+    <name>Victoria Peak Garden</name>
+    <cmt>山頂公園</cmt>
+    <trkseg>
+      <trkpt lat="22.271251" lon="114.14953">
+        <ele>397.5</ele>
+      </trkpt>
+      <trkpt lat="22.271634" lon="114.147849">
+        <ele>435.7</ele>
+      </trkpt>
+      <trkpt lat="22.271934" lon="114.147508">
+        <ele>424.2</ele>
+      </trkpt>
+      <trkpt lat="22.272088" lon="114.147505">
+        <ele>426.5</ele>
+      </trkpt>
+      <trkpt lat="22.273023" lon="114.14819">
+        <ele>439.0</ele>
+      </trkpt>
+      <trkpt lat="22.273398" lon="114.148366">
+        <ele>440.1</ele>
+      </trkpt>
+      <trkpt lat="22.274408" lon="114.147988">
+        <ele>453.2</ele>
+      </trkpt>
+      <trkpt lat="22.274827" lon="114.147947">
+        <ele>458.7</ele>
+      </trkpt>
+      <trkpt lat="22.274855" lon="114.147751">
+        <ele>463.9</ele>
+      </trkpt>
+      <trkpt lat="22.274791" lon="114.147561">
+        <ele>465.0</ele>
+      </trkpt>
+      <trkpt lat="22.274989" lon="114.14734">
+        <ele>477.9</ele>
+      </trkpt>
+      <trkpt lat="22.275029" lon="114.146921">
+        <ele>472.2</ele>
+      </trkpt>
+      <trkpt lat="22.274451" lon="114.146641">
+        <ele>481.2</ele>
+      </trkpt>
+      <trkpt lat="22.274255" lon="114.146358">
+        <ele>487.4</ele>
+      </trkpt>
+      <trkpt lat="22.274426" lon="114.146025">
+        <ele>493.6</ele>
+      </trkpt>
+      <trkpt lat="22.274344" lon="114.145496">
+        <ele>499.2</ele>
+      </trkpt>
+      <trkpt lat="22.274781" lon="114.144779">
+        <ele>500.2</ele>
+      </trkpt>
+      <trkpt lat="22.274723" lon="114.144492">
+        <ele>497.9</ele>
+      </trkpt>
+      <trkpt lat="22.274795" lon="114.14429">
+        <ele>507.0</ele>
+      </trkpt>
+      <trkpt lat="22.274716" lon="114.14418">
+        <ele>508.8</ele>
+      </trkpt>
+      <trkpt lat="22.274364" lon="114.144071">
+        <ele>507.2</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

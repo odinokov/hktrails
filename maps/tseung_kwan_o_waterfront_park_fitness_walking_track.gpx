@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Tseung Kwan O Waterfront Park Fitness Walking Track</name>
+    <time>2026-06-14T12:13:51Z</time>
+  </metadata>
+  <trk>
+    <name>Tseung Kwan O Waterfront Park Fitness Walking Track</name>
+    <cmt>將軍澳海濱公園步行徑</cmt>
+    <trkseg>
+      <trkpt lat="22.302164" lon="114.256972">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.301489" lon="114.257003">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.301425" lon="114.257109">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.301437" lon="114.259266">
+        <ele>6.4</ele>
+      </trkpt>
+      <trkpt lat="22.301512" lon="114.259443">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.301844" lon="114.259665">
+        <ele>6.6</ele>
+      </trkpt>
+      <trkpt lat="22.301958" lon="114.26002">
+        <ele>6.1</ele>
+      </trkpt>
+      <trkpt lat="22.301864" lon="114.260317">
+        <ele>6.2</ele>
+      </trkpt>
+      <trkpt lat="22.301451" lon="114.260697">
+        <ele>6.8</ele>
+      </trkpt>
+      <trkpt lat="22.301462" lon="114.26262">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.301552" lon="114.262983">
+        <ele>8.0</ele>
+      </trkpt>
+      <trkpt lat="22.301788" lon="114.263378">
+        <ele>6.7</ele>
+      </trkpt>
+      <trkpt lat="22.301935" lon="114.263483">
+        <ele>6.5</ele>
+      </trkpt>
+      <trkpt lat="22.304474" lon="114.264843">
+        <ele>7.5</ele>
+      </trkpt>
+      <trkpt lat="22.304522" lon="114.26475">
+        <ele>8.0</ele>
+      </trkpt>
+      <trkpt lat="22.305002" lon="114.264964">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.305231" lon="114.265173">
+        <ele>6.9</ele>
+      </trkpt>
+      <trkpt lat="22.305533" lon="114.265175">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.306241" lon="114.264958">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.306209" lon="114.264815">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.306072" lon="114.264893">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.305155" lon="114.265007">
+        <ele>11.0</ele>
+      </trkpt>
+      <trkpt lat="22.304517" lon="114.266195">
+        <ele>10.8</ele>
+      </trkpt>
+      <trkpt lat="22.304429" lon="114.266236">
+        <ele>10.2</ele>
+      </trkpt>
+      <trkpt lat="22.301028" lon="114.264352">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.300424" lon="114.264127">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.299648" lon="114.264122">
+        <ele>5.3</ele>
+      </trkpt>
+      <trkpt lat="22.298008" lon="114.264338">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.297469" lon="114.264558">
+        <ele>4.6</ele>
+      </trkpt>
+      <trkpt lat="22.29698" lon="114.265001">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.296595" lon="114.265678">
+        <ele>4.7</ele>
+      </trkpt>
+      <trkpt lat="22.296432" lon="114.266276">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.2961" lon="114.266776">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.296079" lon="114.267008">
+        <ele>6.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Lung Fu Shan Fitness Trail</name>
+    <time>2026-06-14T12:13:39Z</time>
+  </metadata>
+  <trk>
+    <name>Lung Fu Shan Fitness Trail</name>
+    <cmt>龍虎山健身徑</cmt>
+    <trkseg>
+      <trkpt lat="22.277505" lon="114.13665">
+        <ele>301.6</ele>
+      </trkpt>
+      <trkpt lat="22.277738" lon="114.136379">
+        <ele>309.2</ele>
+      </trkpt>
+      <trkpt lat="22.27799" lon="114.13626">
+        <ele>309.1</ele>
+      </trkpt>
+      <trkpt lat="22.277778" lon="114.13587">
+        <ele>308.3</ele>
+      </trkpt>
+      <trkpt lat="22.277081" lon="114.136117">
+        <ele>305.5</ele>
+      </trkpt>
+      <trkpt lat="22.276831" lon="114.136336">
+        <ele>308.6</ele>
+      </trkpt>
+      <trkpt lat="22.276514" lon="114.136407">
+        <ele>316.8</ele>
+      </trkpt>
+      <trkpt lat="22.276246" lon="114.136695">
+        <ele>319.3</ele>
+      </trkpt>
+      <trkpt lat="22.276129" lon="114.137064">
+        <ele>328.4</ele>
+      </trkpt>
+      <trkpt lat="22.275376" lon="114.137477">
+        <ele>340.5</ele>
+      </trkpt>
+      <trkpt lat="22.274972" lon="114.13789">
+        <ele>354.1</ele>
+      </trkpt>
+      <trkpt lat="22.273929" lon="114.138282">
+        <ele>374.1</ele>
+      </trkpt>
+      <trkpt lat="22.273804" lon="114.13851">
+        <ele>381.6</ele>
+      </trkpt>
+      <trkpt lat="22.273532" lon="114.138768">
+        <ele>388.1</ele>
+      </trkpt>
+      <trkpt lat="22.273194" lon="114.138966">
+        <ele>391.2</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

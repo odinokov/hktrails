@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Governors Walk The Peak</name>
+    <time>2026-06-14T12:13:37Z</time>
+  </metadata>
+  <trk>
+    <name>Governors Walk The Peak</name>
+    <cmt>山頂同樂徑</cmt>
+    <trkseg>
+      <trkpt lat="22.274328" lon="114.145646">
+        <ele>492.2</ele>
+      </trkpt>
+      <trkpt lat="22.273805" lon="114.145936">
+        <ele>488.1</ele>
+      </trkpt>
+      <trkpt lat="22.27374" lon="114.146123">
+        <ele>485.8</ele>
+      </trkpt>
+      <trkpt lat="22.273629" lon="114.146204">
+        <ele>481.7</ele>
+      </trkpt>
+      <trkpt lat="22.273423" lon="114.146127">
+        <ele>476.2</ele>
+      </trkpt>
+      <trkpt lat="22.272689" lon="114.144947">
+        <ele>465.4</ele>
+      </trkpt>
+      <trkpt lat="22.272559" lon="114.144611">
+        <ele>462.9</ele>
+      </trkpt>
+      <trkpt lat="22.272553" lon="114.144359">
+        <ele>462.4</ele>
+      </trkpt>
+      <trkpt lat="22.272612" lon="114.144301">
+        <ele>465.9</ele>
+      </trkpt>
+      <trkpt lat="22.272647" lon="114.144362">
+        <ele>473.1</ele>
+      </trkpt>
+      <trkpt lat="22.272703" lon="114.144215">
+        <ele>473.5</ele>
+      </trkpt>
+      <trkpt lat="22.272999" lon="114.143948">
+        <ele>481.4</ele>
+      </trkpt>
+      <trkpt lat="22.273158" lon="114.143522">
+        <ele>476.4</ele>
+      </trkpt>
+      <trkpt lat="22.273184" lon="114.143068">
+        <ele>470.7</ele>
+      </trkpt>
+      <trkpt lat="22.273327" lon="114.142693">
+        <ele>471.6</ele>
+      </trkpt>
+      <trkpt lat="22.273406" lon="114.142158">
+        <ele>471.8</ele>
+      </trkpt>
+      <trkpt lat="22.273709" lon="114.141772">
+        <ele>471.1</ele>
+      </trkpt>
+      <trkpt lat="22.273624" lon="114.142236">
+        <ele>488.5</ele>
+      </trkpt>
+      <trkpt lat="22.273783" lon="114.14318">
+        <ele>507.4</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

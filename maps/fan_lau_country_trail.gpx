@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Fan Lau Country Trail</name>
+    <time>2026-06-14T12:13:36Z</time>
+  </metadata>
+  <trk>
+    <name>Fan Lau Country Trail</name>
+    <cmt>分流郊遊徑</cmt>
+    <trkseg>
+      <trkpt lat="22.203825" lon="113.856382">
+        <ele>64.1</ele>
+      </trkpt>
+      <trkpt lat="22.203379" lon="113.855832">
+        <ele>44.5</ele>
+      </trkpt>
+      <trkpt lat="22.203456" lon="113.855627">
+        <ele>46.2</ele>
+      </trkpt>
+      <trkpt lat="22.20323" lon="113.854928">
+        <ele>40.9</ele>
+      </trkpt>
+      <trkpt lat="22.202979" lon="113.854849">
+        <ele>27.8</ele>
+      </trkpt>
+      <trkpt lat="22.202389" lon="113.854192">
+        <ele>11.0</ele>
+      </trkpt>
+      <trkpt lat="22.20208" lon="113.854086">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.20129" lon="113.853308">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.200505" lon="113.852848">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.198903" lon="113.852601">
+        <ele>11.4</ele>
+      </trkpt>
+      <trkpt lat="22.198838" lon="113.852767">
+        <ele>10.8</ele>
+      </trkpt>
+      <trkpt lat="22.198491" lon="113.852998">
+        <ele>13.6</ele>
+      </trkpt>
+      <trkpt lat="22.198352" lon="113.853412">
+        <ele>8.9</ele>
+      </trkpt>
+      <trkpt lat="22.198344" lon="113.853714">
+        <ele>11.0</ele>
+      </trkpt>
+      <trkpt lat="22.198268" lon="113.85377">
+        <ele>15.6</ele>
+      </trkpt>
+      <trkpt lat="22.198126" lon="113.853615">
+        <ele>18.2</ele>
+      </trkpt>
+      <trkpt lat="22.198017" lon="113.853123">
+        <ele>18.2</ele>
+      </trkpt>
+      <trkpt lat="22.198113" lon="113.852902">
+        <ele>23.0</ele>
+      </trkpt>
+      <trkpt lat="22.198147" lon="113.852268">
+        <ele>35.4</ele>
+      </trkpt>
+      <trkpt lat="22.197779" lon="113.852063">
+        <ele>45.3</ele>
+      </trkpt>
+      <trkpt lat="22.197668" lon="113.851893">
+        <ele>45.0</ele>
+      </trkpt>
+      <trkpt lat="22.197706" lon="113.851661">
+        <ele>46.5</ele>
+      </trkpt>
+      <trkpt lat="22.197814" lon="113.851568">
+        <ele>49.7</ele>
+      </trkpt>
+      <trkpt lat="22.198372" lon="113.8516">
+        <ele>51.7</ele>
+      </trkpt>
+      <trkpt lat="22.198555" lon="113.851483">
+        <ele>56.4</ele>
+      </trkpt>
+      <trkpt lat="22.198755" lon="113.851276">
+        <ele>63.0</ele>
+      </trkpt>
+      <trkpt lat="22.198929" lon="113.850633">
+        <ele>57.0</ele>
+      </trkpt>
+      <trkpt lat="22.199157" lon="113.850438">
+        <ele>55.0</ele>
+      </trkpt>
+      <trkpt lat="22.199082" lon="113.850096">
+        <ele>53.6</ele>
+      </trkpt>
+      <trkpt lat="22.199121" lon="113.849506">
+        <ele>55.0</ele>
+      </trkpt>
+      <trkpt lat="22.198883" lon="113.849011">
+        <ele>45.0</ele>
+      </trkpt>
+      <trkpt lat="22.198828" lon="113.848596">
+        <ele>47.7</ele>
+      </trkpt>
+      <trkpt lat="22.198597" lon="113.848203">
+        <ele>37.7</ele>
+      </trkpt>
+      <trkpt lat="22.198619" lon="113.847973">
+        <ele>32.7</ele>
+      </trkpt>
+      <trkpt lat="22.19875" lon="113.847788">
+        <ele>28.7</ele>
+      </trkpt>
+      <trkpt lat="22.199165" lon="113.84755">
+        <ele>27.6</ele>
+      </trkpt>
+      <trkpt lat="22.199662" lon="113.847421">
+        <ele>23.4</ele>
+      </trkpt>
+      <trkpt lat="22.200201" lon="113.847465">
+        <ele>23.7</ele>
+      </trkpt>
+      <trkpt lat="22.200791" lon="113.847855">
+        <ele>25.0</ele>
+      </trkpt>
+      <trkpt lat="22.201124" lon="113.848203">
+        <ele>23.1</ele>
+      </trkpt>
+      <trkpt lat="22.201434" lon="113.848322">
+        <ele>18.5</ele>
+      </trkpt>
+      <trkpt lat="22.201536" lon="113.848488">
+        <ele>13.5</ele>
+      </trkpt>
+      <trkpt lat="22.202236" lon="113.848926">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.202979" lon="113.849074">
+        <ele>2.4</ele>
+      </trkpt>
+      <trkpt lat="22.202962" lon="113.849288">
+        <ele>5.8</ele>
+      </trkpt>
+      <trkpt lat="22.203181" lon="113.849291">
+        <ele>5.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

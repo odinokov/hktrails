@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Chuen Lung Family Walk</name>
+    <time>2026-06-14T12:13:36Z</time>
+  </metadata>
+  <trk>
+    <name>Chuen Lung Family Walk</name>
+    <cmt>川龍家樂徑</cmt>
+    <trkseg>
+      <trkpt lat="22.394498" lon="114.106165">
+        <ele>331.4</ele>
+      </trkpt>
+      <trkpt lat="22.394355" lon="114.106166">
+        <ele>331.5</ele>
+      </trkpt>
+      <trkpt lat="22.394822" lon="114.106585">
+        <ele>318.5</ele>
+      </trkpt>
+      <trkpt lat="22.395195" lon="114.106118">
+        <ele>298.5</ele>
+      </trkpt>
+      <trkpt lat="22.395026" lon="114.106105">
+        <ele>306.0</ele>
+      </trkpt>
+      <trkpt lat="22.39485" lon="114.105717">
+        <ele>302.6</ele>
+      </trkpt>
+      <trkpt lat="22.394795" lon="114.105307">
+        <ele>297.1</ele>
+      </trkpt>
+      <trkpt lat="22.394641" lon="114.105315">
+        <ele>302.3</ele>
+      </trkpt>
+      <trkpt lat="22.394462" lon="114.105183">
+        <ele>303.6</ele>
+      </trkpt>
+      <trkpt lat="22.394201" lon="114.105286">
+        <ele>309.2</ele>
+      </trkpt>
+      <trkpt lat="22.394231" lon="114.105611">
+        <ele>315.9</ele>
+      </trkpt>
+      <trkpt lat="22.394416" lon="114.105951">
+        <ele>327.4</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

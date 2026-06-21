@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Nam Sang Wai River Education Trail</name>
+    <time>2026-06-14T12:13:44Z</time>
+  </metadata>
+  <trk>
+    <name>Nam Sang Wai River Education Trail</name>
+    <cmt>南生圍河流導賞徑</cmt>
+    <trkseg>
+      <trkpt lat="22.444493" lon="114.042213">
+        <ele>7.6</ele>
+      </trkpt>
+      <trkpt lat="22.446316" lon="114.042331">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.447322" lon="114.042666">
+        <ele>5.4</ele>
+      </trkpt>
+      <trkpt lat="22.448083" lon="114.0433">
+        <ele>6.3</ele>
+      </trkpt>
+      <trkpt lat="22.448505" lon="114.043255">
+        <ele>5.9</ele>
+      </trkpt>
+      <trkpt lat="22.448432" lon="114.042844">
+        <ele>5.1</ele>
+      </trkpt>
+      <trkpt lat="22.449139" lon="114.042912">
+        <ele>6.6</ele>
+      </trkpt>
+      <trkpt lat="22.449187" lon="114.043087">
+        <ele>6.2</ele>
+      </trkpt>
+      <trkpt lat="22.449715" lon="114.04314">
+        <ele>5.6</ele>
+      </trkpt>
+      <trkpt lat="22.450198" lon="114.043328">
+        <ele>5.5</ele>
+      </trkpt>
+      <trkpt lat="22.450545" lon="114.043639">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.450721" lon="114.04401">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.4508" lon="114.044404">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.450816" lon="114.044926">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.450628" lon="114.045704">
+        <ele>4.9</ele>
+      </trkpt>
+      <trkpt lat="22.450651" lon="114.045993">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.450775" lon="114.046293">
+        <ele>6.4</ele>
+      </trkpt>
+      <trkpt lat="22.451414" lon="114.046952">
+        <ele>5.7</ele>
+      </trkpt>
+      <trkpt lat="22.452148" lon="114.047354">
+        <ele>5.8</ele>
+      </trkpt>
+      <trkpt lat="22.453736" lon="114.047722">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.454846" lon="114.047336">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.456473" lon="114.046479">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.460754" lon="114.045044">
+        <ele>4.6</ele>
+      </trkpt>
+      <trkpt lat="22.462206" lon="114.044274">
+        <ele>5.2</ele>
+      </trkpt>
+      <trkpt lat="22.463035" lon="114.043683">
+        <ele>4.9</ele>
+      </trkpt>
+      <trkpt lat="22.463834" lon="114.042749">
+        <ele>4.4</ele>
+      </trkpt>
+      <trkpt lat="22.465708" lon="114.040201">
+        <ele>4.9</ele>
+      </trkpt>
+      <trkpt lat="22.466085" lon="114.039466">
+        <ele>4.9</ele>
+      </trkpt>
+      <trkpt lat="22.46771" lon="114.03551">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.468866" lon="114.032809">
+        <ele>4.4</ele>
+      </trkpt>
+      <trkpt lat="22.469442" lon="114.031263">
+        <ele>4.9</ele>
+      </trkpt>
+      <trkpt lat="22.469472" lon="114.030837">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.469321" lon="114.030475">
+        <ele>4.5</ele>
+      </trkpt>
+      <trkpt lat="22.468836" lon="114.029938">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.467779" lon="114.029491">
+        <ele>4.5</ele>
+      </trkpt>
+      <trkpt lat="22.466533" lon="114.029167">
+        <ele>4.8</ele>
+      </trkpt>
+      <trkpt lat="22.465284" lon="114.029232">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.464983" lon="114.029355">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.4646" lon="114.029653">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.461388" lon="114.032417">
+        <ele>5.2</ele>
+      </trkpt>
+      <trkpt lat="22.460805" lon="114.0329">
+        <ele>5.2</ele>
+      </trkpt>
+      <trkpt lat="22.460285" lon="114.033195">
+        <ele>5.6</ele>
+      </trkpt>
+      <trkpt lat="22.459523" lon="114.033494">
+        <ele>5.9</ele>
+      </trkpt>
+      <trkpt lat="22.458517" lon="114.03369">
+        <ele>6.8</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

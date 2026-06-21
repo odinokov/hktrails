@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Fu Shan</name>
+    <time>2026-06-14T12:13:37Z</time>
+  </metadata>
+  <trk>
+    <name>Fu Shan</name>
+    <cmt>虎山</cmt>
+    <trkseg>
+      <trkpt lat="22.256117" lon="113.856934">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.25628" lon="113.856727">
+        <ele>7.3</ele>
+      </trkpt>
+      <trkpt lat="22.256573" lon="113.856671">
+        <ele>7.4</ele>
+      </trkpt>
+      <trkpt lat="22.256566" lon="113.856488">
+        <ele>16.2</ele>
+      </trkpt>
+      <trkpt lat="22.257097" lon="113.856375">
+        <ele>22.1</ele>
+      </trkpt>
+      <trkpt lat="22.257212" lon="113.856207">
+        <ele>31.0</ele>
+      </trkpt>
+      <trkpt lat="22.257401" lon="113.856155">
+        <ele>35.7</ele>
+      </trkpt>
+      <trkpt lat="22.257523" lon="113.855803">
+        <ele>43.9</ele>
+      </trkpt>
+      <trkpt lat="22.257334" lon="113.855342">
+        <ele>45.2</ele>
+      </trkpt>
+      <trkpt lat="22.257862" lon="113.85517">
+        <ele>63.0</ele>
+      </trkpt>
+      <trkpt lat="22.25832" lon="113.855802">
+        <ele>76.0</ele>
+      </trkpt>
+      <trkpt lat="22.258796" lon="113.85617">
+        <ele>73.0</ele>
+      </trkpt>
+      <trkpt lat="22.259481" lon="113.857113">
+        <ele>68.3</ele>
+      </trkpt>
+      <trkpt lat="22.259716" lon="113.85786">
+        <ele>66.1</ele>
+      </trkpt>
+      <trkpt lat="22.259617" lon="113.858306">
+        <ele>70.9</ele>
+      </trkpt>
+      <trkpt lat="22.259935" lon="113.858689">
+        <ele>79.6</ele>
+      </trkpt>
+      <trkpt lat="22.260112" lon="113.859236">
+        <ele>84.4</ele>
+      </trkpt>
+      <trkpt lat="22.260184" lon="113.859761">
+        <ele>71.3</ele>
+      </trkpt>
+      <trkpt lat="22.260327" lon="113.859882">
+        <ele>69.6</ele>
+      </trkpt>
+      <trkpt lat="22.26043" lon="113.86029">
+        <ele>52.7</ele>
+      </trkpt>
+      <trkpt lat="22.260471" lon="113.861124">
+        <ele>36.2</ele>
+      </trkpt>
+      <trkpt lat="22.260388" lon="113.861394">
+        <ele>25.5</ele>
+      </trkpt>
+      <trkpt lat="22.260482" lon="113.861561">
+        <ele>21.1</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

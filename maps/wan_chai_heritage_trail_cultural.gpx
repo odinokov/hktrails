@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Wan Chai Heritage Trail Cultural</name>
+    <time>2026-06-14T12:13:51Z</time>
+  </metadata>
+  <trk>
+    <name>Wan Chai Heritage Trail Cultural</name>
+    <cmt>灣仔歷史文物徑 - 生活氣息文物徑</cmt>
+    <trkseg>
+      <trkpt lat="22.273242" lon="114.173714">
+        <ele>26.1</ele>
+      </trkpt>
+      <trkpt lat="22.274016" lon="114.174043">
+        <ele>10.5</ele>
+      </trkpt>
+      <trkpt lat="22.27441" lon="114.173912">
+        <ele>9.0</ele>
+      </trkpt>
+      <trkpt lat="22.274475" lon="114.173212">
+        <ele>8.2</ele>
+      </trkpt>
+      <trkpt lat="22.274444" lon="114.173395">
+        <ele>8.0</ele>
+      </trkpt>
+      <trkpt lat="22.276527" lon="114.173172">
+        <ele>6.3</ele>
+      </trkpt>
+      <trkpt lat="22.276373" lon="114.171611">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.27545" lon="114.171057">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.276324" lon="114.169784">
+        <ele>17.4</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

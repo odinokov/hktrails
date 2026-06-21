@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Nam Shan Tree Walk</name>
+    <time>2026-06-14T12:13:44Z</time>
+  </metadata>
+  <trk>
+    <name>Nam Shan Tree Walk</name>
+    <cmt>南山樹木研習徑</cmt>
+    <trkseg>
+      <trkpt lat="22.256712" lon="113.98826">
+        <ele>140.5</ele>
+      </trkpt>
+      <trkpt lat="22.257061" lon="113.988116">
+        <ele>138.7</ele>
+      </trkpt>
+      <trkpt lat="22.256544" lon="113.987777">
+        <ele>148.4</ele>
+      </trkpt>
+      <trkpt lat="22.256533" lon="113.98765">
+        <ele>149.3</ele>
+      </trkpt>
+      <trkpt lat="22.25675" lon="113.986924">
+        <ele>156.1</ele>
+      </trkpt>
+      <trkpt lat="22.257078" lon="113.98657">
+        <ele>147.5</ele>
+      </trkpt>
+      <trkpt lat="22.257082" lon="113.98609">
+        <ele>146.5</ele>
+      </trkpt>
+      <trkpt lat="22.256984" lon="113.98592">
+        <ele>148.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

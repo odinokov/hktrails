@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Aberdeen Nature Trail</name>
+    <time>2026-06-14T12:13:35Z</time>
+  </metadata>
+  <trk>
+    <name>Aberdeen Nature Trail</name>
+    <cmt>香港仔自然教育徑</cmt>
+    <trkseg>
+      <trkpt lat="22.253756" lon="114.160494">
+        <ele>94.2</ele>
+      </trkpt>
+      <trkpt lat="22.252984" lon="114.160939">
+        <ele>80.8</ele>
+      </trkpt>
+      <trkpt lat="22.252537" lon="114.161086">
+        <ele>88.1</ele>
+      </trkpt>
+      <trkpt lat="22.251757" lon="114.16177">
+        <ele>99.9</ele>
+      </trkpt>
+      <trkpt lat="22.251486" lon="114.161861">
+        <ele>97.2</ele>
+      </trkpt>
+      <trkpt lat="22.251222" lon="114.16242">
+        <ele>94.0</ele>
+      </trkpt>
+      <trkpt lat="22.251085" lon="114.162488">
+        <ele>98.2</ele>
+      </trkpt>
+      <trkpt lat="22.251251" lon="114.162603">
+        <ele>99.2</ele>
+      </trkpt>
+      <trkpt lat="22.252059" lon="114.162852">
+        <ele>100.0</ele>
+      </trkpt>
+      <trkpt lat="22.252247" lon="114.163077">
+        <ele>105.0</ele>
+      </trkpt>
+      <trkpt lat="22.252469" lon="114.163582">
+        <ele>105.1</ele>
+      </trkpt>
+      <trkpt lat="22.252943" lon="114.163292">
+        <ele>102.6</ele>
+      </trkpt>
+      <trkpt lat="22.25325" lon="114.163425">
+        <ele>109.3</ele>
+      </trkpt>
+      <trkpt lat="22.254155" lon="114.163241">
+        <ele>110.1</ele>
+      </trkpt>
+      <trkpt lat="22.254382" lon="114.16282">
+        <ele>108.7</ele>
+      </trkpt>
+      <trkpt lat="22.254727" lon="114.162418">
+        <ele>104.1</ele>
+      </trkpt>
+      <trkpt lat="22.255279" lon="114.162194">
+        <ele>107.0</ele>
+      </trkpt>
+      <trkpt lat="22.255464" lon="114.162187">
+        <ele>107.0</ele>
+      </trkpt>
+      <trkpt lat="22.255656" lon="114.162239">
+        <ele>106.8</ele>
+      </trkpt>
+      <trkpt lat="22.255715" lon="114.162425">
+        <ele>106.2</ele>
+      </trkpt>
+      <trkpt lat="22.255734" lon="114.162577">
+        <ele>101.8</ele>
+      </trkpt>
+      <trkpt lat="22.255614" lon="114.162931">
+        <ele>101.8</ele>
+      </trkpt>
+      <trkpt lat="22.255513" lon="114.16302">
+        <ele>105.0</ele>
+      </trkpt>
+      <trkpt lat="22.255769" lon="114.163691">
+        <ele>107.1</ele>
+      </trkpt>
+      <trkpt lat="22.255788" lon="114.164007">
+        <ele>108.3</ele>
+      </trkpt>
+      <trkpt lat="22.256104" lon="114.164231">
+        <ele>115.0</ele>
+      </trkpt>
+      <trkpt lat="22.256412" lon="114.16422">
+        <ele>129.4</ele>
+      </trkpt>
+      <trkpt lat="22.256298" lon="114.163366">
+        <ele>118.4</ele>
+      </trkpt>
+      <trkpt lat="22.256421" lon="114.163351">
+        <ele>116.8</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

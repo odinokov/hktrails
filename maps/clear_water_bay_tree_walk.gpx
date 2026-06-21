@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Clear Water Bay Tree Walk</name>
+    <time>2026-06-14T12:13:36Z</time>
+  </metadata>
+  <trk>
+    <name>Clear Water Bay Tree Walk</name>
+    <cmt>清水灣樹木研習徑</cmt>
+    <trkseg>
+      <trkpt lat="22.291124" lon="114.301276">
+        <ele>107.0</ele>
+      </trkpt>
+      <trkpt lat="22.29105" lon="114.301525">
+        <ele>108.7</ele>
+      </trkpt>
+      <trkpt lat="22.29083" lon="114.301762">
+        <ele>98.8</ele>
+      </trkpt>
+      <trkpt lat="22.290786" lon="114.301919">
+        <ele>93.0</ele>
+      </trkpt>
+      <trkpt lat="22.290469" lon="114.301895">
+        <ele>83.1</ele>
+      </trkpt>
+      <trkpt lat="22.289787" lon="114.302379">
+        <ele>64.7</ele>
+      </trkpt>
+      <trkpt lat="22.289536" lon="114.302416">
+        <ele>65.3</ele>
+      </trkpt>
+      <trkpt lat="22.289128" lon="114.302155">
+        <ele>61.8</ele>
+      </trkpt>
+      <trkpt lat="22.288558" lon="114.301612">
+        <ele>63.9</ele>
+      </trkpt>
+      <trkpt lat="22.288108" lon="114.301394">
+        <ele>56.3</ele>
+      </trkpt>
+      <trkpt lat="22.287918" lon="114.300885">
+        <ele>59.8</ele>
+      </trkpt>
+      <trkpt lat="22.287921" lon="114.300546">
+        <ele>63.8</ele>
+      </trkpt>
+      <trkpt lat="22.288048" lon="114.300333">
+        <ele>64.2</ele>
+      </trkpt>
+      <trkpt lat="22.288116" lon="114.299898">
+        <ele>66.0</ele>
+      </trkpt>
+      <trkpt lat="22.288446" lon="114.299377">
+        <ele>68.5</ele>
+      </trkpt>
+      <trkpt lat="22.288738" lon="114.299159">
+        <ele>69.2</ele>
+      </trkpt>
+      <trkpt lat="22.289677" lon="114.298826">
+        <ele>94.2</ele>
+      </trkpt>
+      <trkpt lat="22.289918" lon="114.298828">
+        <ele>95.5</ele>
+      </trkpt>
+      <trkpt lat="22.290175" lon="114.298959">
+        <ele>99.3</ele>
+      </trkpt>
+      <trkpt lat="22.290172" lon="114.299234">
+        <ele>109.0</ele>
+      </trkpt>
+      <trkpt lat="22.290239" lon="114.299328">
+        <ele>103.5</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

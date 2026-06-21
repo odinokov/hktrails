@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Wan Chai Green Trail</name>
+    <time>2026-06-14T12:13:51Z</time>
+  </metadata>
+  <trk>
+    <name>Wan Chai Green Trail</name>
+    <cmt>灣仔自然徑</cmt>
+    <trkseg>
+      <trkpt lat="22.274444" lon="114.173395">
+        <ele>8.0</ele>
+      </trkpt>
+      <trkpt lat="22.274198" lon="114.173351">
+        <ele>15.6</ele>
+      </trkpt>
+      <trkpt lat="22.273986" lon="114.173692">
+        <ele>15.0</ele>
+      </trkpt>
+      <trkpt lat="22.2737" lon="114.173686">
+        <ele>20.5</ele>
+      </trkpt>
+      <trkpt lat="22.272668" lon="114.172814">
+        <ele>63.1</ele>
+      </trkpt>
+      <trkpt lat="22.272036" lon="114.172471">
+        <ele>76.4</ele>
+      </trkpt>
+      <trkpt lat="22.271308" lon="114.172314">
+        <ele>98.8</ele>
+      </trkpt>
+      <trkpt lat="22.270389" lon="114.171613">
+        <ele>141.0</ele>
+      </trkpt>
+      <trkpt lat="22.27017" lon="114.171292">
+        <ele>141.5</ele>
+      </trkpt>
+      <trkpt lat="22.269559" lon="114.171129">
+        <ele>159.0</ele>
+      </trkpt>
+      <trkpt lat="22.269433" lon="114.171188">
+        <ele>158.5</ele>
+      </trkpt>
+      <trkpt lat="22.269255" lon="114.17152">
+        <ele>166.6</ele>
+      </trkpt>
+      <trkpt lat="22.269218" lon="114.171767">
+        <ele>171.8</ele>
+      </trkpt>
+      <trkpt lat="22.269279" lon="114.171946">
+        <ele>175.4</ele>
+      </trkpt>
+      <trkpt lat="22.269206" lon="114.172159">
+        <ele>179.4</ele>
+      </trkpt>
+      <trkpt lat="22.268954" lon="114.172397">
+        <ele>188.1</ele>
+      </trkpt>
+      <trkpt lat="22.269053" lon="114.172026">
+        <ele>190.2</ele>
+      </trkpt>
+      <trkpt lat="22.268846" lon="114.171845">
+        <ele>198.6</ele>
+      </trkpt>
+      <trkpt lat="22.268651" lon="114.171243">
+        <ele>211.3</ele>
+      </trkpt>
+      <trkpt lat="22.268224" lon="114.170827">
+        <ele>230.2</ele>
+      </trkpt>
+      <trkpt lat="22.26812" lon="114.170439">
+        <ele>240.1</ele>
+      </trkpt>
+      <trkpt lat="22.267976" lon="114.170254">
+        <ele>242.5</ele>
+      </trkpt>
+      <trkpt lat="22.267979" lon="114.170054">
+        <ele>241.0</ele>
+      </trkpt>
+      <trkpt lat="22.267786" lon="114.170068">
+        <ele>240.4</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

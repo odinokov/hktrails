@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Sheung Tam Stream</name>
+    <time>2026-06-14T12:13:47Z</time>
+  </metadata>
+  <trk>
+    <name>Sheung Tam Stream</name>
+    <cmt>雙潭石澗</cmt>
+    <trkseg>
+      <trkpt lat="22.248239" lon="114.214044">
+        <ele>47.6</ele>
+      </trkpt>
+      <trkpt lat="22.248137" lon="114.213881">
+        <ele>53.2</ele>
+      </trkpt>
+      <trkpt lat="22.248141" lon="114.213579">
+        <ele>55.6</ele>
+      </trkpt>
+      <trkpt lat="22.24832" lon="114.213256">
+        <ele>54.4</ele>
+      </trkpt>
+      <trkpt lat="22.248431" lon="114.213216">
+        <ele>49.4</ele>
+      </trkpt>
+      <trkpt lat="22.248551" lon="114.212914">
+        <ele>46.6</ele>
+      </trkpt>
+      <trkpt lat="22.248545" lon="114.212674">
+        <ele>48.7</ele>
+      </trkpt>
+      <trkpt lat="22.248739" lon="114.212614">
+        <ele>40.4</ele>
+      </trkpt>
+      <trkpt lat="22.248801" lon="114.212769">
+        <ele>41.0</ele>
+      </trkpt>
+      <trkpt lat="22.249059" lon="114.212851">
+        <ele>48.3</ele>
+      </trkpt>
+      <trkpt lat="22.249681" lon="114.212853">
+        <ele>45.5</ele>
+      </trkpt>
+      <trkpt lat="22.249884" lon="114.212948">
+        <ele>41.2</ele>
+      </trkpt>
+      <trkpt lat="22.250175" lon="114.212674">
+        <ele>45.4</ele>
+      </trkpt>
+      <trkpt lat="22.250548" lon="114.212664">
+        <ele>53.6</ele>
+      </trkpt>
+      <trkpt lat="22.250956" lon="114.21308">
+        <ele>55.1</ele>
+      </trkpt>
+      <trkpt lat="22.251368" lon="114.21323">
+        <ele>59.5</ele>
+      </trkpt>
+      <trkpt lat="22.251711" lon="114.213058">
+        <ele>63.6</ele>
+      </trkpt>
+      <trkpt lat="22.252824" lon="114.213756">
+        <ele>79.1</ele>
+      </trkpt>
+      <trkpt lat="22.253326" lon="114.213905">
+        <ele>85.1</ele>
+      </trkpt>
+      <trkpt lat="22.25362" lon="114.21391">
+        <ele>91.8</ele>
+      </trkpt>
+      <trkpt lat="22.253847" lon="114.213776">
+        <ele>93.3</ele>
+      </trkpt>
+      <trkpt lat="22.254091" lon="114.21353">
+        <ele>100.2</ele>
+      </trkpt>
+      <trkpt lat="22.254213" lon="114.21329">
+        <ele>110.2</ele>
+      </trkpt>
+      <trkpt lat="22.254372" lon="114.213196">
+        <ele>123.2</ele>
+      </trkpt>
+      <trkpt lat="22.25446" lon="114.21331">
+        <ele>121.2</ele>
+      </trkpt>
+      <trkpt lat="22.254559" lon="114.21327">
+        <ele>122.6</ele>
+      </trkpt>
+      <trkpt lat="22.254873" lon="114.213036">
+        <ele>130.1</ele>
+      </trkpt>
+      <trkpt lat="22.255201" lon="114.21294">
+        <ele>147.5</ele>
+      </trkpt>
+      <trkpt lat="22.255394" lon="114.212698">
+        <ele>148.4</ele>
+      </trkpt>
+      <trkpt lat="22.255811" lon="114.21272">
+        <ele>154.6</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

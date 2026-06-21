@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Pak Shek Kok Promenade</name>
+    <time>2026-06-14T12:13:45Z</time>
+  </metadata>
+  <trk>
+    <name>Pak Shek Kok Promenade</name>
+    <cmt>白石角海濱長廊</cmt>
+    <trkseg>
+      <trkpt lat="22.42265" lon="114.214871">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.42334" lon="114.214999">
+        <ele>6.4</ele>
+      </trkpt>
+      <trkpt lat="22.424148" lon="114.214941">
+        <ele>6.6</ele>
+      </trkpt>
+      <trkpt lat="22.424818" lon="114.214764">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.425564" lon="114.214389">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.426315" lon="114.213791">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.426754" lon="114.213327">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.427011" lon="114.213226">
+        <ele>6.1</ele>
+      </trkpt>
+      <trkpt lat="22.427077" lon="114.212958">
+        <ele>4.8</ele>
+      </trkpt>
+      <trkpt lat="22.429454" lon="114.209681">
+        <ele>6.9</ele>
+      </trkpt>
+      <trkpt lat="22.429688" lon="114.209544">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.429756" lon="114.209266">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.431332" lon="114.207039">
+        <ele>4.6</ele>
+      </trkpt>
+      <trkpt lat="22.432733" lon="114.205046">
+        <ele>6.5</ele>
+      </trkpt>
+      <trkpt lat="22.432976" lon="114.204888">
+        <ele>6.2</ele>
+      </trkpt>
+      <trkpt lat="22.433043" lon="114.2046">
+        <ele>6.2</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

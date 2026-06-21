@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Shing Mun War Relics Trail</name>
+    <time>2026-06-14T12:13:47Z</time>
+  </metadata>
+  <trk>
+    <name>Shing Mun War Relics Trail</name>
+    <cmt>戰地遺跡徑 (城門)</cmt>
+    <trkseg>
+      <trkpt lat="22.377816" lon="114.144452">
+        <ele>197.0</ele>
+      </trkpt>
+      <trkpt lat="22.377494" lon="114.144612">
+        <ele>219.7</ele>
+      </trkpt>
+      <trkpt lat="22.377311" lon="114.144488">
+        <ele>219.4</ele>
+      </trkpt>
+      <trkpt lat="22.376917" lon="114.144495">
+        <ele>234.9</ele>
+      </trkpt>
+      <trkpt lat="22.37679" lon="114.145048">
+        <ele>242.8</ele>
+      </trkpt>
+      <trkpt lat="22.37657" lon="114.145191">
+        <ele>247.0</ele>
+      </trkpt>
+      <trkpt lat="22.376417" lon="114.145504">
+        <ele>247.0</ele>
+      </trkpt>
+      <trkpt lat="22.375896" lon="114.145605">
+        <ele>253.8</ele>
+      </trkpt>
+      <trkpt lat="22.375732" lon="114.145846">
+        <ele>258.0</ele>
+      </trkpt>
+      <trkpt lat="22.375308" lon="114.145872">
+        <ele>257.1</ele>
+      </trkpt>
+      <trkpt lat="22.375152" lon="114.145561">
+        <ele>269.8</ele>
+      </trkpt>
+      <trkpt lat="22.375006" lon="114.145601">
+        <ele>276.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

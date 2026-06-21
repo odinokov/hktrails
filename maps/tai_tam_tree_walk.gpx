@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Tai Tam Tree Walk</name>
+    <time>2026-06-14T12:13:49Z</time>
+  </metadata>
+  <trk>
+    <name>Tai Tam Tree Walk</name>
+    <cmt>大潭樹木研習徑</cmt>
+    <trkseg>
+      <trkpt lat="22.25924" lon="114.204641">
+        <ele>247.5</ele>
+      </trkpt>
+      <trkpt lat="22.259191" lon="114.204696">
+        <ele>247.0</ele>
+      </trkpt>
+      <trkpt lat="22.259107" lon="114.204547">
+        <ele>248.9</ele>
+      </trkpt>
+      <trkpt lat="22.258995" lon="114.204613">
+        <ele>244.9</ele>
+      </trkpt>
+      <trkpt lat="22.258886" lon="114.20446">
+        <ele>249.3</ele>
+      </trkpt>
+      <trkpt lat="22.258882" lon="114.204625">
+        <ele>245.8</ele>
+      </trkpt>
+      <trkpt lat="22.258711" lon="114.20459">
+        <ele>248.3</ele>
+      </trkpt>
+      <trkpt lat="22.258747" lon="114.204455">
+        <ele>248.2</ele>
+      </trkpt>
+      <trkpt lat="22.259313" lon="114.204683">
+        <ele>243.8</ele>
+      </trkpt>
+      <trkpt lat="22.259037" lon="114.204552">
+        <ele>247.8</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

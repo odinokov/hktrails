@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Little Hawaii Trail</name>
+    <time>2026-06-14T12:13:39Z</time>
+  </metadata>
+  <trk>
+    <name>Little Hawaii Trail</name>
+    <cmt>小夏威夷徑</cmt>
+    <trkseg>
+      <trkpt lat="22.332372" lon="114.242448">
+        <ele>175.6</ele>
+      </trkpt>
+      <trkpt lat="22.332238" lon="114.242824">
+        <ele>175.5</ele>
+      </trkpt>
+      <trkpt lat="22.331841" lon="114.243237">
+        <ele>155.5</ele>
+      </trkpt>
+      <trkpt lat="22.331702" lon="114.244015">
+        <ele>146.4</ele>
+      </trkpt>
+      <trkpt lat="22.331777" lon="114.244192">
+        <ele>145.8</ele>
+      </trkpt>
+      <trkpt lat="22.332131" lon="114.244305">
+        <ele>146.1</ele>
+      </trkpt>
+      <trkpt lat="22.332228" lon="114.244471">
+        <ele>143.7</ele>
+      </trkpt>
+      <trkpt lat="22.332024" lon="114.245496">
+        <ele>127.7</ele>
+      </trkpt>
+      <trkpt lat="22.331581" lon="114.24621">
+        <ele>115.5</ele>
+      </trkpt>
+      <trkpt lat="22.331748" lon="114.246354">
+        <ele>114.7</ele>
+      </trkpt>
+      <trkpt lat="22.331659" lon="114.246681">
+        <ele>116.3</ele>
+      </trkpt>
+      <trkpt lat="22.331697" lon="114.246901">
+        <ele>113.0</ele>
+      </trkpt>
+      <trkpt lat="22.33194" lon="114.247454">
+        <ele>103.8</ele>
+      </trkpt>
+      <trkpt lat="22.332083" lon="114.248237">
+        <ele>94.1</ele>
+      </trkpt>
+      <trkpt lat="22.331825" lon="114.248993">
+        <ele>85.9</ele>
+      </trkpt>
+      <trkpt lat="22.33167" lon="114.249095">
+        <ele>79.3</ele>
+      </trkpt>
+      <trkpt lat="22.331257" lon="114.24976">
+        <ele>68.0</ele>
+      </trkpt>
+      <trkpt lat="22.331029" lon="114.249971">
+        <ele>60.9</ele>
+      </trkpt>
+      <trkpt lat="22.331024" lon="114.249417">
+        <ele>59.1</ele>
+      </trkpt>
+      <trkpt lat="22.331152" lon="114.248773">
+        <ele>64.0</ele>
+      </trkpt>
+      <trkpt lat="22.331142" lon="114.247863">
+        <ele>55.9</ele>
+      </trkpt>
+      <trkpt lat="22.331054" lon="114.247765">
+        <ele>48.7</ele>
+      </trkpt>
+      <trkpt lat="22.33091" lon="114.247786">
+        <ele>48.5</ele>
+      </trkpt>
+      <trkpt lat="22.331054" lon="114.247765">
+        <ele>48.7</ele>
+      </trkpt>
+      <trkpt lat="22.331142" lon="114.247863">
+        <ele>55.9</ele>
+      </trkpt>
+      <trkpt lat="22.331152" lon="114.248773">
+        <ele>64.0</ele>
+      </trkpt>
+      <trkpt lat="22.331024" lon="114.249417">
+        <ele>59.1</ele>
+      </trkpt>
+      <trkpt lat="22.331029" lon="114.249971">
+        <ele>60.9</ele>
+      </trkpt>
+      <trkpt lat="22.330694" lon="114.250117">
+        <ele>53.4</ele>
+      </trkpt>
+      <trkpt lat="22.330644" lon="114.250205">
+        <ele>53.3</ele>
+      </trkpt>
+      <trkpt lat="22.330365" lon="114.250249">
+        <ele>48.6</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

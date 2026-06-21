@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Central And Western District Fitness Trail</name>
+    <time>2026-06-14T12:13:36Z</time>
+  </metadata>
+  <trk>
+    <name>Central And Western District Fitness Trail</name>
+    <cmt>中西區健步廊</cmt>
+    <trkseg>
+      <trkpt lat="22.290516" lon="114.143613">
+        <ele>4.8</ele>
+      </trkpt>
+      <trkpt lat="22.29043" lon="114.145673">
+        <ele>4.0</ele>
+      </trkpt>
+      <trkpt lat="22.289627" lon="114.148926">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.28957" lon="114.148907">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.289523" lon="114.149105">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.289578" lon="114.149124">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.289394" lon="114.149868">
+        <ele>4.7</ele>
+      </trkpt>
+      <trkpt lat="22.288495" lon="114.150582">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.288402" lon="114.150477">
+        <ele>5.3</ele>
+      </trkpt>
+      <trkpt lat="22.288252" lon="114.150554">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.288218" lon="114.150686">
+        <ele>13.6</ele>
+      </trkpt>
+      <trkpt lat="22.288073" lon="114.150597">
+        <ele>12.0</ele>
+      </trkpt>
+      <trkpt lat="22.288079" lon="114.151102">
+        <ele>22.0</ele>
+      </trkpt>
+      <trkpt lat="22.287658" lon="114.152957">
+        <ele>19.8</ele>
+      </trkpt>
+      <trkpt lat="22.287864" lon="114.153049">
+        <ele>20.1</ele>
+      </trkpt>
+      <trkpt lat="22.287684" lon="114.153758">
+        <ele>13.1</ele>
+      </trkpt>
+      <trkpt lat="22.287396" lon="114.153809">
+        <ele>13.2</ele>
+      </trkpt>
+      <trkpt lat="22.287062" lon="114.153714">
+        <ele>16.3</ele>
+      </trkpt>
+      <trkpt lat="22.285547" lon="114.156502">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.285201" lon="114.156843">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.285146" lon="114.156773">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.285048" lon="114.15682">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.284926" lon="114.156697">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.283823" lon="114.157606">
+        <ele>4.0</ele>
+      </trkpt>
+      <trkpt lat="22.283389" lon="114.158077">
+        <ele>4.0</ele>
+      </trkpt>
+      <trkpt lat="22.283032" lon="114.158695">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.283981" lon="114.159318">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.283913" lon="114.15943">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.284669" lon="114.159946">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.285147" lon="114.160167">
+        <ele>5.8</ele>
+      </trkpt>
+      <trkpt lat="22.28593" lon="114.160765">
+        <ele>15.0</ele>
+      </trkpt>
+      <trkpt lat="22.286463" lon="114.160893">
+        <ele>6.7</ele>
+      </trkpt>
+      <trkpt lat="22.286489" lon="114.160827">
+        <ele>6.3</ele>
+      </trkpt>
+      <trkpt lat="22.286541" lon="114.160908">
+        <ele>6.9</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Kei Ling Ha Tree Walk</name>
+    <time>2026-06-14T12:13:38Z</time>
+  </metadata>
+  <trk>
+    <name>Kei Ling Ha Tree Walk</name>
+    <cmt>企嶺下樹木研習徑</cmt>
+    <trkseg>
+      <trkpt lat="22.405451" lon="114.277186">
+        <ele>70.7</ele>
+      </trkpt>
+      <trkpt lat="22.405401" lon="114.277008">
+        <ele>84.5</ele>
+      </trkpt>
+      <trkpt lat="22.405026" lon="114.276913">
+        <ele>82.0</ele>
+      </trkpt>
+      <trkpt lat="22.404902" lon="114.276769">
+        <ele>88.7</ele>
+      </trkpt>
+      <trkpt lat="22.404909" lon="114.276502">
+        <ele>84.8</ele>
+      </trkpt>
+      <trkpt lat="22.405211" lon="114.275767">
+        <ele>90.2</ele>
+      </trkpt>
+      <trkpt lat="22.405424" lon="114.27552">
+        <ele>89.1</ele>
+      </trkpt>
+      <trkpt lat="22.405757" lon="114.275376">
+        <ele>87.0</ele>
+      </trkpt>
+      <trkpt lat="22.406208" lon="114.274844">
+        <ele>87.8</ele>
+      </trkpt>
+      <trkpt lat="22.406878" lon="114.274405">
+        <ele>101.7</ele>
+      </trkpt>
+      <trkpt lat="22.407314" lon="114.274335">
+        <ele>86.9</ele>
+      </trkpt>
+      <trkpt lat="22.407775" lon="114.274099">
+        <ele>81.8</ele>
+      </trkpt>
+      <trkpt lat="22.408201" lon="114.274018">
+        <ele>74.8</ele>
+      </trkpt>
+      <trkpt lat="22.408364" lon="114.274126">
+        <ele>70.7</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

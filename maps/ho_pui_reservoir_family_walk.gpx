@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Ho Pui Reservoir Family Walk</name>
+    <time>2026-06-14T12:13:37Z</time>
+  </metadata>
+  <trk>
+    <name>Ho Pui Reservoir Family Walk</name>
+    <cmt>河背水塘家樂徑</cmt>
+    <trkseg>
+      <trkpt lat="22.40696" lon="114.07374">
+        <ele>166.2</ele>
+      </trkpt>
+      <trkpt lat="22.406608" lon="114.073568">
+        <ele>170.3</ele>
+      </trkpt>
+      <trkpt lat="22.406482" lon="114.073603">
+        <ele>166.3</ele>
+      </trkpt>
+      <trkpt lat="22.406394" lon="114.073516">
+        <ele>167.2</ele>
+      </trkpt>
+      <trkpt lat="22.406213" lon="114.072533">
+        <ele>173.4</ele>
+      </trkpt>
+      <trkpt lat="22.406076" lon="114.072272">
+        <ele>171.9</ele>
+      </trkpt>
+      <trkpt lat="22.40611" lon="114.07144">
+        <ele>172.8</ele>
+      </trkpt>
+      <trkpt lat="22.405906" lon="114.07063">
+        <ele>170.0</ele>
+      </trkpt>
+      <trkpt lat="22.405805" lon="114.070794">
+        <ele>170.6</ele>
+      </trkpt>
+      <trkpt lat="22.405626" lon="114.072208">
+        <ele>167.4</ele>
+      </trkpt>
+      <trkpt lat="22.405594" lon="114.072262">
+        <ele>167.3</ele>
+      </trkpt>
+      <trkpt lat="22.405367" lon="114.072235">
+        <ele>166.8</ele>
+      </trkpt>
+      <trkpt lat="22.405503" lon="114.072749">
+        <ele>163.0</ele>
+      </trkpt>
+      <trkpt lat="22.405347" lon="114.072897">
+        <ele>169.0</ele>
+      </trkpt>
+      <trkpt lat="22.405395" lon="114.073047">
+        <ele>170.7</ele>
+      </trkpt>
+      <trkpt lat="22.405542" lon="114.073126">
+        <ele>165.4</ele>
+      </trkpt>
+      <trkpt lat="22.405602" lon="114.073368">
+        <ele>166.0</ele>
+      </trkpt>
+      <trkpt lat="22.405543" lon="114.073954">
+        <ele>163.7</ele>
+      </trkpt>
+      <trkpt lat="22.405043" lon="114.074446">
+        <ele>167.2</ele>
+      </trkpt>
+      <trkpt lat="22.404664" lon="114.074603">
+        <ele>171.4</ele>
+      </trkpt>
+      <trkpt lat="22.404576" lon="114.074733">
+        <ele>171.9</ele>
+      </trkpt>
+      <trkpt lat="22.404234" lon="114.075928">
+        <ele>171.1</ele>
+      </trkpt>
+      <trkpt lat="22.404855" lon="114.076399">
+        <ele>175.4</ele>
+      </trkpt>
+      <trkpt lat="22.405176" lon="114.07648">
+        <ele>174.1</ele>
+      </trkpt>
+      <trkpt lat="22.405576" lon="114.077113">
+        <ele>172.2</ele>
+      </trkpt>
+      <trkpt lat="22.405586" lon="114.077287">
+        <ele>174.8</ele>
+      </trkpt>
+      <trkpt lat="22.406001" lon="114.077881">
+        <ele>178.6</ele>
+      </trkpt>
+      <trkpt lat="22.406571" lon="114.078327">
+        <ele>172.0</ele>
+      </trkpt>
+      <trkpt lat="22.406766" lon="114.078354">
+        <ele>173.1</ele>
+      </trkpt>
+      <trkpt lat="22.406858" lon="114.077948">
+        <ele>174.0</ele>
+      </trkpt>
+      <trkpt lat="22.406863" lon="114.077212">
+        <ele>173.3</ele>
+      </trkpt>
+      <trkpt lat="22.406953" lon="114.077054">
+        <ele>173.0</ele>
+      </trkpt>
+      <trkpt lat="22.407201" lon="114.076912">
+        <ele>171.2</ele>
+      </trkpt>
+      <trkpt lat="22.407413" lon="114.076919">
+        <ele>174.6</ele>
+      </trkpt>
+      <trkpt lat="22.40748" lon="114.076378">
+        <ele>177.5</ele>
+      </trkpt>
+      <trkpt lat="22.407311" lon="114.075183">
+        <ele>166.0</ele>
+      </trkpt>
+      <trkpt lat="22.407449" lon="114.075017">
+        <ele>166.1</ele>
+      </trkpt>
+      <trkpt lat="22.407164" lon="114.07449">
+        <ele>161.5</ele>
+      </trkpt>
+      <trkpt lat="22.407375" lon="114.073971">
+        <ele>162.5</ele>
+      </trkpt>
+      <trkpt lat="22.407284" lon="114.073501">
+        <ele>167.3</ele>
+      </trkpt>
+      <trkpt lat="22.407169" lon="114.073685">
+        <ele>168.0</ele>
+      </trkpt>
+      <trkpt lat="22.407045" lon="114.073734">
+        <ele>167.8</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

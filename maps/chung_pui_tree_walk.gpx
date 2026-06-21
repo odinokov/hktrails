@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Chung Pui Tree Walk</name>
+    <time>2026-06-14T12:13:36Z</time>
+  </metadata>
+  <trk>
+    <name>Chung Pui Tree Walk</name>
+    <cmt>涌背樹木研習徑</cmt>
+    <trkseg>
+      <trkpt lat="22.487541" lon="114.242937">
+        <ele>22.1</ele>
+      </trkpt>
+      <trkpt lat="22.487418" lon="114.24286">
+        <ele>24.8</ele>
+      </trkpt>
+      <trkpt lat="22.487319" lon="114.242906">
+        <ele>26.0</ele>
+      </trkpt>
+      <trkpt lat="22.487033" lon="114.242742">
+        <ele>31.3</ele>
+      </trkpt>
+      <trkpt lat="22.487248" lon="114.241976">
+        <ele>35.1</ele>
+      </trkpt>
+      <trkpt lat="22.487421" lon="114.241937">
+        <ele>30.4</ele>
+      </trkpt>
+      <trkpt lat="22.487702" lon="114.242179">
+        <ele>21.2</ele>
+      </trkpt>
+      <trkpt lat="22.487875" lon="114.242158">
+        <ele>19.7</ele>
+      </trkpt>
+      <trkpt lat="22.487929" lon="114.242239">
+        <ele>19.0</ele>
+      </trkpt>
+      <trkpt lat="22.487884" lon="114.242663">
+        <ele>18.5</ele>
+      </trkpt>
+      <trkpt lat="22.487629" lon="114.242827">
+        <ele>21.1</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

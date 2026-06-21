@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Wang Chung Stream</name>
+    <time>2026-06-14T12:13:51Z</time>
+  </metadata>
+  <trk>
+    <name>Wang Chung Stream</name>
+    <cmt>橫涌石澗</cmt>
+    <trkseg>
+      <trkpt lat="22.500267" lon="114.239088">
+        <ele>47.8</ele>
+      </trkpt>
+      <trkpt lat="22.499986" lon="114.238808">
+        <ele>37.4</ele>
+      </trkpt>
+      <trkpt lat="22.499466" lon="114.238562">
+        <ele>43.9</ele>
+      </trkpt>
+      <trkpt lat="22.498833" lon="114.238476">
+        <ele>49.7</ele>
+      </trkpt>
+      <trkpt lat="22.498411" lon="114.238257">
+        <ele>56.0</ele>
+      </trkpt>
+      <trkpt lat="22.498011" lon="114.238009">
+        <ele>69.3</ele>
+      </trkpt>
+      <trkpt lat="22.497896" lon="114.237781">
+        <ele>88.8</ele>
+      </trkpt>
+      <trkpt lat="22.497258" lon="114.238008">
+        <ele>111.1</ele>
+      </trkpt>
+      <trkpt lat="22.497124" lon="114.237817">
+        <ele>119.0</ele>
+      </trkpt>
+      <trkpt lat="22.497105" lon="114.237467">
+        <ele>135.8</ele>
+      </trkpt>
+      <trkpt lat="22.497272" lon="114.237261">
+        <ele>138.1</ele>
+      </trkpt>
+      <trkpt lat="22.49742" lon="114.237214">
+        <ele>134.1</ele>
+      </trkpt>
+      <trkpt lat="22.497427" lon="114.236938">
+        <ele>137.3</ele>
+      </trkpt>
+      <trkpt lat="22.497342" lon="114.236525">
+        <ele>141.1</ele>
+      </trkpt>
+      <trkpt lat="22.497206" lon="114.236265">
+        <ele>148.3</ele>
+      </trkpt>
+      <trkpt lat="22.496534" lon="114.236028">
+        <ele>155.9</ele>
+      </trkpt>
+      <trkpt lat="22.495853" lon="114.236113">
+        <ele>160.1</ele>
+      </trkpt>
+      <trkpt lat="22.495346" lon="114.235186">
+        <ele>177.1</ele>
+      </trkpt>
+      <trkpt lat="22.495506" lon="114.234825">
+        <ele>179.9</ele>
+      </trkpt>
+      <trkpt lat="22.495681" lon="114.234727">
+        <ele>184.8</ele>
+      </trkpt>
+      <trkpt lat="22.495938" lon="114.234821">
+        <ele>186.1</ele>
+      </trkpt>
+      <trkpt lat="22.496104" lon="114.234676">
+        <ele>186.0</ele>
+      </trkpt>
+      <trkpt lat="22.49593" lon="114.233853">
+        <ele>188.0</ele>
+      </trkpt>
+      <trkpt lat="22.495987" lon="114.233632">
+        <ele>189.0</ele>
+      </trkpt>
+      <trkpt lat="22.49618" lon="114.233358">
+        <ele>189.2</ele>
+      </trkpt>
+      <trkpt lat="22.496661" lon="114.233147">
+        <ele>191.5</ele>
+      </trkpt>
+      <trkpt lat="22.496889" lon="114.232831">
+        <ele>195.2</ele>
+      </trkpt>
+      <trkpt lat="22.497211" lon="114.232741">
+        <ele>197.0</ele>
+      </trkpt>
+      <trkpt lat="22.497609" lon="114.232787">
+        <ele>199.3</ele>
+      </trkpt>
+      <trkpt lat="22.49774" lon="114.232716">
+        <ele>199.6</ele>
+      </trkpt>
+      <trkpt lat="22.497771" lon="114.232617">
+        <ele>200.1</ele>
+      </trkpt>
+      <trkpt lat="22.497584" lon="114.232299">
+        <ele>201.4</ele>
+      </trkpt>
+      <trkpt lat="22.497552" lon="114.231831">
+        <ele>203.0</ele>
+      </trkpt>
+      <trkpt lat="22.497724" lon="114.231764">
+        <ele>205.7</ele>
+      </trkpt>
+      <trkpt lat="22.497992" lon="114.231897">
+        <ele>205.4</ele>
+      </trkpt>
+      <trkpt lat="22.498117" lon="114.232168">
+        <ele>210.5</ele>
+      </trkpt>
+      <trkpt lat="22.498336" lon="114.232113">
+        <ele>209.1</ele>
+      </trkpt>
+      <trkpt lat="22.498519" lon="114.231893">
+        <ele>208.8</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

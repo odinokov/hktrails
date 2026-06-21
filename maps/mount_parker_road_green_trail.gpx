@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Mount Parker Road Green Trail</name>
+    <time>2026-06-14T12:13:44Z</time>
+  </metadata>
+  <trk>
+    <name>Mount Parker Road Green Trail</name>
+    <cmt>柏架山道自然徑</cmt>
+    <trkseg>
+      <trkpt lat="22.284797" lon="114.211639">
+        <ele>19.7</ele>
+      </trkpt>
+      <trkpt lat="22.283878" lon="114.211387">
+        <ele>31.2</ele>
+      </trkpt>
+      <trkpt lat="22.283144" lon="114.211839">
+        <ele>42.7</ele>
+      </trkpt>
+      <trkpt lat="22.283063" lon="114.212123">
+        <ele>42.0</ele>
+      </trkpt>
+      <trkpt lat="22.282863" lon="114.212284">
+        <ele>44.3</ele>
+      </trkpt>
+      <trkpt lat="22.282718" lon="114.21223">
+        <ele>42.7</ele>
+      </trkpt>
+      <trkpt lat="22.282513" lon="114.211934">
+        <ele>50.8</ele>
+      </trkpt>
+      <trkpt lat="22.282152" lon="114.211827">
+        <ele>57.0</ele>
+      </trkpt>
+      <trkpt lat="22.282001" lon="114.211539">
+        <ele>59.2</ele>
+      </trkpt>
+      <trkpt lat="22.281707" lon="114.212038">
+        <ele>56.9</ele>
+      </trkpt>
+      <trkpt lat="22.281192" lon="114.21188">
+        <ele>73.2</ele>
+      </trkpt>
+      <trkpt lat="22.28089" lon="114.211949">
+        <ele>68.5</ele>
+      </trkpt>
+      <trkpt lat="22.280834" lon="114.211876">
+        <ele>72.7</ele>
+      </trkpt>
+      <trkpt lat="22.280816" lon="114.211382">
+        <ele>80.3</ele>
+      </trkpt>
+      <trkpt lat="22.281092" lon="114.211242">
+        <ele>82.1</ele>
+      </trkpt>
+      <trkpt lat="22.281357" lon="114.210941">
+        <ele>99.4</ele>
+      </trkpt>
+      <trkpt lat="22.281501" lon="114.21058">
+        <ele>92.5</ele>
+      </trkpt>
+      <trkpt lat="22.28144" lon="114.21043">
+        <ele>94.7</ele>
+      </trkpt>
+      <trkpt lat="22.281322" lon="114.21036">
+        <ele>96.4</ele>
+      </trkpt>
+      <trkpt lat="22.280824" lon="114.210359">
+        <ele>99.2</ele>
+      </trkpt>
+      <trkpt lat="22.280665" lon="114.210251">
+        <ele>100.0</ele>
+      </trkpt>
+      <trkpt lat="22.280633" lon="114.209999">
+        <ele>109.2</ele>
+      </trkpt>
+      <trkpt lat="22.280424" lon="114.209892">
+        <ele>110.0</ele>
+      </trkpt>
+      <trkpt lat="22.279811" lon="114.209934">
+        <ele>113.8</ele>
+      </trkpt>
+      <trkpt lat="22.279488" lon="114.209731">
+        <ele>118.7</ele>
+      </trkpt>
+      <trkpt lat="22.278921" lon="114.209971">
+        <ele>125.4</ele>
+      </trkpt>
+      <trkpt lat="22.278783" lon="114.209753">
+        <ele>131.5</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

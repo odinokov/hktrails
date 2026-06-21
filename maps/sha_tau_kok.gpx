@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Sha Tau Kok</name>
+    <time>2026-06-14T12:13:46Z</time>
+  </metadata>
+  <trk>
+    <name>Sha Tau Kok</name>
+    <cmt>沙頭角</cmt>
+    <trkseg>
+      <trkpt lat="22.545497" lon="114.223963">
+        <ele>4.0</ele>
+      </trkpt>
+      <trkpt lat="22.545723" lon="114.223818">
+        <ele>4.0</ele>
+      </trkpt>
+      <trkpt lat="22.545793" lon="114.22432">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.545723" lon="114.223818">
+        <ele>4.0</ele>
+      </trkpt>
+      <trkpt lat="22.545055" lon="114.224255">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.544596" lon="114.223465">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.544434" lon="114.222554">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.544535" lon="114.222217">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.544322" lon="114.221984">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.544157" lon="114.221304">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.544322" lon="114.221984">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.544535" lon="114.222217">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.544434" lon="114.222554">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.544554" lon="114.223377">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.545055" lon="114.224255">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.543592" lon="114.225232">
+        <ele>5.5</ele>
+      </trkpt>
+      <trkpt lat="22.54395" lon="114.22591">
+        <ele>3.5</ele>
+      </trkpt>
+      <trkpt lat="22.543591" lon="114.226146">
+        <ele>4.4</ele>
+      </trkpt>
+      <trkpt lat="22.543682" lon="114.226311">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.545363" lon="114.225223">
+        <ele>3.7</ele>
+      </trkpt>
+      <trkpt lat="22.545323" lon="114.22508">
+        <ele>4.3</ele>
+      </trkpt>
+      <trkpt lat="22.545528" lon="114.224851">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.545879" lon="114.224926">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.546208" lon="114.224752">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.546502" lon="114.22523">
+        <ele>4.0</ele>
+      </trkpt>
+      <trkpt lat="22.546868" lon="114.225445">
+        <ele>4.0</ele>
+      </trkpt>
+      <trkpt lat="22.54815" lon="114.225384">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.548723" lon="114.225122">
+        <ele>9.0</ele>
+      </trkpt>
+      <trkpt lat="22.549356" lon="114.224387">
+        <ele>9.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

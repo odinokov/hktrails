@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Hong Kong scuba sites — 48 reference waypoints</name>
+    <desc>Area and shoreline-reference anchors, not exact mooring, entry, exit or descent points. Always verify local restrictions, weather, currents and vessel traffic.</desc>
+    <link href="https://www.hkua.org.hk/dl/HKUA_Trainning_Suggestion_for_HKDiveSite_20090703.pdf">
+      <text>Hong Kong Underwater Association dive-site guide</text>
+    </link>
+  </metadata>
+  <wpt lat="22.367778" lon="114.288333">
+    <name>HKUA 9.01A · Sharp Island · Northwest shore · 10 m</name>
+    <cmt>橋咀洲</cmt>
+    <desc>Sharp Island / 橋咀洲; subsite: Northwest shore; HKUA guide page 2; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.362222" lon="114.2875">
+    <name>HKUA 9.01B · Sharp Island · West shore · 10 m</name>
+    <cmt>橋咀洲</cmt>
+    <desc>Sharp Island / 橋咀洲; subsite: West shore; HKUA guide page 2; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.356667" lon="114.297222">
+    <name>HKUA 9.01C · Sharp Island · Kiu Tsui Pai south · 10 m</name>
+    <cmt>橋咀洲</cmt>
+    <desc>Sharp Island / 橋咀洲; subsite: Kiu Tsui Pai south; HKUA guide page 2; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.352778" lon="114.295278">
+    <name>HKUA 9.01D · Sharp Island · Lung Ngan Yuen Tau · 10 m</name>
+    <cmt>橋咀洲</cmt>
+    <desc>Sharp Island / 橋咀洲; subsite: Lung Ngan Yuen Tau; HKUA guide page 2; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.328889" lon="114.2925">
+    <name>HKUA 9.02A · Shelter Island · Tai Wong Wan · 8 m</name>
+    <cmt>牛尾洲</cmt>
+    <desc>Shelter Island / 牛尾洲; subsite: Tai Wong Wan; HKUA guide page 3; published maximum depth: 8 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.324444" lon="114.294444">
+    <name>HKUA 9.02B · Shelter Island · Ngau To · 5 m</name>
+    <cmt>牛尾洲</cmt>
+    <desc>Shelter Island / 牛尾洲; subsite: Ngau To; HKUA guide page 3; published maximum depth: 5 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.33" lon="114.297222">
+    <name>HKUA 9.02C · Shelter Island · West of Ngau Tau Pai · 10 m</name>
+    <cmt>牛尾洲</cmt>
+    <desc>Shelter Island / 牛尾洲; subsite: West of Ngau Tau Pai; HKUA guide page 3; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.325" lon="114.352222">
+    <name>HKUA 9.03A · Bluff Island · Ung Kong Wan · 10 m</name>
+    <cmt>沙塘口山</cmt>
+    <desc>Bluff Island / 沙塘口山; subsite: Ung Kong Wan; HKUA guide page 4; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.311111" lon="114.348333">
+    <name>HKUA 9.03B · Bluff Island · East of Sha Tong Hau Mei · 10 m</name>
+    <cmt>沙塘口山</cmt>
+    <desc>Bluff Island / 沙塘口山; subsite: East of Sha Tong Hau Mei; HKUA guide page 4; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.339167" lon="114.365">
+    <name>HKUA 9.04A · Town Islands · North site A · 6 m</name>
+    <cmt>伙頭墳洲</cmt>
+    <desc>Town Islands / 伙頭墳洲; subsite: North site A; HKUA guide page 5; published maximum depth: 6 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.331389" lon="114.366944">
+    <name>HKUA 9.04B · Town Islands · North site B · 10 m</name>
+    <cmt>伙頭墳洲</cmt>
+    <desc>Town Islands / 伙頭墳洲; subsite: North site B; HKUA guide page 5; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.313865" lon="114.361667">
+    <name>HKUA 9.05A · Basalt Island · Site A · 10 m</name>
+    <cmt>火石洲</cmt>
+    <desc>Basalt Island / 火石洲; subsite: Site A; HKUA guide page 6; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.307778" lon="114.365">
+    <name>HKUA 9.05B · Basalt Island · Site B · 10 m</name>
+    <cmt>火石洲</cmt>
+    <desc>Basalt Island / 火石洲; subsite: Site B; HKUA guide page 6; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.306944" lon="114.367778">
+    <name>HKUA 9.05C · Basalt Island · Site C · 10 m</name>
+    <cmt>火石洲</cmt>
+    <desc>Basalt Island / 火石洲; subsite: Site C; HKUA guide page 6; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.263193" lon="114.357206">
+    <name>HKUA 9.06 · Ninepin Group · 30 m</name>
+    <cmt>果洲群島</cmt>
+    <desc>Ninepin Group / 果洲群島; subsite: Ninepin Group; HKUA guide page 7; published maximum depth: 30 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.300833" lon="114.320278">
+    <name>HKUA 9.07A · Trio Island (Tai Lak Lei) · Northwest · 10 m</name>
+    <cmt>大癩痢</cmt>
+    <desc>Trio Island (Tai Lak Lei) / 大癩痢; subsite: Northwest; HKUA guide page 8; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.299444" lon="114.320833">
+    <name>HKUA 9.07B · Trio Island (Tai Lak Lei) · Southeast · 10 m</name>
+    <cmt>大癩痢</cmt>
+    <desc>Trio Island (Tai Lak Lei) / 大癩痢; subsite: Southeast; HKUA guide page 8; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.308333" lon="114.291111">
+    <name>HKUA 9.08A · Sheung Sze Wan · East shore · 10 m</name>
+    <cmt>相思灣</cmt>
+    <desc>Sheung Sze Wan / 相思灣; subsite: East shore; HKUA guide page 9; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.306667" lon="114.295278">
+    <name>HKUA 9.08B · Sheung Sze Wan · West shore · 10 m</name>
+    <cmt>相思灣</cmt>
+    <desc>Sheung Sze Wan / 相思灣; subsite: West shore; HKUA guide page 9; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.311667" lon="114.298056">
+    <name>HKUA 9.09 · Lung Ha Wan · Area anchor · 10 m</name>
+    <cmt>龍蝦灣</cmt>
+    <desc>Lung Ha Wan / 龍蝦灣; subsite: Area anchor; HKUA guide page 10; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.320278" lon="114.285556">
+    <name>HKUA 9.10A · Little Palm Beach · West bay · 7 m</name>
+    <cmt>小棕林</cmt>
+    <desc>Little Palm Beach / 小棕林; subsite: West bay; HKUA guide page 11; published maximum depth: 7 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.319563" lon="114.289872">
+    <name>HKUA 9.10B · Little Palm Beach · East bay · 8 m</name>
+    <cmt>小棕林</cmt>
+    <desc>Little Palm Beach / 小棕林; subsite: East bay; HKUA guide page 11; published maximum depth: 8 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.354722" lon="114.340278">
+    <name>HKUA 9.11 · Tai She Wan · Area anchor · 10 m</name>
+    <cmt>大蛇灣</cmt>
+    <desc>Tai She Wan / 大蛇灣; subsite: Area anchor; HKUA guide page 12; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.35" lon="114.368333">
+    <name>HKUA 9.13 · Pak Lap Tsai · Area anchor · 10 m</name>
+    <cmt>白腊仔</cmt>
+    <desc>Pak Lap Tsai / 白腊仔; subsite: Area anchor; HKUA guide page 14; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.37337" lon="114.37662">
+    <name>HKUA 9.14 · Long Ke Wan · Bay area anchor · 10 m</name>
+    <cmt>浪茄灣</cmt>
+    <desc>Long Ke Wan / 浪茄灣; subsite: Bay area anchor; HKUA guide page 15; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.401389" lon="114.385">
+    <name>HKUA 9.15 · Tsim Chau · Tai Chau / Lan Tau Pai area · 10 m</name>
+    <cmt>尖洲</cmt>
+    <desc>Tsim Chau / 尖洲; subsite: Tsim Chau / Tai Chau / Lan Tau Pai area; HKUA guide page 16; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.411111" lon="114.401389">
+    <name>HKUA 9.16 · Tai Long Tsui (Cheung Tsui) · Peninsula area · 10 m</name>
+    <cmt>大浪咀（長咀）</cmt>
+    <desc>Tai Long Tsui (Cheung Tsui) / 大浪咀（長咀）; subsite: Peninsula area; HKUA guide page 17; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.434444" lon="114.403333">
+    <name>HKUA 9.17 · Tuen Tsui · Peninsula area · 10 m</name>
+    <cmt>短咀</cmt>
+    <desc>Tuen Tsui / 短咀; subsite: Peninsula area; HKUA guide page 18; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.499378" lon="114.355444">
+    <name>HKUA 9.18A · Port Island (Chek Chau) · Tai Wan Wan · 10 m</name>
+    <cmt>赤洲</cmt>
+    <desc>Port Island (Chek Chau) / 赤洲; subsite: Tai Wan Wan; HKUA guide page 19; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.504444" lon="114.3625">
+    <name>HKUA 9.18B · Port Island (Chek Chau) · Lau Shui Hang · 10 m</name>
+    <cmt>赤洲</cmt>
+    <desc>Port Island (Chek Chau) / 赤洲; subsite: Lau Shui Hang; HKUA guide page 19; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.495278" lon="114.358611">
+    <name>HKUA 9.18C · Port Island (Chek Chau) · East of Hung Ying Tsui · 10 m</name>
+    <cmt>赤洲</cmt>
+    <desc>Port Island (Chek Chau) / 赤洲; subsite: East of Hung Ying Tsui; HKUA guide page 19; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.470556" lon="114.331806">
+    <name>HKUA 9.19 · Hoi Ha Wan · Published coordinate-range midpoint · 15 m</name>
+    <cmt>海下灣</cmt>
+    <desc>Hoi Ha Wan / 海下灣; subsite: Published coordinate-range midpoint; HKUA guide page 20; published maximum depth: 15 m. Marine-park rules apply.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.504167" lon="114.313333">
+    <name>HKUA 9.20 · Wong Chuk Kok Hoi · Area / Wu Pai reference · 10 m</name>
+    <cmt>黃竹角海</cmt>
+    <desc>Wong Chuk Kok Hoi / 黃竹角海; subsite: Area / Wu Pai reference; HKUA guide page 21; published maximum depth: 10 m. Avoid fish-culture zones.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.529167" lon="114.315833">
+    <name>HKUA 9.21A · Crescent Island South · South of Crescent Bay · 10 m</name>
+    <cmt>娥眉洲南</cmt>
+    <desc>Crescent Island South / 娥眉洲南; subsite: South of Crescent Bay; HKUA guide page 22; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.523333" lon="114.318611">
+    <name>HKUA 9.21B · Crescent Island South · Lo Kei Wan · 10 m</name>
+    <cmt>娥眉洲南</cmt>
+    <desc>Crescent Island South / 娥眉洲南; subsite: Lo Kei Wan; HKUA guide page 22; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.545556" lon="114.432778">
+    <name>HKUA 9.22 · Tung Ping Chau · Published coordinate-range midpoint · 10 m</name>
+    <cmt>東平洲</cmt>
+    <desc>Tung Ping Chau / 東平洲; subsite: Published coordinate-range midpoint; HKUA guide page 23; published maximum depth: 10 m. Whole-island coastal area; ferry and marine-park constraints.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.543889" lon="114.303056">
+    <name>HKUA 9.23A · Kat O · Kai Pei Ngam · 10 m</name>
+    <cmt>吉澳</cmt>
+    <desc>Kat O / 吉澳; subsite: Kai Pei Ngam; HKUA guide page 24; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.5475" lon="114.308611">
+    <name>HKUA 9.23B · Kat O · Chung Wan · 10 m</name>
+    <cmt>吉澳</cmt>
+    <desc>Kat O / 吉澳; subsite: Chung Wan; HKUA guide page 24; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.549444" lon="114.317778">
+    <name>HKUA 9.23C · Kat O · Kai Kung Tau · 10 m</name>
+    <cmt>吉澳</cmt>
+    <desc>Kat O / 吉澳; subsite: Kai Kung Tau; HKUA guide page 24; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.532222" lon="114.288333">
+    <name>HKUA 9.23D · Kat O · Pak Ka Chau · 10 m</name>
+    <cmt>吉澳</cmt>
+    <desc>Kat O / 吉澳; subsite: Pak Ka Chau; HKUA guide page 24; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.533056" lon="114.293611">
+    <name>HKUA 9.23E · Kat O · Wong Kok Tau · 10 m</name>
+    <cmt>吉澳</cmt>
+    <desc>Kat O / 吉澳; subsite: Wong Kok Tau; HKUA guide page 24; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.528611" lon="114.266389">
+    <name>HKUA 9.24 · Lai Chi Wo · Area anchor · 7 m</name>
+    <cmt>荔枝窩</cmt>
+    <desc>Lai Chi Wo / 荔枝窩; subsite: Area anchor; HKUA guide page 25; published maximum depth: 7 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.513333" lon="114.278333">
+    <name>HKUA 9.25 · Au Yue Tsui · West shore · 6 m</name>
+    <cmt>拗魚咀</cmt>
+    <desc>Au Yue Tsui / 拗魚咀; subsite: West shore; HKUA guide page 26; published maximum depth: 6 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.522222" lon="114.278333">
+    <name>HKUA 9.26 · Ngau Shi Wu Wan · Area anchor · 10 m</name>
+    <cmt>牛屎湖灣</cmt>
+    <desc>Ngau Shi Wu Wan / 牛屎湖灣; subsite: Area anchor; HKUA guide page 27; published maximum depth: 10 m. Muddy seabed noted in source.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.3" lon="114.311667">
+    <name>HKUA 9.27 · Port Shelter – Duck Rocks · 8 m</name>
+    <cmt>牛尾海－鴨石</cmt>
+    <desc>Port Shelter – Duck Rocks / 牛尾海－鴨石; subsite: Duck Rocks; HKUA guide page 28; published maximum depth: 8 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.451667" lon="114.422778">
+    <name>HKUA 9.28 · Mirs Bay – Breaker Reef · 15 m</name>
+    <cmt>大鵬灣－浪花排</cmt>
+    <desc>Mirs Bay – Breaker Reef / 大鵬灣－浪花排; subsite: Breaker Reef; HKUA guide page 29; published maximum depth: 15 m. Offshore reef; exposed area.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.184444" lon="114.304167">
+    <name>HKUA 9.29A · Waglan Island · North island northwest shore · 15 m</name>
+    <cmt>橫瀾島</cmt>
+    <desc>Waglan Island / 橫瀾島; subsite: North island northwest shore; HKUA guide page 30; published maximum depth: 15 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+  <wpt lat="22.181667" lon="114.304233">
+    <name>HKUA 9.29B · Waglan Island · South island west shore · 10 m</name>
+    <cmt>橫瀾島</cmt>
+    <desc>Waglan Island / 橫瀾島; subsite: South island west shore; HKUA guide page 30; published maximum depth: 10 m.</desc>
+    <sym>Diving Area</sym>
+    <type>Scuba diving site</type>
+  </wpt>
+</gpx>

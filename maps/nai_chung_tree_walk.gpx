@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Nai Chung Tree Walk</name>
+    <time>2026-06-14T12:13:44Z</time>
+  </metadata>
+  <trk>
+    <name>Nai Chung Tree Walk</name>
+    <cmt>泥涌樹木研習徑</cmt>
+    <trkseg>
+      <trkpt lat="22.429938" lon="114.258597">
+        <ele>26.1</ele>
+      </trkpt>
+      <trkpt lat="22.42959" lon="114.258364">
+        <ele>17.9</ele>
+      </trkpt>
+      <trkpt lat="22.429543" lon="114.258432">
+        <ele>18.9</ele>
+      </trkpt>
+      <trkpt lat="22.429373" lon="114.258237">
+        <ele>21.8</ele>
+      </trkpt>
+      <trkpt lat="22.429536" lon="114.259319">
+        <ele>21.8</ele>
+      </trkpt>
+      <trkpt lat="22.429724" lon="114.25886">
+        <ele>26.9</ele>
+      </trkpt>
+      <trkpt lat="22.429611" lon="114.258778">
+        <ele>20.7</ele>
+      </trkpt>
+      <trkpt lat="22.429668" lon="114.258613">
+        <ele>17.3</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

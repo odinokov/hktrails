@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Ma On Shan Promenade Jogging Trail</name>
+    <time>2026-06-14T12:13:40Z</time>
+  </metadata>
+  <trk>
+    <name>Ma On Shan Promenade Jogging Trail</name>
+    <cmt>馬鞍山海濱長廊緩跑徑</cmt>
+    <trkseg>
+      <trkpt lat="22.409256" lon="114.22066">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.41008" lon="114.221072">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.411806" lon="114.221645">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.416099" lon="114.222723">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.420372" lon="114.223885">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.421318" lon="114.224132">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.423745" lon="114.225198">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.425287" lon="114.226146">
+        <ele>6.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

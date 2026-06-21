@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Tai Po Kau Nature Trail</name>
+    <time>2026-06-14T12:13:49Z</time>
+  </metadata>
+  <trk>
+    <name>Tai Po Kau Nature Trail</name>
+    <cmt>大埔滘自然教育徑</cmt>
+    <trkseg>
+      <trkpt lat="22.431843" lon="114.185014">
+        <ele>73.9</ele>
+      </trkpt>
+      <trkpt lat="22.431734" lon="114.185011">
+        <ele>84.5</ele>
+      </trkpt>
+      <trkpt lat="22.431612" lon="114.184771">
+        <ele>88.2</ele>
+      </trkpt>
+      <trkpt lat="22.43142" lon="114.185108">
+        <ele>102.0</ele>
+      </trkpt>
+      <trkpt lat="22.431336" lon="114.185864">
+        <ele>111.7</ele>
+      </trkpt>
+      <trkpt lat="22.431018" lon="114.185974">
+        <ele>126.4</ele>
+      </trkpt>
+      <trkpt lat="22.4305" lon="114.185793">
+        <ele>146.5</ele>
+      </trkpt>
+      <trkpt lat="22.43037" lon="114.185644">
+        <ele>149.2</ele>
+      </trkpt>
+      <trkpt lat="22.43027" lon="114.185637">
+        <ele>152.8</ele>
+      </trkpt>
+      <trkpt lat="22.43019" lon="114.185495">
+        <ele>152.6</ele>
+      </trkpt>
+      <trkpt lat="22.429941" lon="114.185449">
+        <ele>158.5</ele>
+      </trkpt>
+      <trkpt lat="22.429514" lon="114.18505">
+        <ele>161.9</ele>
+      </trkpt>
+      <trkpt lat="22.429362" lon="114.184793">
+        <ele>169.1</ele>
+      </trkpt>
+      <trkpt lat="22.429225" lon="114.184292">
+        <ele>170.2</ele>
+      </trkpt>
+      <trkpt lat="22.428974" lon="114.18396">
+        <ele>173.4</ele>
+      </trkpt>
+      <trkpt lat="22.428635" lon="114.182782">
+        <ele>173.9</ele>
+      </trkpt>
+      <trkpt lat="22.428453" lon="114.182656">
+        <ele>180.0</ele>
+      </trkpt>
+      <trkpt lat="22.428268" lon="114.182725">
+        <ele>182.0</ele>
+      </trkpt>
+      <trkpt lat="22.427791" lon="114.182634">
+        <ele>175.5</ele>
+      </trkpt>
+      <trkpt lat="22.427617" lon="114.182276">
+        <ele>169.1</ele>
+      </trkpt>
+      <trkpt lat="22.427487" lon="114.182195">
+        <ele>159.8</ele>
+      </trkpt>
+      <trkpt lat="22.427332" lon="114.181938">
+        <ele>150.5</ele>
+      </trkpt>
+      <trkpt lat="22.4274" lon="114.181508">
+        <ele>145.4</ele>
+      </trkpt>
+      <trkpt lat="22.42754" lon="114.181199">
+        <ele>143.4</ele>
+      </trkpt>
+      <trkpt lat="22.428038" lon="114.180698">
+        <ele>135.7</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

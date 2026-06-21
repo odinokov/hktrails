@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Tai Tam Family Walk</name>
+    <time>2026-06-14T12:13:49Z</time>
+  </metadata>
+  <trk>
+    <name>Tai Tam Family Walk</name>
+    <cmt>大潭家樂徑</cmt>
+    <trkseg>
+      <trkpt lat="22.258883" lon="114.201558">
+        <ele>242.6</ele>
+      </trkpt>
+      <trkpt lat="22.258574" lon="114.201672">
+        <ele>246.9</ele>
+      </trkpt>
+      <trkpt lat="22.258199" lon="114.202095">
+        <ele>257.6</ele>
+      </trkpt>
+      <trkpt lat="22.257663" lon="114.202319">
+        <ele>270.0</ele>
+      </trkpt>
+      <trkpt lat="22.25719" lon="114.20242">
+        <ele>269.0</ele>
+      </trkpt>
+      <trkpt lat="22.257037" lon="114.20261">
+        <ele>268.8</ele>
+      </trkpt>
+      <trkpt lat="22.256902" lon="114.202594">
+        <ele>270.4</ele>
+      </trkpt>
+      <trkpt lat="22.256523" lon="114.202755">
+        <ele>270.1</ele>
+      </trkpt>
+      <trkpt lat="22.256241" lon="114.202965">
+        <ele>275.4</ele>
+      </trkpt>
+      <trkpt lat="22.256142" lon="114.203286">
+        <ele>271.0</ele>
+      </trkpt>
+      <trkpt lat="22.256137" lon="114.203452">
+        <ele>275.0</ele>
+      </trkpt>
+      <trkpt lat="22.25697" lon="114.203429">
+        <ele>267.8</ele>
+      </trkpt>
+      <trkpt lat="22.256753" lon="114.20401">
+        <ele>275.6</ele>
+      </trkpt>
+      <trkpt lat="22.257008" lon="114.204127">
+        <ele>270.3</ele>
+      </trkpt>
+      <trkpt lat="22.25714" lon="114.204402">
+        <ele>269.1</ele>
+      </trkpt>
+      <trkpt lat="22.257274" lon="114.204514">
+        <ele>272.0</ele>
+      </trkpt>
+      <trkpt lat="22.257701" lon="114.204359">
+        <ele>272.0</ele>
+      </trkpt>
+      <trkpt lat="22.257658" lon="114.204579">
+        <ele>272.1</ele>
+      </trkpt>
+      <trkpt lat="22.257917" lon="114.204949">
+        <ele>266.4</ele>
+      </trkpt>
+      <trkpt lat="22.25876" lon="114.204947">
+        <ele>254.8</ele>
+      </trkpt>
+      <trkpt lat="22.258949" lon="114.204893">
+        <ele>253.0</ele>
+      </trkpt>
+      <trkpt lat="22.259217" lon="114.204657">
+        <ele>247.0</ele>
+      </trkpt>
+      <trkpt lat="22.259313" lon="114.204683">
+        <ele>243.8</ele>
+      </trkpt>
+      <trkpt lat="22.259292" lon="114.205116">
+        <ele>239.4</ele>
+      </trkpt>
+      <trkpt lat="22.258962" lon="114.205251">
+        <ele>251.0</ele>
+      </trkpt>
+      <trkpt lat="22.258841" lon="114.205507">
+        <ele>251.0</ele>
+      </trkpt>
+      <trkpt lat="22.258226" lon="114.205918">
+        <ele>253.3</ele>
+      </trkpt>
+      <trkpt lat="22.258117" lon="114.206093">
+        <ele>253.0</ele>
+      </trkpt>
+      <trkpt lat="22.258081" lon="114.206594">
+        <ele>242.8</ele>
+      </trkpt>
+      <trkpt lat="22.258134" lon="114.206879">
+        <ele>244.0</ele>
+      </trkpt>
+      <trkpt lat="22.257999" lon="114.207376">
+        <ele>242.0</ele>
+      </trkpt>
+      <trkpt lat="22.258007" lon="114.207769">
+        <ele>234.4</ele>
+      </trkpt>
+      <trkpt lat="22.257935" lon="114.208007">
+        <ele>224.2</ele>
+      </trkpt>
+      <trkpt lat="22.257983" lon="114.208126">
+        <ele>217.8</ele>
+      </trkpt>
+      <trkpt lat="22.258172" lon="114.208151">
+        <ele>212.9</ele>
+      </trkpt>
+      <trkpt lat="22.258195" lon="114.20824">
+        <ele>207.2</ele>
+      </trkpt>
+      <trkpt lat="22.258104" lon="114.208307">
+        <ele>205.0</ele>
+      </trkpt>
+      <trkpt lat="22.258183" lon="114.208371">
+        <ele>204.0</ele>
+      </trkpt>
+      <trkpt lat="22.258235" lon="114.208654">
+        <ele>203.7</ele>
+      </trkpt>
+      <trkpt lat="22.257951" lon="114.208883">
+        <ele>202.5</ele>
+      </trkpt>
+      <trkpt lat="22.257714" lon="114.208899">
+        <ele>193.6</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

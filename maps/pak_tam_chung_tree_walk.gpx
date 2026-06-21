@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Pak Tam Chung Tree Walk</name>
+    <time>2026-06-14T12:13:45Z</time>
+  </metadata>
+  <trk>
+    <name>Pak Tam Chung Tree Walk</name>
+    <cmt>北潭涌樹木研習徑</cmt>
+    <trkseg>
+      <trkpt lat="22.397369" lon="114.320249">
+        <ele>33.0</ele>
+      </trkpt>
+      <trkpt lat="22.397237" lon="114.320404">
+        <ele>21.6</ele>
+      </trkpt>
+      <trkpt lat="22.396842" lon="114.320558">
+        <ele>32.9</ele>
+      </trkpt>
+      <trkpt lat="22.396692" lon="114.320849">
+        <ele>30.0</ele>
+      </trkpt>
+      <trkpt lat="22.396846" lon="114.320993">
+        <ele>28.3</ele>
+      </trkpt>
+      <trkpt lat="22.396982" lon="114.320997">
+        <ele>30.2</ele>
+      </trkpt>
+      <trkpt lat="22.39702" lon="114.321129">
+        <ele>31.0</ele>
+      </trkpt>
+      <trkpt lat="22.397328" lon="114.321395">
+        <ele>30.0</ele>
+      </trkpt>
+      <trkpt lat="22.397556" lon="114.321269">
+        <ele>27.8</ele>
+      </trkpt>
+      <trkpt lat="22.397864" lon="114.321372">
+        <ele>23.0</ele>
+      </trkpt>
+      <trkpt lat="22.39788" lon="114.32115">
+        <ele>30.0</ele>
+      </trkpt>
+      <trkpt lat="22.397492" lon="114.320924">
+        <ele>25.4</ele>
+      </trkpt>
+      <trkpt lat="22.397526" lon="114.320792">
+        <ele>19.4</ele>
+      </trkpt>
+      <trkpt lat="22.397955" lon="114.321135">
+        <ele>29.6</ele>
+      </trkpt>
+      <trkpt lat="22.398077" lon="114.321007">
+        <ele>18.6</ele>
+      </trkpt>
+      <trkpt lat="22.397988" lon="114.320906">
+        <ele>18.7</ele>
+      </trkpt>
+      <trkpt lat="22.397879" lon="114.320946">
+        <ele>20.5</ele>
+      </trkpt>
+      <trkpt lat="22.397893" lon="114.320792">
+        <ele>25.8</ele>
+      </trkpt>
+      <trkpt lat="22.397814" lon="114.320665">
+        <ele>14.0</ele>
+      </trkpt>
+      <trkpt lat="22.397488" lon="114.320387">
+        <ele>13.9</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Sharp Island Geo Trail</name>
+    <time>2026-06-14T12:13:46Z</time>
+  </metadata>
+  <trk>
+    <name>Sharp Island Geo Trail</name>
+    <cmt>橋咀洲地質步道</cmt>
+    <trkseg>
+      <trkpt lat="22.367312" lon="114.287595">
+        <ele>4.5</ele>
+      </trkpt>
+      <trkpt lat="22.367054" lon="114.288094">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.366267" lon="114.288506">
+        <ele>3.7</ele>
+      </trkpt>
+      <trkpt lat="22.364584" lon="114.287461">
+        <ele>2.0</ele>
+      </trkpt>
+      <trkpt lat="22.364297" lon="114.287169">
+        <ele>4.1</ele>
+      </trkpt>
+      <trkpt lat="22.364159" lon="114.286886">
+        <ele>16.0</ele>
+      </trkpt>
+      <trkpt lat="22.363945" lon="114.28677">
+        <ele>22.3</ele>
+      </trkpt>
+      <trkpt lat="22.363568" lon="114.286808">
+        <ele>22.9</ele>
+      </trkpt>
+      <trkpt lat="22.363131" lon="114.286567">
+        <ele>28.8</ele>
+      </trkpt>
+      <trkpt lat="22.362876" lon="114.286729">
+        <ele>23.5</ele>
+      </trkpt>
+      <trkpt lat="22.362848" lon="114.286576">
+        <ele>20.7</ele>
+      </trkpt>
+      <trkpt lat="22.363004" lon="114.286313">
+        <ele>14.2</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

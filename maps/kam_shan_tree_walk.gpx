@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Kam Shan Tree Walk</name>
+    <time>2026-06-14T12:13:38Z</time>
+  </metadata>
+  <trk>
+    <name>Kam Shan Tree Walk</name>
+    <cmt>金山樹木研習徑</cmt>
+    <trkseg>
+      <trkpt lat="22.353492" lon="114.15245">
+        <ele>140.1</ele>
+      </trkpt>
+      <trkpt lat="22.353217" lon="114.152344">
+        <ele>138.5</ele>
+      </trkpt>
+      <trkpt lat="22.353307" lon="114.151665">
+        <ele>143.6</ele>
+      </trkpt>
+      <trkpt lat="22.353037" lon="114.151065">
+        <ele>150.9</ele>
+      </trkpt>
+      <trkpt lat="22.352967" lon="114.150969">
+        <ele>153.4</ele>
+      </trkpt>
+      <trkpt lat="22.352696" lon="114.150944">
+        <ele>158.8</ele>
+      </trkpt>
+      <trkpt lat="22.352574" lon="114.151018">
+        <ele>157.2</ele>
+      </trkpt>
+      <trkpt lat="22.352354" lon="114.15075">
+        <ele>160.3</ele>
+      </trkpt>
+      <trkpt lat="22.352305" lon="114.150292">
+        <ele>162.4</ele>
+      </trkpt>
+      <trkpt lat="22.351986" lon="114.149821">
+        <ele>160.2</ele>
+      </trkpt>
+      <trkpt lat="22.352075" lon="114.149598">
+        <ele>163.8</ele>
+      </trkpt>
+      <trkpt lat="22.352031" lon="114.149466">
+        <ele>162.1</ele>
+      </trkpt>
+      <trkpt lat="22.351403" lon="114.149298">
+        <ele>159.4</ele>
+      </trkpt>
+      <trkpt lat="22.351103" lon="114.148831">
+        <ele>172.1</ele>
+      </trkpt>
+      <trkpt lat="22.350889" lon="114.148401">
+        <ele>163.7</ele>
+      </trkpt>
+      <trkpt lat="22.351063" lon="114.148155">
+        <ele>160.3</ele>
+      </trkpt>
+      <trkpt lat="22.351004" lon="114.147908">
+        <ele>164.7</ele>
+      </trkpt>
+      <trkpt lat="22.349906" lon="114.147455">
+        <ele>161.7</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,1001 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="compiled from hongkongclimbing.com, thecrag.com, thetopo.com, OSM and Wikipedia" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Hong Kong Climbing &amp; Bouldering Sites (90)</name>
+    <desc>Waypoint collection of 90 outdoor rock-climbing and bouldering areas (no gyms). Names from hongkongclimbing.com and thecrag.com; coordinates cross-validated against thecrag.com, thetopo.com and OpenStreetMap; some waypoints mark the approach/access point rather than the rock itself. Elevations bilinear-sampled from the HK Lands Department 5 m LiDAR DTM (Hong Kong Principal Datum).</desc>
+    <time>2026-07-02T13:43:59Z</time>
+    <link href="https://hongkongclimbing.com/">
+      <text>Hong Kong Climbing</text>
+    </link>
+  </metadata>
+  <wpt lat="22.23174" lon="114.16034">
+    <ele>59</ele>
+    <name>Crag: Ap Lei Chau</name>
+    <cmt>鴨脷洲 · Hong Kong Island</cmt>
+    <desc>Crag. Granite sea cliffs; sport, trad and DWS across Welcome Wall, The Gallery, Yellow Wall.</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/ap-lei-chau/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.23518" lon="114.25301">
+    <ele>31</ele>
+    <name>Bouldering: Back Beach</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Bouldering. Coastline boulders north of Shek O Back Beach beneath the golf course.</desc>
+    <link href="https://hongkongclimbing.com/blocs/back-beach/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.2484" lon="114.19251">
+    <ele>145</ele>
+    <name>Crag: Bay Road Gully</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Crag. Gully crag above Repulse Bay Road (thecrag.com).</desc>
+    <link href="https://www.thecrag.com/en/climbing/hong-kong/hong-kong-island/area/12483387066">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.25679" lon="114.18142">
+    <ele>232</ele>
+    <name>Crag: Black Ant</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Crag. Small crag near Wong Nai Chung Gap (thecrag.com).</desc>
+    <link href="https://www.thecrag.com/en/climbing/hong-kong/hong-kong-island/area/11281704804">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.25797" lon="114.1857">
+    <ele>341</ele>
+    <name>Crag: Black Crag</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Crag. South-facing slab sport crag above Tai Tam, 28 routes.</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/black-crag/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.25813" lon="114.18647">
+    <ele>353</ele>
+    <name>Crag: Blacks Link Buttress</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Crag. Trad cracks, slabs and roofs near Wong Nai Chung Gap.</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/blacks-link/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.27087" lon="114.17657">
+    <ele>154</ele>
+    <name>Crag: Bowen Road</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Crag. Compact granite buttresses along eastern Bowen Road, ~14 sport/trad routes.</desc>
+    <link href="https://hongkongclimbing.com/bowen-road/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.25444" lon="114.25553">
+    <ele>1</ele>
+    <name>Crag: Cape Collinson</name>
+    <cmt>歌連臣角 · Hong Kong Island</cmt>
+    <desc>Crag. Tidal sport area southeast of Chai Wan, ~55 routes in three sectors.</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/cape-collinson/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.222" lon="114.2397">
+    <ele>0</ele>
+    <name>Crag: Cape D'Aguilar</name>
+    <cmt>鶴咀 · Hong Kong Island</cmt>
+    <desc>Crag. Tidal granite crag near the mouth of Tai Tam Bay; waypoint marks the flooded Shek O Quarry beside the approach.</desc>
+    <link href="https://hongkongclimbing.com/cape-daguilar/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.28401" lon="114.20187">
+    <ele>203</ele>
+    <name>Crag: Cecil's Slab</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Crag. Slab on Sir Cecil's Ride (thecrag.com).</desc>
+    <link href="https://www.thecrag.com/en/climbing/hong-kong/hong-kong-island/area/11178394917">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.27874" lon="114.1479">
+    <ele>314</ele>
+    <name>Crag: Central Crags</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Crag. Six granite sport crags above Central (Austin Powers, Bird's Nest, Cave, Forgotten Buttress, Mid-Levels, Soho).</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/central-crags/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.2758" lon="114.15038">
+    <ele>306</ele>
+    <name>Crag: Central Nu</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Crag. Crag above Central District (thecrag.com).</desc>
+    <link href="https://www.thecrag.com/en/climbing/hong-kong/hong-kong-island/area/9335218296">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.21371" lon="114.20127">
+    <ele>75</ele>
+    <name>Bouldering: Chung Hom Kok</name>
+    <cmt>舂坎角 · Hong Kong Island</cmt>
+    <desc>Bouldering. Coastal wave-smoothed granite boulders near Chung Hom Kok beach.</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/chung-hom-kok-boulders/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.27904" lon="114.20671">
+    <ele>249</ele>
+    <name>Crag: Garden Buttress &amp; The Perch</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Crag. Two intimate crags on Siu Ma Shan; 8 sport and 5 trad routes.</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/garden-buttress/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.27285" lon="114.22205">
+    <ele>277</ele>
+    <name>Crag: General Rock</name>
+    <cmt>將軍石 · Hong Kong Island</cmt>
+    <desc>Crag. Granite promontory on Mount Parker's east face, ~16 sport slab routes.</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/general-rock/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.27255" lon="114.1444">
+    <ele>463</ele>
+    <name>Crag: Governor's Crag</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Crag. Buttress on the Governor's Walk near Victoria Peak; waypoint marks the walk, crag is mid-loop.</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/governors-crag/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.21474" lon="114.24579">
+    <ele>182</ele>
+    <name>Bouldering: Hok Tsui Blocs</name>
+    <cmt>鶴咀 · Hong Kong Island</cmt>
+    <desc>Bouldering. Roadside blocs on Cape D'Aguilar Road; shortest road access of any HK bouldering.</desc>
+    <link href="https://hongkongclimbing.com/blocs/hok-tsui/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.26913" lon="114.20423">
+    <ele>300</ele>
+    <name>Bouldering: Jardine's Blocs</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Bouldering. Hillside boulders above Jardine's Lookout; waypoint marks Mount Butler Quarry, blocs ~250 m west.</desc>
+    <link href="https://hongkongclimbing.com/blocs/jardines/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.2829" lon="114.19719">
+    <ele>190</ele>
+    <name>Crag: Monkey Buttress</name>
+    <cmt>寶馬山 · Hong Kong Island</cmt>
+    <desc>Crag. Braemar Hill sport crag, 40+ single-pitch routes across four walls.</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/monkey-buttress/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.28205" lon="114.20609">
+    <ele>222</ele>
+    <name>Crag: Morning Buttress</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Crag. Forested granite valley crag near North Point, ~16 sport/trad routes.</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/morning-buttress/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.2672" lon="114.20413">
+    <ele>290</ele>
+    <name>Crag: Mount Butler &amp; Jardine's Lookout</name>
+    <cmt>畢拿山 · Hong Kong Island</cmt>
+    <desc>Crag. Granite buttresses above the Tai Tam reservoirs and along Jardine's North Catchwater, ~30 short sport routes.</desc>
+    <link href="https://hongkongclimbing.com/mount-butler/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.26039" lon="114.1856">
+    <ele>334</ele>
+    <name>Crag: Mount Nicholson</name>
+    <cmt>聶高信山 · Hong Kong Island</cmt>
+    <desc>Crag. Technical granite slabs and cracks, 32 routes.</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/mount-nicholson/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.2679" lon="114.22354">
+    <ele>498</ele>
+    <name>Crag: Mount Parker Crags</name>
+    <cmt>柏架山 · Hong Kong Island</cmt>
+    <desc>Crag. Two large buttresses beneath the Mount Parker radar domes, ~23 sport routes.</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/mount-parker/mount-parker-crags/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.22211" lon="114.25371">
+    <ele>7</ele>
+    <name>Crag: Nova Crag</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Crag. Crag on the Cape D'Aguilar peninsula (thecrag.com).</desc>
+    <link href="https://www.thecrag.com/en/climbing/hong-kong/hong-kong-island/area/11521475298">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.26561" lon="114.13883">
+    <ele>184</ele>
+    <name>Crag: Pok Fu Lam</name>
+    <cmt>薄扶林 · Hong Kong Island</cmt>
+    <desc>Crag. Beginner-friendly slab sport crag beside Pok Fu Lam Reservoir.</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/pok-fu-lam/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.23041" lon="114.25447">
+    <ele>2</ele>
+    <name>Crag &amp; bouldering: Shek O</name>
+    <cmt>石澳 · Hong Kong Island</cmt>
+    <desc>Crag &amp; bouldering. Historic granite sea cliffs plus Tai Tau Chau headland boulders.</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/shek-o/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag &amp; bouldering</type>
+  </wpt>
+  <wpt lat="22.26008" lon="114.25512">
+    <ele>7</ele>
+    <name>Crag &amp; bouldering: Silver Bay (Ngan Wan)</name>
+    <cmt>銀灣 · Hong Kong Island</cmt>
+    <desc>Crag &amp; bouldering. Coastal granite outcrops south of Cape Collinson Lighthouse; 8 sport routes plus blocs.</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/ngan-wan/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag &amp; bouldering</type>
+  </wpt>
+  <wpt lat="22.20545" lon="114.21763">
+    <ele>78</ele>
+    <name>Bouldering: Stanley</name>
+    <cmt>赤柱 · Hong Kong Island</cmt>
+    <desc>Bouldering. Coastal blocs and walls below the Correctional Services Museum, Tung Tau Wan Road.</desc>
+    <link href="https://hongkongclimbing.com/blocs/stanley/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.26154" lon="114.18823">
+    <ele>234</ele>
+    <name>Crag: Stubbs Road Slabs</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Crag. Slabs off Stubbs Road (thecrag.com).</desc>
+    <link href="https://www.thecrag.com/en/climbing/hong-kong/hong-kong-island/area/12484915">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.27202" lon="114.20013">
+    <ele>215</ele>
+    <name>Crag: Sunset Wall</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Crag. West-facing granite sport crag on Siu Ma Shan's lower slope.</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/sunset-wall/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.27759" lon="114.1969">
+    <ele>184</ele>
+    <name>Crag: Tai Hang Slabs</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Crag. Low-angled granite slab with 13 easy sport lines.</desc>
+    <link href="https://hongkongclimbing.com/tai-hang-slabs/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.27429" lon="114.21373">
+    <ele>103</ele>
+    <name>Bouldering: Tai Koo Boulders</name>
+    <cmt>太古 · Hong Kong Island</cmt>
+    <desc>Bouldering. Stream-bed boulder circuit near Tai Koo; avoid in flash-flood season.</desc>
+    <link href="https://hongkongclimbing.com/routes/hong-kong/tai-koo-boulders/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.27369" lon="114.22166">
+    <ele>224</ele>
+    <name>Bouldering: The Chamber</name>
+    <cmt>Hong Kong Island</cmt>
+    <desc>Bouldering. Lone bloc above Yiu Hing Road, Shau Kei Wan; friable rock, re-opened 2022.</desc>
+    <link href="https://hongkongclimbing.com/blocs/the-chamber/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.228" lon="114.23621">
+    <ele>4</ele>
+    <name>Crag &amp; bouldering: To Tei Wan</name>
+    <cmt>土地灣 · Hong Kong Island</cmt>
+    <desc>Crag &amp; bouldering. Sport crag above Tai Tam Bay plus Diety Bay beach boulders.</desc>
+    <link href="https://hongkongclimbing.com/to-tei-wan/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag &amp; bouldering</type>
+  </wpt>
+  <wpt lat="22.34887" lon="114.18703">
+    <ele>194</ele>
+    <name>Crag: Arrow Rock</name>
+    <cmt>Kowloon</cmt>
+    <desc>Crag. Granite block near Lion Rock with 7 technical sport routes.</desc>
+    <link href="https://hongkongclimbing.com/arrow-rock/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.34675" lon="114.16909">
+    <ele>323</ele>
+    <name>Crag &amp; bouldering: Beacon Hill</name>
+    <cmt>筆架山 · Kowloon</cmt>
+    <desc>Crag &amp; bouldering. Very popular granite sport crag, 50+ short routes, plus the Really Face boulder.</desc>
+    <link href="https://hongkongclimbing.com/routes/kowloon/beacon-hill/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag &amp; bouldering</type>
+  </wpt>
+  <wpt lat="22.34865" lon="114.18825">
+    <ele>174</ele>
+    <name>Crag: Bow Rock</name>
+    <cmt>Kowloon</cmt>
+    <desc>Crag. Granite block near Arrow Rock, Lion Rock area (thecrag.com).</desc>
+    <link href="https://www.thecrag.com/en/climbing/hong-kong/kowloon/area/12998064126">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.29403" lon="114.2432">
+    <ele>147</ele>
+    <name>Crag: Devil's Peak</name>
+    <cmt>魔鬼山 · Kowloon</cmt>
+    <desc>Crag. Granite slabs east of Yau Tong, ~29 mostly bolted routes.</desc>
+    <link href="https://hongkongclimbing.com/routes/kowloon/devils-peak-2/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.34865" lon="114.21391">
+    <ele>189</ele>
+    <name>Bouldering: Diamond Blocs</name>
+    <cmt>Kowloon</cmt>
+    <desc>Bouldering. Developing sector above Diamond Hill Crematorium; waypoint marks the Shark Rock (鯊魚石) sector.</desc>
+    <link href="https://hongkongclimbing.com/blocs/diamond-blocs/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.345099" lon="114.225335">
+    <ele>362</ele>
+    <name>Crag &amp; bouldering: Kowloon Peak</name>
+    <cmt>飛鵝山 · Kowloon</cmt>
+    <desc>Crag &amp; bouldering. Coarse tuff area: single-pitch sport, multi-pitch trad (Suicide Wall etc.); waypoint marks the roadside boulder (飛鵝山路邊石) on Fei Ngo Shan Road.</desc>
+    <link href="https://hongkongclimbing.com/routes/kowloon/kowloon-peak/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag &amp; bouldering</type>
+  </wpt>
+  <wpt lat="22.32412" lon="114.22389">
+    <ele>162</ele>
+    <name>Crag: Kwun Tong Reservoir</name>
+    <cmt>Kowloon</cmt>
+    <desc>Crag. Historic crag above the former Kwun Tong reservoir (thecrag.com).</desc>
+    <link href="https://www.thecrag.com/en/climbing/hong-kong/kowloon/area/9276334482">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.29431" lon="114.24366">
+    <ele>174</ele>
+    <name>Crag: Lingnan Slabs</name>
+    <cmt>Kowloon</cmt>
+    <desc>Crag. Granite slab area east of Yau Tong, 40+ routes incl. multi-pitch, above Lingnan Temple.</desc>
+    <link href="https://hongkongclimbing.com/routes/lingnan-slabs/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.35103" lon="114.18515">
+    <ele>311</ele>
+    <name>Crag: Lion Rock</name>
+    <cmt>獅子山 · Kowloon</cmt>
+    <desc>Crag. Iconic granite peak with 2-3 pitch sport and trad routes in three sections.</desc>
+    <link href="https://hongkongclimbing.com/routes/kowloon/lion-rock/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.34964" lon="114.18421">
+    <ele>236</ele>
+    <name>Bouldering: Lion Rock Boulders</name>
+    <cmt>Kowloon</cmt>
+    <desc>Bouldering. The Lion Cub boulder halfway up the Kowloon-side approach to Lion Rock.</desc>
+    <link href="https://hongkongclimbing.com/blocs/lion-rock-boulders/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.34197" lon="114.21183">
+    <ele>100</ele>
+    <name>Bouldering: Middle Hill</name>
+    <cmt>象山西坑 · Kowloon</cmt>
+    <desc>Bouldering. Stream boulders in the west stream of Middle Hill (Elephant Hill); waypoint marks the HillTop Gardens entry.</desc>
+    <link href="https://hongkongclimbing.com/blocs/middle-hill/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.33772" lon="114.21806">
+    <ele>175</ele>
+    <name>Bouldering: Sunset Forest</name>
+    <cmt>Kowloon</cmt>
+    <desc>Bouldering. Large volcanic-tuff boulder field off Jat's Incline beside Sam Fung Temple (三峰廟), developed from 2023.</desc>
+    <link href="https://hongkongclimbing.com/routes/kowloon/sunset-forest/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.35788" lon="114.21805">
+    <ele>565</ele>
+    <name>Crag: Tate's Cairn</name>
+    <cmt>大老山 · Kowloon</cmt>
+    <desc>Crag. Historic crag on Tate's Cairn (thecrag.com).</desc>
+    <link href="https://www.thecrag.com/en/climbing/hong-kong/kowloon/area/3151422519">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.39276" lon="114.24448">
+    <ele>357</ele>
+    <name>Bouldering: Buffalo Boulders</name>
+    <cmt>New Territories</cmt>
+    <desc>Bouldering. Big coarse-tuff boulders south of Shek Lung Tsai, Ma On Shan.</desc>
+    <link href="https://hongkongclimbing.com/blocs/buffalo-boulders/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.26519" lon="114.30146">
+    <ele>0</ele>
+    <name>Crag: Clear Water Bay</name>
+    <cmt>清水灣 · New Territories</cmt>
+    <desc>Crag. Clubhouse Cliffs and Promontory Point inside CWB Country Club; access currently members-only.</desc>
+    <link href="https://hongkongclimbing.com/routes/new-territories/clear-water-bay/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.39659" lon="114.24629">
+    <ele>457</ele>
+    <name>Bouldering: Crocodile Blocs</name>
+    <cmt>鹿巢山 · New Territories</cmt>
+    <desc>Bouldering. Developing sector on Luk Chau Shan near Ma On Shan incl. the Stone Forest, opened late 2021.</desc>
+    <link href="https://hongkongclimbing.com/blocs/luk-chau-shan/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.46367" lon="114.07436">
+    <ele>332</ele>
+    <name>Bouldering: Kai Kung Leng</name>
+    <cmt>雞公嶺 · New Territories</cmt>
+    <desc>Bouldering. Hillside boulders incl. the Slytherin sector, northern New Territories.</desc>
+    <link href="https://hongkongclimbing.com/routes/new-territories/kai-kung-leng/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.416439" lon="114.233789">
+    <ele>95</ele>
+    <name>Crag: Ma On Shan Valley</name>
+    <cmt>New Territories</cmt>
+    <desc>Crag. High-friction granite slab sport area, ~17 routes across Main Crag and Lost Trail Crags.</desc>
+    <link href="https://hongkongclimbing.com/ma-on-shan-valley/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.40591" lon="114.23224">
+    <ele>145</ele>
+    <name>Crag &amp; bouldering: Ma Tai Stream</name>
+    <cmt>馬大石澗 · New Territories</cmt>
+    <desc>Crag &amp; bouldering. Hero Crag, X-Rock and river-bed granite boulders (Ma Tai Boulders) near Tai Shui Hang.</desc>
+    <link href="https://hongkongclimbing.com/hero-crag/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag &amp; bouldering</type>
+  </wpt>
+  <wpt lat="22.40226" lon="114.23154">
+    <ele>173</ele>
+    <name>Crag: Marvel Rock</name>
+    <cmt>New Territories</cmt>
+    <desc>Crag. Two granite buttresses near Tai Shui Hang, Ma On Shan; ~21 technical slab sport routes.</desc>
+    <link href="https://hongkongclimbing.com/marvel-rock/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.39024" lon="113.98498">
+    <ele>183</ele>
+    <name>Crag: On Tin Crag</name>
+    <cmt>昂天 · New Territories</cmt>
+    <desc>Crag. Granite outcrop off the MacLehose Trail section 10 catchwater, eastern Tuen Mun (Ngong Tin).</desc>
+    <link href="https://hongkongclimbing.com/on-tin-crag/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.33962" lon="114.26642">
+    <ele>15</ele>
+    <name>Bouldering: Pak Shui Wun</name>
+    <cmt>白水碗 · New Territories</cmt>
+    <desc>Bouldering. One big bloc plus small blocs on Pak Shui Wun beach near HKUST.</desc>
+    <link href="https://hongkongclimbing.com/pak-shui-wun/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.35838" lon="114.3785">
+    <ele>40</ele>
+    <name>Crag: Po Pin Chau</name>
+    <cmt>破邊洲 · New Territories</cmt>
+    <desc>Crag. Hexagonal columnar-tuff sea stack by High Island East Dam; 4 trad routes, swim access.</desc>
+    <link href="https://hongkongclimbing.com/routes/new-territories/po-ping-chau/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.29813" lon="114.31104">
+    <ele>3</ele>
+    <name>Crag: Razor Ridge</name>
+    <cmt>New Territories</cmt>
+    <desc>Crag. Ridge crag near Tai Hang Tun, Clear Water Bay (thecrag.com).</desc>
+    <link href="https://www.thecrag.com/en/climbing/hong-kong/new-territories/area/7051190394">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.38335" lon="114.2417">
+    <ele>232</ele>
+    <name>Bouldering: SCL Boulder</name>
+    <cmt>茅坪 · New Territories</cmt>
+    <desc>Bouldering. Lone stream-bed boulder near Mau Ping San Uk, problems to V10.</desc>
+    <link href="https://hongkongclimbing.com/blocs/scl-boulder/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.38209" lon="114.00572">
+    <ele>143</ele>
+    <name>Crag: Salong Crag</name>
+    <cmt>New Territories</cmt>
+    <desc>Crag. Sa Rock and Long Rock by Kam Sha Stream, Tai Lam Country Park, ~14 routes.</desc>
+    <link href="https://hongkongclimbing.com/routes/new-territories/salong-crag/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.38401" lon="113.98551">
+    <ele>195</ele>
+    <name>Crag: San Pin Stones</name>
+    <cmt>三品石 · New Territories</cmt>
+    <desc>Crag. Buttresses above Wah Fat Playground, eastern Tuen Mun; 30+ sport slab/face routes in five sections.</desc>
+    <link href="https://hongkongclimbing.com/routes/tuen-mun-crags/san-pin-stones/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.42" lon="114.038611">
+    <ele>23</ele>
+    <name>Bouldering: Secret Garden</name>
+    <cmt>New Territories</cmt>
+    <desc>Bouldering. Blocs near Tai Tong, Yuen Long, developed 2021/22.</desc>
+    <link href="https://hongkongclimbing.com/blocs/secret-garden/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.40775" lon="114.23179">
+    <ele>134</ele>
+    <name>Bouldering: Sisyphus</name>
+    <cmt>New Territories</cmt>
+    <desc>Bouldering. Lower and Upper bloc sectors near X-Rock, Ma Tai Stream area, released 2021 via #Sisyphus100.</desc>
+    <link href="https://hongkongclimbing.com/blocs/ma-on-shan-bouldering/sisyphus/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.40291" lon="114.30737">
+    <ele>252</ele>
+    <name>Crag: Spider Rock</name>
+    <cmt>New Territories</cmt>
+    <desc>Crag. Three small trad buttresses on Tai Tun above Pak Tam Chung, Sai Kung.</desc>
+    <link href="https://hongkongclimbing.com/routes/new-territories/spider-rock/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.29148" lon="114.30552">
+    <ele>9</ele>
+    <name>Crag: Tai Hang Tun</name>
+    <cmt>大坑墩 · New Territories</cmt>
+    <desc>Crag. Crag near Tai Hang Tun, Clear Water Bay (thecrag.com).</desc>
+    <link href="https://www.thecrag.com/en/climbing/hong-kong/new-territories/area/831231264">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.3663" lon="114.39051">
+    <ele>29</ele>
+    <name>Crag: Tai Long Wan (Long Ke Cliffs)</name>
+    <cmt>浪茄 · New Territories</cmt>
+    <desc>Crag. Remote granite trad cliffs on Tsang Pang Kok (罾棚角) headland, Sai Kung East; locations per 1977 guide.</desc>
+    <link href="https://hongkongclimbing.com/tai-long-wan-region/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.40419" lon="114.12145">
+    <ele>767</ele>
+    <name>Bouldering: Tai Mo Shan Boulders</name>
+    <cmt>大帽山 · New Territories</cmt>
+    <desc>Bouldering. Boulder sectors along Tai Mo Shan Road (Easy Access, Gateside, Firehouse, Switchback, Final Frontier, The Heavens).</desc>
+    <link href="https://hongkongclimbing.com/routes/new-territories/tai-mo-shan-boulders/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.45668" lon="114.33686">
+    <ele>83</ele>
+    <name>Crag: The Watch Tower</name>
+    <cmt>New Territories</cmt>
+    <desc>Crag. Coastal granite crag near Hoi Ha with 5 steep sport routes plus blocs.</desc>
+    <link href="https://hongkongclimbing.com/routes/hoi-ha/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.39121" lon="113.95541">
+    <ele>379</ele>
+    <name>Crag: Tsing Shan (The White Cliff)</name>
+    <cmt>青山 · New Territories</cmt>
+    <desc>Crag. Steep shear-wall sport crag on Castle Peak near Tuen Mun, ~11 routes.</desc>
+    <link href="https://hongkongclimbing.com/routes/tsing-shan/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.38034" lon="114.09269">
+    <ele>292</ele>
+    <name>Bouldering: Tsuen Wan Boulders</name>
+    <cmt>荃灣 · New Territories</cmt>
+    <desc>Bouldering. High-friction tuff sectors above Tsuen Wan: Ha Fa Shan, Radar Rocks, Colins Boulders, Lin Fa Shan, Shek Lung Kung.</desc>
+    <link href="https://hongkongclimbing.com/routes/new-territories/tsuen-wan-boulders/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.33109" lon="114.37206">
+    <ele>30</ele>
+    <name>Crag: Wang Chau Island</name>
+    <cmt>橫洲 · New Territories</cmt>
+    <desc>Crag. Remote Sai Kung island granite slab (Styx Zawn, SE corner); boat access only.</desc>
+    <link href="https://hongkongclimbing.com/wang-chau-island/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.35601" lon="114.37408">
+    <ele>19</ele>
+    <name>Crag: Waterfall Rock</name>
+    <cmt>New Territories</cmt>
+    <desc>Crag. Coastal columnar-tuff trad crag near High Island East Dam, 10 routes, best at low tide.</desc>
+    <link href="https://hongkongclimbing.com/routes/new-territories/waterfall-rock/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.181313" lon="114.123188">
+    <ele>6</ele>
+    <name>Bouldering: BCB Blocs</name>
+    <cmt>Islands</cmt>
+    <desc>Bouldering. Small granite walls and highball blocs around Bumcliff Bay, a sheltered cove on Lamma's southwest tip; speedboat from Yung Shue Wan (~15 min).</desc>
+    <link href="https://hongkongclimbing.com/blocs/bcb-blocs/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.29067" lon="114.02031">
+    <ele>2</ele>
+    <name>Crag: Black Kite Crag</name>
+    <cmt>Islands</cmt>
+    <desc>Crag. Small tidal crag near Discovery Bay, 7 balancy sport/top-rope routes.</desc>
+    <link href="https://hongkongclimbing.com/routes/lantau/black-kite-crag/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.203227" lon="114.036571">
+    <ele>50</ele>
+    <name>Bouldering: Cheung Chau</name>
+    <cmt>長洲 · Islands</cmt>
+    <desc>Bouldering. Island bouldering across the Coral Coast, Don Bosco and Southside sectors.</desc>
+    <link href="https://hongkongclimbing.com/cheung-chau/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.23392" lon="113.95298">
+    <ele>5</ele>
+    <name>Bouldering: Cheung Sha Beach Boulders</name>
+    <cmt>長沙 · Islands</cmt>
+    <desc>Bouldering. Beachside boulders at Upper Cheung Sha Beach, South Lantau.</desc>
+    <link href="https://hongkongclimbing.com/routes/lantau/cheung-sha-beach-boulders/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.24177" lon="113.93733">
+    <ele>432</ele>
+    <name>Bouldering: Cheung Yan Shan</name>
+    <cmt>長屻山 · Islands</cmt>
+    <desc>Bouldering. Bloc near the Cheung Yan Shan summit on Lantau Peak's eastern flank, from Pak Kung Au.</desc>
+    <link href="https://hongkongclimbing.com/blocs/cheung-yan-shan/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.22856" lon="113.97782">
+    <ele>16</ele>
+    <name>Crag: Eagle Crag</name>
+    <cmt>Islands</cmt>
+    <desc>Crag. Tall crag south of Pui O, Lantau, ~24 sport and trad routes.</desc>
+    <link href="https://hongkongclimbing.com/routes/lantau/eagle-crag/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.21767" lon="114.11938">
+    <ele>0</ele>
+    <name>Bouldering: Hung Shing Yeh</name>
+    <cmt>洪聖爺 · Islands</cmt>
+    <desc>Bouldering. Problems either side of Hung Shing Yeh beach, northern Lamma.</desc>
+    <link href="https://hongkongclimbing.com/routes/lamma/hung-shing-yeh-boulders/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.19878" lon="114.13617">
+    <ele>119</ele>
+    <name>Bouldering: Lamma Boulders</name>
+    <cmt>菱角山 · Islands</cmt>
+    <desc>Bouldering. Large hillside of granite boulders at Ling Kok Shan above Sok Kwu Wan, Lamma.</desc>
+    <link href="https://hongkongclimbing.com/routes/lamma/lamma-boulders/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Bouldering</type>
+  </wpt>
+  <wpt lat="22.19281" lon="114.12552">
+    <ele>241</ele>
+    <name>Crag: Mount Stenhouse</name>
+    <cmt>山地塘 · Islands</cmt>
+    <desc>Crag. Gullies, slabs and ribs with 4 documented multi-pitch trad routes, Lamma.</desc>
+    <link href="https://hongkongclimbing.com/routes/lamma/mount-stenhouse/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.29054" lon="113.96793">
+    <ele>168</ele>
+    <name>Crag: Pak Mong Crag</name>
+    <cmt>白芒 · Islands</cmt>
+    <desc>Crag. Slabby buttress near the North Lantau Expressway; crumbly rock, top-rope only.</desc>
+    <link href="https://hongkongclimbing.com/routes/lantau/pak-mong-crag/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.16911" lon="114.26339">
+    <ele>143</ele>
+    <name>Crag: Po Toi</name>
+    <cmt>蒲台島 · Islands</cmt>
+    <desc>Crag. Granite sea cliffs on the island's south/southwest coast, developed bolt-free as a trad venue.</desc>
+    <link href="https://hongkongclimbing.com/routes/po-toi/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.26783" lon="113.96075">
+    <ele>224</ele>
+    <name>Crag: River Crag</name>
+    <cmt>Islands</cmt>
+    <desc>Crag. Six bolted routes beside a Lantau waterfall with a swimming pool at the base.</desc>
+    <link href="https://hongkongclimbing.com/routes/lantau/river-crag/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.19015" lon="114.13618">
+    <ele>0</ele>
+    <name>Crag &amp; bouldering: Sham Wan</name>
+    <cmt>深灣 · Islands</cmt>
+    <desc>Crag &amp; bouldering. East Shore Crag and beach blocs, southern Lamma; closed 1 Apr-31 Oct for turtle nesting.</desc>
+    <link href="https://hongkongclimbing.com/routes/shum-wan-crag/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag &amp; bouldering</type>
+  </wpt>
+  <wpt lat="22.20734" lon="114.13571">
+    <ele>59</ele>
+    <name>Crag: Sok Kwu Wan Crags</name>
+    <cmt>索罟灣 · Islands</cmt>
+    <desc>Crag. Sok Kwu Buttress, Sok Kwu Wall and Sok Kwu Heights: sport, trad cracks and long slabs on Lamma.</desc>
+    <link href="https://hongkongclimbing.com/routes/lamma/sok-kwu-buttress/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.22937" lon="113.98401">
+    <ele>240</ele>
+    <name>Crag: Temple Crag</name>
+    <cmt>Islands</cmt>
+    <desc>Crag. West-facing high-friction slab crag on Lantau, 50+ routes across three buttresses.</desc>
+    <link href="https://hongkongclimbing.com/routes/lantau/temple-crag/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.22844" lon="113.98349">
+    <ele>184</ele>
+    <name>Crag: Temple South</name>
+    <cmt>Islands</cmt>
+    <desc>Crag. Granitic buttresses on Lo Yan Shan, Lantau, 40+ long routes facing Cheung Chau.</desc>
+    <link href="https://hongkongclimbing.com/routes/lantau/temple-south/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+  <wpt lat="22.24753" lon="114.29167">
+    <ele>208</ele>
+    <name>Crag &amp; bouldering: Tung Lung Chau</name>
+    <cmt>東龍洲 · Islands</cmt>
+    <desc>Crag &amp; bouldering. HK's premier climbing island: Technical Wall, Sea Gully, Central Slab, The Far Side, Big Wall, Kite Rock, Tathong Point, plus bouldering.</desc>
+    <link href="https://hongkongclimbing.com/routes/tung-lung-chau-2/">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag &amp; bouldering</type>
+  </wpt>
+  <wpt lat="22.26759" lon="113.95944">
+    <ele>185</ele>
+    <name>Crag: Yellow Dragon Stream</name>
+    <cmt>黃龍石澗 · Islands</cmt>
+    <desc>Crag. Stream-gorge crag beside River Crag, Lantau (thecrag.com).</desc>
+    <link href="https://www.thecrag.com/en/climbing/hong-kong/lantau-island/area/3416265297">
+      <text>Guide page</text>
+    </link>
+    <sym>Rock</sym>
+    <type>Crag</type>
+  </wpt>
+</gpx>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Sai Shan Country Trail</name>
+    <time>2026-06-14T12:13:46Z</time>
+  </metadata>
+  <trk>
+    <name>Sai Shan Country Trail</name>
+    <cmt>青衣細山徑</cmt>
+    <trkseg>
+      <trkpt lat="22.345053" lon="114.107678">
+        <ele>37.0</ele>
+      </trkpt>
+      <trkpt lat="22.345102" lon="114.107188">
+        <ele>39.0</ele>
+      </trkpt>
+      <trkpt lat="22.345384" lon="114.106642">
+        <ele>47.5</ele>
+      </trkpt>
+      <trkpt lat="22.345191" lon="114.106537">
+        <ele>43.5</ele>
+      </trkpt>
+      <trkpt lat="22.345137" lon="114.106273">
+        <ele>62.7</ele>
+      </trkpt>
+      <trkpt lat="22.345021" lon="114.106181">
+        <ele>69.1</ele>
+      </trkpt>
+      <trkpt lat="22.345091" lon="114.105865">
+        <ele>83.7</ele>
+      </trkpt>
+      <trkpt lat="22.34521" lon="114.105594">
+        <ele>98.5</ele>
+      </trkpt>
+      <trkpt lat="22.345837" lon="114.105206">
+        <ele>116.8</ele>
+      </trkpt>
+      <trkpt lat="22.345986" lon="114.104909">
+        <ele>124.1</ele>
+      </trkpt>
+      <trkpt lat="22.346327" lon="114.104723">
+        <ele>129.2</ele>
+      </trkpt>
+      <trkpt lat="22.346264" lon="114.104604">
+        <ele>134.5</ele>
+      </trkpt>
+      <trkpt lat="22.346365" lon="114.104515">
+        <ele>135.4</ele>
+      </trkpt>
+      <trkpt lat="22.34646" lon="114.104229">
+        <ele>139.1</ele>
+      </trkpt>
+      <trkpt lat="22.346325" lon="114.104146">
+        <ele>144.7</ele>
+      </trkpt>
+      <trkpt lat="22.346327" lon="114.103475">
+        <ele>161.8</ele>
+      </trkpt>
+      <trkpt lat="22.34623" lon="114.103112">
+        <ele>166.8</ele>
+      </trkpt>
+      <trkpt lat="22.345802" lon="114.102632">
+        <ele>178.0</ele>
+      </trkpt>
+      <trkpt lat="22.3454" lon="114.102546">
+        <ele>189.0</ele>
+      </trkpt>
+      <trkpt lat="22.345185" lon="114.10239">
+        <ele>194.7</ele>
+      </trkpt>
+      <trkpt lat="22.345262" lon="114.102041">
+        <ele>195.9</ele>
+      </trkpt>
+      <trkpt lat="22.345176" lon="114.101545">
+        <ele>195.0</ele>
+      </trkpt>
+      <trkpt lat="22.345281" lon="114.100861">
+        <ele>217.9</ele>
+      </trkpt>
+      <trkpt lat="22.34517" lon="114.100415">
+        <ele>229.4</ele>
+      </trkpt>
+      <trkpt lat="22.344707" lon="114.099987">
+        <ele>243.3</ele>
+      </trkpt>
+      <trkpt lat="22.344479" lon="114.100107">
+        <ele>249.7</ele>
+      </trkpt>
+      <trkpt lat="22.344048" lon="114.100186">
+        <ele>258.0</ele>
+      </trkpt>
+      <trkpt lat="22.344479" lon="114.100107">
+        <ele>249.7</ele>
+      </trkpt>
+      <trkpt lat="22.344623" lon="114.099988">
+        <ele>245.1</ele>
+      </trkpt>
+      <trkpt lat="22.344961" lon="114.100172">
+        <ele>238.7</ele>
+      </trkpt>
+      <trkpt lat="22.345288" lon="114.099696">
+        <ele>226.3</ele>
+      </trkpt>
+      <trkpt lat="22.345319" lon="114.099548">
+        <ele>221.0</ele>
+      </trkpt>
+      <trkpt lat="22.345446" lon="114.09954">
+        <ele>214.6</ele>
+      </trkpt>
+      <trkpt lat="22.345919" lon="114.099091">
+        <ele>200.1</ele>
+      </trkpt>
+      <trkpt lat="22.346411" lon="114.098821">
+        <ele>183.3</ele>
+      </trkpt>
+      <trkpt lat="22.34619" lon="114.098371">
+        <ele>170.1</ele>
+      </trkpt>
+      <trkpt lat="22.346353" lon="114.097929">
+        <ele>147.9</ele>
+      </trkpt>
+      <trkpt lat="22.346265" lon="114.097595">
+        <ele>135.0</ele>
+      </trkpt>
+      <trkpt lat="22.346469" lon="114.097346">
+        <ele>123.3</ele>
+      </trkpt>
+      <trkpt lat="22.347887" lon="114.097012">
+        <ele>79.2</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

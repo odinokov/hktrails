@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Pak Tam Chung Family Walk</name>
+    <time>2026-06-14T12:13:45Z</time>
+  </metadata>
+  <trk>
+    <name>Pak Tam Chung Family Walk</name>
+    <cmt>北潭涌家樂徑</cmt>
+    <trkseg>
+      <trkpt lat="22.398057" lon="114.31861">
+        <ele>19.3</ele>
+      </trkpt>
+      <trkpt lat="22.3989" lon="114.318687">
+        <ele>43.7</ele>
+      </trkpt>
+      <trkpt lat="22.399133" lon="114.318838">
+        <ele>50.6</ele>
+      </trkpt>
+      <trkpt lat="22.399926" lon="114.318684">
+        <ele>42.7</ele>
+      </trkpt>
+      <trkpt lat="22.400272" lon="114.318411">
+        <ele>37.0</ele>
+      </trkpt>
+      <trkpt lat="22.40045" lon="114.318369">
+        <ele>24.6</ele>
+      </trkpt>
+      <trkpt lat="22.400619" lon="114.318423">
+        <ele>25.5</ele>
+      </trkpt>
+      <trkpt lat="22.400748" lon="114.318349">
+        <ele>27.4</ele>
+      </trkpt>
+      <trkpt lat="22.401008" lon="114.318442">
+        <ele>37.5</ele>
+      </trkpt>
+      <trkpt lat="22.401469" lon="114.318787">
+        <ele>29.6</ele>
+      </trkpt>
+      <trkpt lat="22.401987" lon="114.318783">
+        <ele>33.2</ele>
+      </trkpt>
+      <trkpt lat="22.402284" lon="114.318612">
+        <ele>30.1</ele>
+      </trkpt>
+      <trkpt lat="22.402379" lon="114.318449">
+        <ele>29.2</ele>
+      </trkpt>
+      <trkpt lat="22.40268" lon="114.318217">
+        <ele>33.9</ele>
+      </trkpt>
+      <trkpt lat="22.403245" lon="114.318257">
+        <ele>34.2</ele>
+      </trkpt>
+      <trkpt lat="22.403789" lon="114.318407">
+        <ele>39.7</ele>
+      </trkpt>
+      <trkpt lat="22.404323" lon="114.318394">
+        <ele>38.1</ele>
+      </trkpt>
+      <trkpt lat="22.404153" lon="114.319719">
+        <ele>33.9</ele>
+      </trkpt>
+      <trkpt lat="22.403639" lon="114.319978">
+        <ele>31.0</ele>
+      </trkpt>
+      <trkpt lat="22.403456" lon="114.320282">
+        <ele>27.3</ele>
+      </trkpt>
+      <trkpt lat="22.403328" lon="114.320354">
+        <ele>24.0</ele>
+      </trkpt>
+      <trkpt lat="22.403363" lon="114.320468">
+        <ele>21.4</ele>
+      </trkpt>
+      <trkpt lat="22.403197" lon="114.320494">
+        <ele>18.1</ele>
+      </trkpt>
+      <trkpt lat="22.40331" lon="114.320822">
+        <ele>16.0</ele>
+      </trkpt>
+      <trkpt lat="22.403414" lon="114.320919">
+        <ele>13.1</ele>
+      </trkpt>
+      <trkpt lat="22.403407" lon="114.321084">
+        <ele>18.0</ele>
+      </trkpt>
+      <trkpt lat="22.403283" lon="114.321075">
+        <ele>19.0</ele>
+      </trkpt>
+      <trkpt lat="22.403075" lon="114.32148">
+        <ele>20.0</ele>
+      </trkpt>
+      <trkpt lat="22.40275" lon="114.321809">
+        <ele>22.0</ele>
+      </trkpt>
+      <trkpt lat="22.402496" lon="114.321871">
+        <ele>16.6</ele>
+      </trkpt>
+      <trkpt lat="22.402326" lon="114.322102">
+        <ele>9.5</ele>
+      </trkpt>
+      <trkpt lat="22.402133" lon="114.322169">
+        <ele>8.1</ele>
+      </trkpt>
+      <trkpt lat="22.401981" lon="114.322661">
+        <ele>7.8</ele>
+      </trkpt>
+      <trkpt lat="22.401862" lon="114.322815">
+        <ele>13.8</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

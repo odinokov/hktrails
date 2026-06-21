@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Ma Shi Chau Nature Trail</name>
+    <time>2026-06-14T12:13:40Z</time>
+  </metadata>
+  <trk>
+    <name>Ma Shi Chau Nature Trail</name>
+    <cmt>馬屎洲自然教育徑</cmt>
+    <trkseg>
+      <trkpt lat="22.450238" lon="114.222953">
+        <ele>4.6</ele>
+      </trkpt>
+      <trkpt lat="22.450087" lon="114.22326">
+        <ele>3.3</ele>
+      </trkpt>
+      <trkpt lat="22.449984" lon="114.224103">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.449786" lon="114.224547">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.449442" lon="114.224939">
+        <ele>8.3</ele>
+      </trkpt>
+      <trkpt lat="22.448904" lon="114.224887">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.448874" lon="114.225189">
+        <ele>6.1</ele>
+      </trkpt>
+      <trkpt lat="22.44924" lon="114.225909">
+        <ele>9.6</ele>
+      </trkpt>
+      <trkpt lat="22.449999" lon="114.226564">
+        <ele>10.0</ele>
+      </trkpt>
+      <trkpt lat="22.450441" lon="114.227138">
+        <ele>7.1</ele>
+      </trkpt>
+      <trkpt lat="22.450483" lon="114.227357">
+        <ele>4.5</ele>
+      </trkpt>
+      <trkpt lat="22.450738" lon="114.227747">
+        <ele>10.6</ele>
+      </trkpt>
+      <trkpt lat="22.450818" lon="114.228267">
+        <ele>9.0</ele>
+      </trkpt>
+      <trkpt lat="22.45076" lon="114.229164">
+        <ele>5.4</ele>
+      </trkpt>
+      <trkpt lat="22.450995" lon="114.229626">
+        <ele>6.6</ele>
+      </trkpt>
+      <trkpt lat="22.451415" lon="114.23014">
+        <ele>6.4</ele>
+      </trkpt>
+      <trkpt lat="22.45174" lon="114.230304">
+        <ele>7.9</ele>
+      </trkpt>
+      <trkpt lat="22.45205" lon="114.230585">
+        <ele>4.5</ele>
+      </trkpt>
+      <trkpt lat="22.453063" lon="114.230992">
+        <ele>12.4</ele>
+      </trkpt>
+      <trkpt lat="22.453244" lon="114.23151">
+        <ele>12.5</ele>
+      </trkpt>
+      <trkpt lat="22.453236" lon="114.231885">
+        <ele>3.2</ele>
+      </trkpt>
+      <trkpt lat="22.453379" lon="114.232228">
+        <ele>3.5</ele>
+      </trkpt>
+      <trkpt lat="22.454148" lon="114.232969">
+        <ele>2.9</ele>
+      </trkpt>
+      <trkpt lat="22.454915" lon="114.233497">
+        <ele>2.8</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

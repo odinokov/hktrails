@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Kam Shan Family Walk</name>
+    <time>2026-06-14T12:13:38Z</time>
+  </metadata>
+  <trk>
+    <name>Kam Shan Family Walk</name>
+    <cmt>金山家樂徑</cmt>
+    <trkseg>
+      <trkpt lat="22.357229" lon="114.150936">
+        <ele>185.5</ele>
+      </trkpt>
+      <trkpt lat="22.357349" lon="114.151122">
+        <ele>188.1</ele>
+      </trkpt>
+      <trkpt lat="22.357632" lon="114.151162">
+        <ele>186.2</ele>
+      </trkpt>
+      <trkpt lat="22.358104" lon="114.15138">
+        <ele>187.6</ele>
+      </trkpt>
+      <trkpt lat="22.358079" lon="114.15145">
+        <ele>190.2</ele>
+      </trkpt>
+      <trkpt lat="22.357928" lon="114.151419">
+        <ele>184.6</ele>
+      </trkpt>
+      <trkpt lat="22.357927" lon="114.151641">
+        <ele>189.6</ele>
+      </trkpt>
+      <trkpt lat="22.358188" lon="114.151713">
+        <ele>198.1</ele>
+      </trkpt>
+      <trkpt lat="22.358368" lon="114.151991">
+        <ele>211.9</ele>
+      </trkpt>
+      <trkpt lat="22.358648" lon="114.15217">
+        <ele>212.0</ele>
+      </trkpt>
+      <trkpt lat="22.359168" lon="114.152161">
+        <ele>226.6</ele>
+      </trkpt>
+      <trkpt lat="22.359441" lon="114.15206">
+        <ele>227.5</ele>
+      </trkpt>
+      <trkpt lat="22.359577" lon="114.15211">
+        <ele>226.1</ele>
+      </trkpt>
+      <trkpt lat="22.359829" lon="114.151915">
+        <ele>228.3</ele>
+      </trkpt>
+      <trkpt lat="22.35994" lon="114.151921">
+        <ele>239.2</ele>
+      </trkpt>
+      <trkpt lat="22.360054" lon="114.151953">
+        <ele>240.4</ele>
+      </trkpt>
+      <trkpt lat="22.360525" lon="114.152441">
+        <ele>250.8</ele>
+      </trkpt>
+      <trkpt lat="22.360795" lon="114.152533">
+        <ele>256.8</ele>
+      </trkpt>
+      <trkpt lat="22.36132" lon="114.152566">
+        <ele>267.0</ele>
+      </trkpt>
+      <trkpt lat="22.36144" lon="114.1527">
+        <ele>269.6</ele>
+      </trkpt>
+      <trkpt lat="22.361712" lon="114.152742">
+        <ele>266.1</ele>
+      </trkpt>
+      <trkpt lat="22.362032" lon="114.152633">
+        <ele>257.2</ele>
+      </trkpt>
+      <trkpt lat="22.362506" lon="114.152888">
+        <ele>261.5</ele>
+      </trkpt>
+      <trkpt lat="22.362942" lon="114.15252">
+        <ele>262.2</ele>
+      </trkpt>
+      <trkpt lat="22.362954" lon="114.152327">
+        <ele>258.8</ele>
+      </trkpt>
+      <trkpt lat="22.36318" lon="114.152094">
+        <ele>267.3</ele>
+      </trkpt>
+      <trkpt lat="22.363908" lon="114.152204">
+        <ele>274.4</ele>
+      </trkpt>
+      <trkpt lat="22.364032" lon="114.151935">
+        <ele>271.7</ele>
+      </trkpt>
+      <trkpt lat="22.364196" lon="114.151877">
+        <ele>272.6</ele>
+      </trkpt>
+      <trkpt lat="22.364305" lon="114.151665">
+        <ele>268.3</ele>
+      </trkpt>
+      <trkpt lat="22.364535" lon="114.151532">
+        <ele>274.7</ele>
+      </trkpt>
+      <trkpt lat="22.364705" lon="114.151545">
+        <ele>276.3</ele>
+      </trkpt>
+      <trkpt lat="22.364928" lon="114.151736">
+        <ele>277.0</ele>
+      </trkpt>
+      <trkpt lat="22.365197" lon="114.151667">
+        <ele>273.8</ele>
+      </trkpt>
+      <trkpt lat="22.365299" lon="114.151594">
+        <ele>277.5</ele>
+      </trkpt>
+      <trkpt lat="22.365401" lon="114.151219">
+        <ele>282.0</ele>
+      </trkpt>
+      <trkpt lat="22.365614" lon="114.150961">
+        <ele>265.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

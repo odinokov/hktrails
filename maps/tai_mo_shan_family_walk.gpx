@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Tai Mo Shan Family Walk</name>
+    <time>2026-06-14T12:13:49Z</time>
+  </metadata>
+  <trk>
+    <name>Tai Mo Shan Family Walk</name>
+    <cmt>大帽山家樂徑</cmt>
+    <trkseg>
+      <trkpt lat="22.404699" lon="114.105874">
+        <ele>475.5</ele>
+      </trkpt>
+      <trkpt lat="22.404972" lon="114.105901">
+        <ele>478.3</ele>
+      </trkpt>
+      <trkpt lat="22.405071" lon="114.105718">
+        <ele>477.3</ele>
+      </trkpt>
+      <trkpt lat="22.405" lon="114.105638">
+        <ele>476.6</ele>
+      </trkpt>
+      <trkpt lat="22.405061" lon="114.105438">
+        <ele>475.0</ele>
+      </trkpt>
+      <trkpt lat="22.404966" lon="114.105144">
+        <ele>471.6</ele>
+      </trkpt>
+      <trkpt lat="22.404783" lon="114.105438">
+        <ele>470.1</ele>
+      </trkpt>
+      <trkpt lat="22.404415" lon="114.105547">
+        <ele>472.8</ele>
+      </trkpt>
+      <trkpt lat="22.403974" lon="114.10536">
+        <ele>470.9</ele>
+      </trkpt>
+      <trkpt lat="22.40386" lon="114.105382">
+        <ele>469.0</ele>
+      </trkpt>
+      <trkpt lat="22.403474" lon="114.106743">
+        <ele>458.0</ele>
+      </trkpt>
+      <trkpt lat="22.403899" lon="114.106922">
+        <ele>461.4</ele>
+      </trkpt>
+      <trkpt lat="22.40406" lon="114.106904">
+        <ele>462.2</ele>
+      </trkpt>
+      <trkpt lat="22.404074" lon="114.106567">
+        <ele>466.6</ele>
+      </trkpt>
+      <trkpt lat="22.404328" lon="114.106295">
+        <ele>468.9</ele>
+      </trkpt>
+      <trkpt lat="22.404353" lon="114.106137">
+        <ele>475.1</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

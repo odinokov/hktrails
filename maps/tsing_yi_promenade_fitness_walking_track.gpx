@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Tsing Yi Promenade Fitness Walking Track</name>
+    <time>2026-06-14T12:13:51Z</time>
+  </metadata>
+  <trk>
+    <name>Tsing Yi Promenade Fitness Walking Track</name>
+    <cmt>青衣海濱公園健步行徑</cmt>
+    <trkseg>
+      <trkpt lat="22.354343" lon="114.109384">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.355317" lon="114.109079">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.356185" lon="114.108988">
+        <ele>3.9</ele>
+      </trkpt>
+      <trkpt lat="22.357608" lon="114.108928">
+        <ele>4.1</ele>
+      </trkpt>
+      <trkpt lat="22.359356" lon="114.109016">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.359924" lon="114.108923">
+        <ele>24.5</ele>
+      </trkpt>
+      <trkpt lat="22.360825" lon="114.108579">
+        <ele>3.9</ele>
+      </trkpt>
+      <trkpt lat="22.361937" lon="114.107733">
+        <ele>4.9</ele>
+      </trkpt>
+      <trkpt lat="22.363087" lon="114.107304">
+        <ele>4.7</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

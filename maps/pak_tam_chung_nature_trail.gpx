@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Pak Tam Chung Nature Trail</name>
+    <time>2026-06-14T12:13:45Z</time>
+  </metadata>
+  <trk>
+    <name>Pak Tam Chung Nature Trail</name>
+    <cmt>北潭涌自然教育徑</cmt>
+    <trkseg>
+      <trkpt lat="22.399025" lon="114.321826">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.398588" lon="114.322222">
+        <ele>6.8</ele>
+      </trkpt>
+      <trkpt lat="22.398364" lon="114.321961">
+        <ele>6.5</ele>
+      </trkpt>
+      <trkpt lat="22.39828" lon="114.321965">
+        <ele>5.3</ele>
+      </trkpt>
+      <trkpt lat="22.397094" lon="114.322557">
+        <ele>7.3</ele>
+      </trkpt>
+      <trkpt lat="22.396595" lon="114.322544">
+        <ele>9.5</ele>
+      </trkpt>
+      <trkpt lat="22.396454" lon="114.322469">
+        <ele>18.2</ele>
+      </trkpt>
+      <trkpt lat="22.396161" lon="114.32199">
+        <ele>20.3</ele>
+      </trkpt>
+      <trkpt lat="22.395915" lon="114.321875">
+        <ele>22.6</ele>
+      </trkpt>
+      <trkpt lat="22.394724" lon="114.321661">
+        <ele>17.4</ele>
+      </trkpt>
+      <trkpt lat="22.394373" lon="114.321687">
+        <ele>12.3</ele>
+      </trkpt>
+      <trkpt lat="22.392985" lon="114.321374">
+        <ele>19.1</ele>
+      </trkpt>
+      <trkpt lat="22.392245" lon="114.32107">
+        <ele>13.0</ele>
+      </trkpt>
+      <trkpt lat="22.391513" lon="114.32098">
+        <ele>14.1</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

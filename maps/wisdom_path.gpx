@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Wisdom Path</name>
+    <time>2026-06-14T12:13:53Z</time>
+  </metadata>
+  <trk>
+    <name>Wisdom Path</name>
+    <cmt>心經簡林</cmt>
+    <trkseg>
+      <trkpt lat="22.252635" lon="113.912285">
+        <ele>454.7</ele>
+      </trkpt>
+      <trkpt lat="22.252467" lon="113.912072">
+        <ele>456.6</ele>
+      </trkpt>
+      <trkpt lat="22.252524" lon="113.912004">
+        <ele>458.4</ele>
+      </trkpt>
+      <trkpt lat="22.25248" lon="113.911854">
+        <ele>460.5</ele>
+      </trkpt>
+      <trkpt lat="22.252256" lon="113.911603">
+        <ele>461.8</ele>
+      </trkpt>
+      <trkpt lat="22.252365" lon="113.911427">
+        <ele>469.4</ele>
+      </trkpt>
+      <trkpt lat="22.252488" lon="113.911536">
+        <ele>467.8</ele>
+      </trkpt>
+      <trkpt lat="22.252378" lon="113.912019">
+        <ele>456.8</ele>
+      </trkpt>
+      <trkpt lat="22.252433" lon="113.912083">
+        <ele>456.3</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

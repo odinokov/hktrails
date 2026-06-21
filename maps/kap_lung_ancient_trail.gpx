@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Kap Lung Ancient Trail</name>
+    <time>2026-06-14T12:13:38Z</time>
+  </metadata>
+  <trk>
+    <name>Kap Lung Ancient Trail</name>
+    <cmt>甲龍古道郊遊徑</cmt>
+    <trkseg>
+      <trkpt lat="22.410932" lon="114.104436">
+        <ele>431.0</ele>
+      </trkpt>
+      <trkpt lat="22.411088" lon="114.104257">
+        <ele>421.5</ele>
+      </trkpt>
+      <trkpt lat="22.411134" lon="114.104009">
+        <ele>416.1</ele>
+      </trkpt>
+      <trkpt lat="22.411273" lon="114.104054">
+        <ele>405.2</ele>
+      </trkpt>
+      <trkpt lat="22.412561" lon="114.103953">
+        <ele>368.6</ele>
+      </trkpt>
+      <trkpt lat="22.41277" lon="114.104036">
+        <ele>363.6</ele>
+      </trkpt>
+      <trkpt lat="22.412957" lon="114.104009">
+        <ele>354.9</ele>
+      </trkpt>
+      <trkpt lat="22.413103" lon="114.103876">
+        <ele>344.4</ele>
+      </trkpt>
+      <trkpt lat="22.414226" lon="114.104201">
+        <ele>327.6</ele>
+      </trkpt>
+      <trkpt lat="22.414573" lon="114.104404">
+        <ele>314.5</ele>
+      </trkpt>
+      <trkpt lat="22.414712" lon="114.104972">
+        <ele>296.0</ele>
+      </trkpt>
+      <trkpt lat="22.414902" lon="114.105068">
+        <ele>285.6</ele>
+      </trkpt>
+      <trkpt lat="22.415224" lon="114.105403">
+        <ele>278.6</ele>
+      </trkpt>
+      <trkpt lat="22.415883" lon="114.105596">
+        <ele>256.9</ele>
+      </trkpt>
+      <trkpt lat="22.416013" lon="114.105964">
+        <ele>261.7</ele>
+      </trkpt>
+      <trkpt lat="22.416475" lon="114.106158">
+        <ele>238.7</ele>
+      </trkpt>
+      <trkpt lat="22.416857" lon="114.106928">
+        <ele>227.4</ele>
+      </trkpt>
+      <trkpt lat="22.416771" lon="114.107026">
+        <ele>226.8</ele>
+      </trkpt>
+      <trkpt lat="22.416791" lon="114.107118">
+        <ele>223.6</ele>
+      </trkpt>
+      <trkpt lat="22.416922" lon="114.107186">
+        <ele>225.9</ele>
+      </trkpt>
+      <trkpt lat="22.417508" lon="114.107171">
+        <ele>209.4</ele>
+      </trkpt>
+      <trkpt lat="22.417729" lon="114.107405">
+        <ele>202.5</ele>
+      </trkpt>
+      <trkpt lat="22.41813" lon="114.107537">
+        <ele>201.7</ele>
+      </trkpt>
+      <trkpt lat="22.418322" lon="114.107522">
+        <ele>195.1</ele>
+      </trkpt>
+      <trkpt lat="22.418375" lon="114.107727">
+        <ele>191.9</ele>
+      </trkpt>
+      <trkpt lat="22.418459" lon="114.107756">
+        <ele>193.1</ele>
+      </trkpt>
+      <trkpt lat="22.41873" lon="114.107434">
+        <ele>187.2</ele>
+      </trkpt>
+      <trkpt lat="22.419752" lon="114.107407">
+        <ele>177.7</ele>
+      </trkpt>
+      <trkpt lat="22.420133" lon="114.107255">
+        <ele>166.1</ele>
+      </trkpt>
+      <trkpt lat="22.420323" lon="114.10727">
+        <ele>161.9</ele>
+      </trkpt>
+      <trkpt lat="22.420632" lon="114.107492">
+        <ele>152.7</ele>
+      </trkpt>
+      <trkpt lat="22.421388" lon="114.1073">
+        <ele>140.1</ele>
+      </trkpt>
+      <trkpt lat="22.421792" lon="114.107389">
+        <ele>141.8</ele>
+      </trkpt>
+      <trkpt lat="22.421989" lon="114.10732">
+        <ele>142.4</ele>
+      </trkpt>
+      <trkpt lat="22.422424" lon="114.106909">
+        <ele>140.0</ele>
+      </trkpt>
+      <trkpt lat="22.422853" lon="114.106662">
+        <ele>128.6</ele>
+      </trkpt>
+      <trkpt lat="22.423469" lon="114.106647">
+        <ele>120.0</ele>
+      </trkpt>
+      <trkpt lat="22.424084" lon="114.106749">
+        <ele>110.1</ele>
+      </trkpt>
+      <trkpt lat="22.424726" lon="114.106591">
+        <ele>98.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

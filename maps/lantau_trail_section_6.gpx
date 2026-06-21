@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Lantau Trail Section 6</name>
+    <time>2026-06-14T12:13:39Z</time>
+  </metadata>
+  <trk>
+    <name>Lantau Trail Section 6</name>
+    <cmt>鳳凰徑第六段</cmt>
+    <trkseg>
+      <trkpt lat="22.236756" lon="113.87041">
+        <ele>214.2</ele>
+      </trkpt>
+      <trkpt lat="22.237306" lon="113.870158">
+        <ele>210.4</ele>
+      </trkpt>
+      <trkpt lat="22.23825" lon="113.870203">
+        <ele>215.9</ele>
+      </trkpt>
+      <trkpt lat="22.238528" lon="113.870032">
+        <ele>215.4</ele>
+      </trkpt>
+      <trkpt lat="22.238738" lon="113.870472">
+        <ele>208.5</ele>
+      </trkpt>
+      <trkpt lat="22.23886" lon="113.870556">
+        <ele>212.4</ele>
+      </trkpt>
+      <trkpt lat="22.238979" lon="113.870535">
+        <ele>213.2</ele>
+      </trkpt>
+      <trkpt lat="22.239357" lon="113.870088">
+        <ele>197.8</ele>
+      </trkpt>
+      <trkpt lat="22.239771" lon="113.869818">
+        <ele>192.7</ele>
+      </trkpt>
+      <trkpt lat="22.239886" lon="113.869502">
+        <ele>192.7</ele>
+      </trkpt>
+      <trkpt lat="22.240259" lon="113.869858">
+        <ele>196.3</ele>
+      </trkpt>
+      <trkpt lat="22.24045" lon="113.869857">
+        <ele>198.5</ele>
+      </trkpt>
+      <trkpt lat="22.240777" lon="113.87009">
+        <ele>199.5</ele>
+      </trkpt>
+      <trkpt lat="22.240976" lon="113.870037">
+        <ele>199.2</ele>
+      </trkpt>
+      <trkpt lat="22.241163" lon="113.86951">
+        <ele>198.2</ele>
+      </trkpt>
+      <trkpt lat="22.241594" lon="113.86953">
+        <ele>192.1</ele>
+      </trkpt>
+      <trkpt lat="22.242282" lon="113.869693">
+        <ele>194.6</ele>
+      </trkpt>
+      <trkpt lat="22.242495" lon="113.86984">
+        <ele>196.0</ele>
+      </trkpt>
+      <trkpt lat="22.242778" lon="113.869804">
+        <ele>190.8</ele>
+      </trkpt>
+      <trkpt lat="22.243478" lon="113.86945">
+        <ele>177.4</ele>
+      </trkpt>
+      <trkpt lat="22.243632" lon="113.869288">
+        <ele>175.9</ele>
+      </trkpt>
+      <trkpt lat="22.244082" lon="113.869275">
+        <ele>177.0</ele>
+      </trkpt>
+      <trkpt lat="22.244695" lon="113.869564">
+        <ele>175.0</ele>
+      </trkpt>
+      <trkpt lat="22.245457" lon="113.868947">
+        <ele>171.4</ele>
+      </trkpt>
+      <trkpt lat="22.245469" lon="113.868645">
+        <ele>167.0</ele>
+      </trkpt>
+      <trkpt lat="22.245572" lon="113.868365">
+        <ele>156.5</ele>
+      </trkpt>
+      <trkpt lat="22.245914" lon="113.8679">
+        <ele>131.8</ele>
+      </trkpt>
+      <trkpt lat="22.245933" lon="113.867606">
+        <ele>128.0</ele>
+      </trkpt>
+      <trkpt lat="22.246132" lon="113.867176">
+        <ele>117.2</ele>
+      </trkpt>
+      <trkpt lat="22.246316" lon="113.867011">
+        <ele>106.7</ele>
+      </trkpt>
+      <trkpt lat="22.246565" lon="113.866593">
+        <ele>92.1</ele>
+      </trkpt>
+      <trkpt lat="22.246699" lon="113.866643">
+        <ele>88.4</ele>
+      </trkpt>
+      <trkpt lat="22.246849" lon="113.866171">
+        <ele>70.8</ele>
+      </trkpt>
+      <trkpt lat="22.246834" lon="113.865791">
+        <ele>64.6</ele>
+      </trkpt>
+      <trkpt lat="22.247278" lon="113.865387">
+        <ele>41.6</ele>
+      </trkpt>
+      <trkpt lat="22.247447" lon="113.865031">
+        <ele>31.7</ele>
+      </trkpt>
+      <trkpt lat="22.248127" lon="113.864295">
+        <ele>4.4</ele>
+      </trkpt>
+      <trkpt lat="22.247977" lon="113.863682">
+        <ele>4.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Quarry Bay Tree Walk</name>
+    <time>2026-06-14T12:13:46Z</time>
+  </metadata>
+  <trk>
+    <name>Quarry Bay Tree Walk</name>
+    <cmt>鰂魚涌樹木研習徑</cmt>
+    <trkseg>
+      <trkpt lat="22.278881" lon="114.209935">
+        <ele>128.0</ele>
+      </trkpt>
+      <trkpt lat="22.278723" lon="114.210125">
+        <ele>126.9</ele>
+      </trkpt>
+      <trkpt lat="22.278614" lon="114.210136">
+        <ele>122.8</ele>
+      </trkpt>
+      <trkpt lat="22.278373" lon="114.210483">
+        <ele>124.8</ele>
+      </trkpt>
+      <trkpt lat="22.278092" lon="114.210555">
+        <ele>127.3</ele>
+      </trkpt>
+      <trkpt lat="22.278006" lon="114.211048">
+        <ele>120.1</ele>
+      </trkpt>
+      <trkpt lat="22.277875" lon="114.211141">
+        <ele>120.1</ele>
+      </trkpt>
+      <trkpt lat="22.277571" lon="114.210955">
+        <ele>128.2</ele>
+      </trkpt>
+      <trkpt lat="22.277372" lon="114.211003">
+        <ele>128.7</ele>
+      </trkpt>
+      <trkpt lat="22.277109" lon="114.2109">
+        <ele>132.7</ele>
+      </trkpt>
+      <trkpt lat="22.277059" lon="114.211487">
+        <ele>124.6</ele>
+      </trkpt>
+      <trkpt lat="22.27713" lon="114.211803">
+        <ele>124.5</ele>
+      </trkpt>
+      <trkpt lat="22.277051" lon="114.212149">
+        <ele>121.4</ele>
+      </trkpt>
+      <trkpt lat="22.277278" lon="114.212437">
+        <ele>126.2</ele>
+      </trkpt>
+      <trkpt lat="22.277111" lon="114.212661">
+        <ele>118.6</ele>
+      </trkpt>
+      <trkpt lat="22.276968" lon="114.212482">
+        <ele>115.4</ele>
+      </trkpt>
+      <trkpt lat="22.276956" lon="114.212567">
+        <ele>114.5</ele>
+      </trkpt>
+      <trkpt lat="22.276913" lon="114.212542">
+        <ele>113.4</ele>
+      </trkpt>
+      <trkpt lat="22.276878" lon="114.212841">
+        <ele>106.3</ele>
+      </trkpt>
+      <trkpt lat="22.276804" lon="114.212752">
+        <ele>100.7</ele>
+      </trkpt>
+      <trkpt lat="22.276789" lon="114.212946">
+        <ele>103.0</ele>
+      </trkpt>
+      <trkpt lat="22.276657" lon="114.213003">
+        <ele>93.4</ele>
+      </trkpt>
+      <trkpt lat="22.276629" lon="114.213249">
+        <ele>87.5</ele>
+      </trkpt>
+      <trkpt lat="22.27641" lon="114.213454">
+        <ele>83.3</ele>
+      </trkpt>
+      <trkpt lat="22.276417" lon="114.213631">
+        <ele>83.3</ele>
+      </trkpt>
+      <trkpt lat="22.276522" lon="114.213864">
+        <ele>82.0</ele>
+      </trkpt>
+      <trkpt lat="22.276803" lon="114.214007">
+        <ele>88.0</ele>
+      </trkpt>
+      <trkpt lat="22.277129" lon="114.214043">
+        <ele>91.0</ele>
+      </trkpt>
+      <trkpt lat="22.27733" lon="114.214018">
+        <ele>81.0</ele>
+      </trkpt>
+      <trkpt lat="22.27717" lon="114.213895">
+        <ele>81.5</ele>
+      </trkpt>
+      <trkpt lat="22.277248" lon="114.213825">
+        <ele>72.0</ele>
+      </trkpt>
+      <trkpt lat="22.277797" lon="114.213802">
+        <ele>68.3</ele>
+      </trkpt>
+      <trkpt lat="22.278689" lon="114.213467">
+        <ele>60.2</ele>
+      </trkpt>
+      <trkpt lat="22.279103" lon="114.213461">
+        <ele>61.6</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

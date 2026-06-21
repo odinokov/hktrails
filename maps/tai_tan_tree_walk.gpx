@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Tai Tan Tree Walk</name>
+    <time>2026-06-14T12:13:49Z</time>
+  </metadata>
+  <trk>
+    <name>Tai Tan Tree Walk</name>
+    <cmt>大灘樹木研習徑</cmt>
+    <trkseg>
+      <trkpt lat="22.437132" lon="114.333899">
+        <ele>32.6</ele>
+      </trkpt>
+      <trkpt lat="22.436975" lon="114.334177">
+        <ele>33.8</ele>
+      </trkpt>
+      <trkpt lat="22.436828" lon="114.333887">
+        <ele>25.9</ele>
+      </trkpt>
+      <trkpt lat="22.436826" lon="114.33369">
+        <ele>30.7</ele>
+      </trkpt>
+      <trkpt lat="22.436689" lon="114.333557">
+        <ele>34.0</ele>
+      </trkpt>
+      <trkpt lat="22.436708" lon="114.333436">
+        <ele>36.0</ele>
+      </trkpt>
+      <trkpt lat="22.436893" lon="114.333461">
+        <ele>34.2</ele>
+      </trkpt>
+      <trkpt lat="22.437078" lon="114.333697">
+        <ele>39.8</ele>
+      </trkpt>
+      <trkpt lat="22.43724" lon="114.333753">
+        <ele>34.2</ele>
+      </trkpt>
+      <trkpt lat="22.437222" lon="114.333835">
+        <ele>35.2</ele>
+      </trkpt>
+      <trkpt lat="22.437048" lon="114.333904">
+        <ele>28.2</ele>
+      </trkpt>
+      <trkpt lat="22.436986" lon="114.33405">
+        <ele>33.2</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

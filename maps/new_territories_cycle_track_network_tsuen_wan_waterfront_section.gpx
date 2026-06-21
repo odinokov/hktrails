@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>New Territories Cycle Track Network Tsuen Wan Waterfront Section</name>
+    <time>2026-06-14T12:13:44Z</time>
+  </metadata>
+  <trk>
+    <name>New Territories Cycle Track Network Tsuen Wan Waterfront Section</name>
+    <cmt>新界單車徑網絡 - 荃灣海濱段</cmt>
+    <trkseg>
+      <trkpt lat="22.360828" lon="114.111648">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.361016" lon="114.111552">
+        <ele>3.7</ele>
+      </trkpt>
+      <trkpt lat="22.361867" lon="114.111418">
+        <ele>3.2</ele>
+      </trkpt>
+      <trkpt lat="22.364395" lon="114.112462">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.364878" lon="114.112465">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.365119" lon="114.112393">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.365866" lon="114.111805">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.366913" lon="114.110814">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.367512" lon="114.109918">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.367632" lon="114.109529">
+        <ele>5.1</ele>
+      </trkpt>
+      <trkpt lat="22.367811" lon="114.109436">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.367948" lon="114.109086">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.367899" lon="114.108861">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.368214" lon="114.108475">
+        <ele>5.7</ele>
+      </trkpt>
+      <trkpt lat="22.368681" lon="114.108166">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.369019" lon="114.108061">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.369651" lon="114.108051">
+        <ele>5.8</ele>
+      </trkpt>
+      <trkpt lat="22.36987" lon="114.108167">
+        <ele>6.0</ele>
+      </trkpt>
+      <trkpt lat="22.371181" lon="114.10679">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.371875" lon="114.105904">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.372297" lon="114.105606">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.372497" lon="114.104903">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.37248" lon="114.104507">
+        <ele>5.0</ele>
+      </trkpt>
+      <trkpt lat="22.372363" lon="114.104149">
+        <ele>5.1</ele>
+      </trkpt>
+      <trkpt lat="22.371669" lon="114.103138">
+        <ele>5.2</ele>
+      </trkpt>
+      <trkpt lat="22.369671" lon="114.100536">
+        <ele>6.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

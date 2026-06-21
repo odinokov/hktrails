@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Pinewood Battery Heritage Trail</name>
+    <time>2026-06-14T12:13:45Z</time>
+  </metadata>
+  <trk>
+    <name>Pinewood Battery Heritage Trail</name>
+    <cmt>松林砲台歷史徑</cmt>
+    <trkseg>
+      <trkpt lat="22.27762" lon="114.136835">
+        <ele>294.0</ele>
+      </trkpt>
+      <trkpt lat="22.277628" lon="114.136765">
+        <ele>295.5</ele>
+      </trkpt>
+      <trkpt lat="22.277504" lon="114.136692">
+        <ele>300.7</ele>
+      </trkpt>
+      <trkpt lat="22.277575" lon="114.136524">
+        <ele>299.2</ele>
+      </trkpt>
+      <trkpt lat="22.277995" lon="114.13624">
+        <ele>310.8</ele>
+      </trkpt>
+      <trkpt lat="22.277778" lon="114.13587">
+        <ele>308.3</ele>
+      </trkpt>
+      <trkpt lat="22.277081" lon="114.136117">
+        <ele>305.5</ele>
+      </trkpt>
+      <trkpt lat="22.276831" lon="114.136336">
+        <ele>308.6</ele>
+      </trkpt>
+      <trkpt lat="22.277041" lon="114.136527">
+        <ele>304.7</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

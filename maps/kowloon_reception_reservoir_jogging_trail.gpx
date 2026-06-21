@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Kowloon Reception Reservoir Jogging Trail</name>
+    <time>2026-06-14T12:13:38Z</time>
+  </metadata>
+  <trk>
+    <name>Kowloon Reception Reservoir Jogging Trail</name>
+    <cmt>九龍接收水塘緩跑徑</cmt>
+    <trkseg>
+      <trkpt lat="22.349128" lon="114.147392">
+        <ele>143.8</ele>
+      </trkpt>
+      <trkpt lat="22.349662" lon="114.147259">
+        <ele>159.9</ele>
+      </trkpt>
+      <trkpt lat="22.350256" lon="114.146947">
+        <ele>157.1</ele>
+      </trkpt>
+      <trkpt lat="22.350452" lon="114.147045">
+        <ele>162.5</ele>
+      </trkpt>
+      <trkpt lat="22.350712" lon="114.146638">
+        <ele>155.2</ele>
+      </trkpt>
+      <trkpt lat="22.350979" lon="114.146593">
+        <ele>155.8</ele>
+      </trkpt>
+      <trkpt lat="22.351326" lon="114.146682">
+        <ele>152.6</ele>
+      </trkpt>
+      <trkpt lat="22.351364" lon="114.146221">
+        <ele>153.8</ele>
+      </trkpt>
+      <trkpt lat="22.351502" lon="114.145909">
+        <ele>151.0</ele>
+      </trkpt>
+      <trkpt lat="22.352106" lon="114.145871">
+        <ele>155.5</ele>
+      </trkpt>
+      <trkpt lat="22.351791" lon="114.145516">
+        <ele>152.9</ele>
+      </trkpt>
+      <trkpt lat="22.351746" lon="114.145286">
+        <ele>153.0</ele>
+      </trkpt>
+      <trkpt lat="22.351807" lon="114.145169">
+        <ele>150.3</ele>
+      </trkpt>
+      <trkpt lat="22.352503" lon="114.144708">
+        <ele>159.9</ele>
+      </trkpt>
+      <trkpt lat="22.352698" lon="114.144441">
+        <ele>157.0</ele>
+      </trkpt>
+      <trkpt lat="22.351843" lon="114.144842">
+        <ele>153.1</ele>
+      </trkpt>
+      <trkpt lat="22.351257" lon="114.144833">
+        <ele>152.2</ele>
+      </trkpt>
+      <trkpt lat="22.351163" lon="114.144736">
+        <ele>152.5</ele>
+      </trkpt>
+      <trkpt lat="22.351168" lon="114.144617">
+        <ele>151.5</ele>
+      </trkpt>
+      <trkpt lat="22.351448" lon="114.144322">
+        <ele>155.2</ele>
+      </trkpt>
+      <trkpt lat="22.351436" lon="114.144065">
+        <ele>154.9</ele>
+      </trkpt>
+      <trkpt lat="22.351215" lon="114.143896">
+        <ele>154.7</ele>
+      </trkpt>
+      <trkpt lat="22.351188" lon="114.143636">
+        <ele>159.2</ele>
+      </trkpt>
+      <trkpt lat="22.351365" lon="114.143472">
+        <ele>156.6</ele>
+      </trkpt>
+      <trkpt lat="22.351674" lon="114.143383">
+        <ele>159.3</ele>
+      </trkpt>
+      <trkpt lat="22.35178" lon="114.143073">
+        <ele>155.7</ele>
+      </trkpt>
+      <trkpt lat="22.351721" lon="114.143083">
+        <ele>154.4</ele>
+      </trkpt>
+      <trkpt lat="22.351707" lon="114.14322">
+        <ele>153.7</ele>
+      </trkpt>
+      <trkpt lat="22.351259" lon="114.143322">
+        <ele>154.8</ele>
+      </trkpt>
+      <trkpt lat="22.351012" lon="114.143592">
+        <ele>153.1</ele>
+      </trkpt>
+      <trkpt lat="22.350861" lon="114.144109">
+        <ele>150.2</ele>
+      </trkpt>
+      <trkpt lat="22.350411" lon="114.144399">
+        <ele>153.1</ele>
+      </trkpt>
+      <trkpt lat="22.350148" lon="114.145263">
+        <ele>154.5</ele>
+      </trkpt>
+      <trkpt lat="22.350195" lon="114.145574">
+        <ele>160.2</ele>
+      </trkpt>
+      <trkpt lat="22.349992" lon="114.146307">
+        <ele>166.4</ele>
+      </trkpt>
+      <trkpt lat="22.349738" lon="114.14662">
+        <ele>158.6</ele>
+      </trkpt>
+      <trkpt lat="22.349585" lon="114.147067">
+        <ele>151.3</ele>
+      </trkpt>
+      <trkpt lat="22.349287" lon="114.14724">
+        <ele>148.5</ele>
+      </trkpt>
+      <trkpt lat="22.349117" lon="114.147224">
+        <ele>147.5</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

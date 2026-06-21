@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Pineapple Dam Nature Trail</name>
+    <time>2026-06-14T12:13:45Z</time>
+  </metadata>
+  <trk>
+    <name>Pineapple Dam Nature Trail</name>
+    <cmt>菠蘿壩自然教育徑</cmt>
+    <trkseg>
+      <trkpt lat="22.384917" lon="114.143891">
+        <ele>185.1</ele>
+      </trkpt>
+      <trkpt lat="22.385143" lon="114.144323">
+        <ele>193.2</ele>
+      </trkpt>
+      <trkpt lat="22.385244" lon="114.144692">
+        <ele>188.3</ele>
+      </trkpt>
+      <trkpt lat="22.38544" lon="114.1447">
+        <ele>192.0</ele>
+      </trkpt>
+      <trkpt lat="22.385639" lon="114.144844">
+        <ele>193.1</ele>
+      </trkpt>
+      <trkpt lat="22.385726" lon="114.144995">
+        <ele>193.0</ele>
+      </trkpt>
+      <trkpt lat="22.385743" lon="114.145323">
+        <ele>189.7</ele>
+      </trkpt>
+      <trkpt lat="22.385842" lon="114.145325">
+        <ele>190.9</ele>
+      </trkpt>
+      <trkpt lat="22.385908" lon="114.145637">
+        <ele>191.0</ele>
+      </trkpt>
+      <trkpt lat="22.386319" lon="114.145878">
+        <ele>198.2</ele>
+      </trkpt>
+      <trkpt lat="22.386364" lon="114.146179">
+        <ele>189.2</ele>
+      </trkpt>
+      <trkpt lat="22.386889" lon="114.146251">
+        <ele>195.0</ele>
+      </trkpt>
+      <trkpt lat="22.386914" lon="114.14595">
+        <ele>200.2</ele>
+      </trkpt>
+      <trkpt lat="22.387009" lon="114.145861">
+        <ele>202.7</ele>
+      </trkpt>
+      <trkpt lat="22.387051" lon="114.146047">
+        <ele>196.8</ele>
+      </trkpt>
+      <trkpt lat="22.387564" lon="114.146303">
+        <ele>198.6</ele>
+      </trkpt>
+      <trkpt lat="22.387869" lon="114.146285">
+        <ele>206.5</ele>
+      </trkpt>
+      <trkpt lat="22.388218" lon="114.146579">
+        <ele>196.1</ele>
+      </trkpt>
+      <trkpt lat="22.388694" lon="114.146505">
+        <ele>205.5</ele>
+      </trkpt>
+      <trkpt lat="22.388998" lon="114.146584">
+        <ele>219.0</ele>
+      </trkpt>
+      <trkpt lat="22.389134" lon="114.146917">
+        <ele>213.1</ele>
+      </trkpt>
+      <trkpt lat="22.389788" lon="114.146513">
+        <ele>212.9</ele>
+      </trkpt>
+      <trkpt lat="22.389775" lon="114.146703">
+        <ele>209.2</ele>
+      </trkpt>
+      <trkpt lat="22.389848" lon="114.14681">
+        <ele>212.9</ele>
+      </trkpt>
+      <trkpt lat="22.389935" lon="114.146664">
+        <ele>223.0</ele>
+      </trkpt>
+      <trkpt lat="22.38998" lon="114.146736">
+        <ele>226.9</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

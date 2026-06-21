@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Wong Shek Tree Walk</name>
+    <time>2026-06-14T12:13:53Z</time>
+  </metadata>
+  <trk>
+    <name>Wong Shek Tree Walk</name>
+    <cmt>黃石樹木研習徑</cmt>
+    <trkseg>
+      <trkpt lat="22.436728" lon="114.333942">
+        <ele>23.1</ele>
+      </trkpt>
+      <trkpt lat="22.436671" lon="114.334297">
+        <ele>39.0</ele>
+      </trkpt>
+      <trkpt lat="22.436191" lon="114.335044">
+        <ele>55.1</ele>
+      </trkpt>
+      <trkpt lat="22.435583" lon="114.335483">
+        <ele>56.0</ele>
+      </trkpt>
+      <trkpt lat="22.435073" lon="114.335386">
+        <ele>53.9</ele>
+      </trkpt>
+      <trkpt lat="22.434478" lon="114.336012">
+        <ele>41.5</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

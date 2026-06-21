@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Hung Mui Kuk Nature Trail</name>
+    <time>2026-06-14T12:13:38Z</time>
+  </metadata>
+  <trk>
+    <name>Hung Mui Kuk Nature Trail</name>
+    <cmt>紅梅谷自然教育徑</cmt>
+    <trkseg>
+      <trkpt lat="22.364036" lon="114.18113">
+        <ele>57.6</ele>
+      </trkpt>
+      <trkpt lat="22.363616" lon="114.181493">
+        <ele>77.9</ele>
+      </trkpt>
+      <trkpt lat="22.363558" lon="114.181431">
+        <ele>81.0</ele>
+      </trkpt>
+      <trkpt lat="22.362968" lon="114.181566">
+        <ele>95.3</ele>
+      </trkpt>
+      <trkpt lat="22.362833" lon="114.181274">
+        <ele>87.5</ele>
+      </trkpt>
+      <trkpt lat="22.362977" lon="114.181032">
+        <ele>85.1</ele>
+      </trkpt>
+      <trkpt lat="22.362973" lon="114.180876">
+        <ele>88.2</ele>
+      </trkpt>
+      <trkpt lat="22.362795" lon="114.180653">
+        <ele>104.6</ele>
+      </trkpt>
+      <trkpt lat="22.362771" lon="114.180469">
+        <ele>107.6</ele>
+      </trkpt>
+      <trkpt lat="22.362468" lon="114.180211">
+        <ele>99.4</ele>
+      </trkpt>
+      <trkpt lat="22.36233" lon="114.179985">
+        <ele>91.9</ele>
+      </trkpt>
+      <trkpt lat="22.362109" lon="114.180023">
+        <ele>96.9</ele>
+      </trkpt>
+      <trkpt lat="22.361804" lon="114.179461">
+        <ele>90.4</ele>
+      </trkpt>
+      <trkpt lat="22.361943" lon="114.17925">
+        <ele>93.5</ele>
+      </trkpt>
+      <trkpt lat="22.361941" lon="114.179109">
+        <ele>96.4</ele>
+      </trkpt>
+      <trkpt lat="22.361769" lon="114.179096">
+        <ele>100.0</ele>
+      </trkpt>
+      <trkpt lat="22.361384" lon="114.178569">
+        <ele>106.7</ele>
+      </trkpt>
+      <trkpt lat="22.361224" lon="114.17822">
+        <ele>107.5</ele>
+      </trkpt>
+      <trkpt lat="22.361052" lon="114.178249">
+        <ele>114.8</ele>
+      </trkpt>
+      <trkpt lat="22.361139" lon="114.178737">
+        <ele>121.6</ele>
+      </trkpt>
+      <trkpt lat="22.361095" lon="114.178875">
+        <ele>124.4</ele>
+      </trkpt>
+      <trkpt lat="22.360811" lon="114.178563">
+        <ele>129.9</ele>
+      </trkpt>
+      <trkpt lat="22.360557" lon="114.17866">
+        <ele>145.7</ele>
+      </trkpt>
+      <trkpt lat="22.360724" lon="114.178791">
+        <ele>143.2</ele>
+      </trkpt>
+      <trkpt lat="22.360543" lon="114.17885">
+        <ele>148.3</ele>
+      </trkpt>
+      <trkpt lat="22.36059" lon="114.178979">
+        <ele>150.2</ele>
+      </trkpt>
+      <trkpt lat="22.360495" lon="114.179419">
+        <ele>146.8</ele>
+      </trkpt>
+      <trkpt lat="22.360686" lon="114.179809">
+        <ele>147.1</ele>
+      </trkpt>
+      <trkpt lat="22.360699" lon="114.180004">
+        <ele>148.3</ele>
+      </trkpt>
+      <trkpt lat="22.360583" lon="114.180648">
+        <ele>146.8</ele>
+      </trkpt>
+      <trkpt lat="22.360212" lon="114.181246">
+        <ele>149.0</ele>
+      </trkpt>
+      <trkpt lat="22.360154" lon="114.181467">
+        <ele>148.4</ele>
+      </trkpt>
+      <trkpt lat="22.360194" lon="114.181577">
+        <ele>149.9</ele>
+      </trkpt>
+      <trkpt lat="22.360371" lon="114.181676">
+        <ele>156.2</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

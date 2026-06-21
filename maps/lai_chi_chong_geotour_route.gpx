@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Lai Chi Chong Geotour Route</name>
+    <time>2026-06-14T12:13:38Z</time>
+  </metadata>
+  <trk>
+    <name>Lai Chi Chong Geotour Route</name>
+    <cmt>荔枝莊地質考察路線</cmt>
+    <trkseg>
+      <trkpt lat="22.456532" lon="114.299614">
+        <ele>3.7</ele>
+      </trkpt>
+      <trkpt lat="22.456619" lon="114.298917">
+        <ele>3.8</ele>
+      </trkpt>
+      <trkpt lat="22.456199" lon="114.298236">
+        <ele>5.8</ele>
+      </trkpt>
+      <trkpt lat="22.456156" lon="114.297123">
+        <ele>3.0</ele>
+      </trkpt>
+      <trkpt lat="22.455854" lon="114.296721">
+        <ele>6.3</ele>
+      </trkpt>
+      <trkpt lat="22.455787" lon="114.296241">
+        <ele>7.0</ele>
+      </trkpt>
+      <trkpt lat="22.455928" lon="114.295766">
+        <ele>3.6</ele>
+      </trkpt>
+      <trkpt lat="22.455905" lon="114.295578">
+        <ele>3.9</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Pottinger Peak Country Trail</name>
+    <time>2026-06-14T12:13:46Z</time>
+  </metadata>
+  <trk>
+    <name>Pottinger Peak Country Trail</name>
+    <cmt>砵甸乍山郊遊徑</cmt>
+    <trkseg>
+      <trkpt lat="22.25598" lon="114.24039">
+        <ele>191.0</ele>
+      </trkpt>
+      <trkpt lat="22.255598" lon="114.241447">
+        <ele>191.0</ele>
+      </trkpt>
+      <trkpt lat="22.25566" lon="114.24164">
+        <ele>188.3</ele>
+      </trkpt>
+      <trkpt lat="22.255598" lon="114.242104">
+        <ele>188.8</ele>
+      </trkpt>
+      <trkpt lat="22.255367" lon="114.242675">
+        <ele>190.1</ele>
+      </trkpt>
+      <trkpt lat="22.255247" lon="114.242738">
+        <ele>189.7</ele>
+      </trkpt>
+      <trkpt lat="22.255151" lon="114.242612">
+        <ele>187.4</ele>
+      </trkpt>
+      <trkpt lat="22.255065" lon="114.24262">
+        <ele>187.9</ele>
+      </trkpt>
+      <trkpt lat="22.254783" lon="114.242697">
+        <ele>186.6</ele>
+      </trkpt>
+      <trkpt lat="22.254514" lon="114.242898">
+        <ele>183.9</ele>
+      </trkpt>
+      <trkpt lat="22.254466" lon="114.243062">
+        <ele>187.1</ele>
+      </trkpt>
+      <trkpt lat="22.254116" lon="114.243435">
+        <ele>185.5</ele>
+      </trkpt>
+      <trkpt lat="22.254112" lon="114.243656">
+        <ele>187.6</ele>
+      </trkpt>
+      <trkpt lat="22.253954" lon="114.24396">
+        <ele>189.2</ele>
+      </trkpt>
+      <trkpt lat="22.253628" lon="114.244098">
+        <ele>185.1</ele>
+      </trkpt>
+      <trkpt lat="22.253487" lon="114.244504">
+        <ele>186.6</ele>
+      </trkpt>
+      <trkpt lat="22.253624" lon="114.244851">
+        <ele>189.8</ele>
+      </trkpt>
+      <trkpt lat="22.253624" lon="114.24513">
+        <ele>190.7</ele>
+      </trkpt>
+      <trkpt lat="22.253499" lon="114.245307">
+        <ele>188.0</ele>
+      </trkpt>
+      <trkpt lat="22.253511" lon="114.245634">
+        <ele>190.9</ele>
+      </trkpt>
+      <trkpt lat="22.253399" lon="114.245808">
+        <ele>187.4</ele>
+      </trkpt>
+      <trkpt lat="22.253318" lon="114.24649">
+        <ele>186.7</ele>
+      </trkpt>
+      <trkpt lat="22.253471" lon="114.246754">
+        <ele>189.8</ele>
+      </trkpt>
+      <trkpt lat="22.253326" lon="114.246945">
+        <ele>187.7</ele>
+      </trkpt>
+      <trkpt lat="22.253396" lon="114.247451">
+        <ele>190.9</ele>
+      </trkpt>
+      <trkpt lat="22.252959" lon="114.247951">
+        <ele>190.9</ele>
+      </trkpt>
+      <trkpt lat="22.252935" lon="114.248325">
+        <ele>195.8</ele>
+      </trkpt>
+      <trkpt lat="22.253034" lon="114.248876">
+        <ele>196.0</ele>
+      </trkpt>
+      <trkpt lat="22.253332" lon="114.24959">
+        <ele>200.0</ele>
+      </trkpt>
+      <trkpt lat="22.253365" lon="114.249883">
+        <ele>202.4</ele>
+      </trkpt>
+      <trkpt lat="22.253775" lon="114.250165">
+        <ele>212.6</ele>
+      </trkpt>
+      <trkpt lat="22.253803" lon="114.250345">
+        <ele>214.8</ele>
+      </trkpt>
+      <trkpt lat="22.254179" lon="114.250807">
+        <ele>229.4</ele>
+      </trkpt>
+      <trkpt lat="22.255209" lon="114.25091">
+        <ele>211.8</ele>
+      </trkpt>
+      <trkpt lat="22.255523" lon="114.251151">
+        <ele>200.6</ele>
+      </trkpt>
+      <trkpt lat="22.25593" lon="114.251329">
+        <ele>189.5</ele>
+      </trkpt>
+      <trkpt lat="22.256455" lon="114.251294">
+        <ele>165.7</ele>
+      </trkpt>
+      <trkpt lat="22.256677" lon="114.251463">
+        <ele>157.3</ele>
+      </trkpt>
+      <trkpt lat="22.256759" lon="114.251634">
+        <ele>157.2</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
